@@ -1,6 +1,6 @@
 ---
 import { Image } from 'astro:assets';
-import heroDevices from '../assets/portfolio/hero-devices.png';
+import heroDevices from '../assets/portfolio/hero-devices-transparent.png';
 import Portfolio from '../layouts/Portfolio.astro';
 import ProjectCard from '../components/ProjectCard.astro';
 import PortfolioContact from '../components/PortfolioContact.astro';
@@ -31,3 +31,4 @@ const process = [
   <section id="process" class="process-section wrap"><div class="section-heading"><div><p class="eyebrow">04 / HOW WE GET THERE</p><h2>A clear process.<br/>From first chat to launch<span class="dot">.</span></h2></div><p>You’ll know what we’re working on, what comes next and where your feedback fits.</p></div><ol class="process-grid">{process.map(([name,description],i)=><li><span class="step-number">0{i+1}<span aria-hidden="true">↗</span></span><h3>{name}</h3><p>{description}</p></li>)}</ol></section>
   <PortfolioContact/>
 </Portfolio>
+
