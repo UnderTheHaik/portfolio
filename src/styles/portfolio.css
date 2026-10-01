@@ -198,8 +198,20 @@
   .location span{
     margin-left:20px
   }
+  .hero-content{
+    display:grid;
+    grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);
+    gap:32px;
+    align-items:center
+  }
+  .hero-visual img{
+    display:block;
+    width:100%;
+    height:auto;
+    border-radius:4px
+  }
   .hero h1{
-    font-size:clamp(3.3rem,7.3vw,7.3rem);
+    font-size:clamp(2.5rem,4.5vw,4.5rem);
     line-height:1.02;
     font-weight:500;
     max-width:1000px
@@ -686,7 +698,7 @@
 @layer responsive {
   @media(min-width:1600px){
     .hero h1{
-      font-size:7.5rem
+      font-size:4.5rem
     }
   }
   @media(max-width:1000px){
@@ -706,7 +718,7 @@
       gap:35px
     }
     .hero h1{
-      font-size:8vw
+      font-size:4.5vw
     }
     .project-shot{
       padding:18px 18px 0
@@ -749,6 +761,10 @@
     }
     .location span{
       margin-left:5px
+    }
+    .hero-content{
+      grid-template-columns:minmax(0,1fr);
+      gap:32px
     }
     .hero h1{
       font-size:clamp(2.35rem,9.7vw,4.7rem);
