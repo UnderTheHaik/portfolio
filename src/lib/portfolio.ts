@@ -25,21 +25,6 @@ export const projects = [
     ],
   },
   {
-    slug: 'haya2', name: 'Haya 2', type: 'E-commerce concept', category: 'Fashion / E-commerce', image: haya, color: 'rose',
-    summary: 'An abaya boutique built around silhouette and detail.',
-    stack: ['WordPress', 'WooCommerce', 'PHP', 'CSS', 'JavaScript'],
-    sections: [
-      ['Context', 'A portfolio boutique concept showcasing abayas through sample products, AED prices and UAE delivery settings. It is not presented as a paying client or a live retail operation.'],
-      ['Problem', 'Fashion imagery needs room to breathe, while customers still need practical information about size, stock and delivery.'],
-      ['Approach', 'Separate everyday, occasion, signature and light-tone collections. Connect editorial imagery to the catalogue, then use product pages and a size guide to support selection.'],
-      ['Design', 'Burgundy, ivory and dark text create a restrained fashion identity. Large serif headings contrast with practical navigation and product labels; tall photography emphasises the garments.'],
-      ['Development', 'A custom WordPress/WooCommerce storefront includes variable products, catalogue filters, coupon settings and UAE shipping. The local demo supports guest checkout and simulated payment outcomes.'],
-      ['Challenges', 'Per-size stock, unavailable variations and shipping thresholds after discounts need clear states. Product images also need consistent proportions without cropping away important garment details.'],
-      ['Result', 'A responsive boutique interface and a working local commerce demo. The public site showcases the design and catalogue; account and checkout services are not available on the static preview. Products and policies are illustrative.'],
-      ['What I learned', 'Editorial presentation and shopping clarity have to work together. Size availability and order details deserve as much attention as the homepage.'],
-    ],
-  },
-  {
     slug: 'sift-and-saffron', name: 'Sift & Saffron', type: 'Business website concept', category: 'Food / Small business', image: bakery, color: 'sand',
     summary: 'A warm bakery website with a clear enquiry journey.',
     stack: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'Sharp'],
@@ -52,6 +37,21 @@ export const projects = [
       ['Challenges', 'The enquiry flow validates dates, guest counts and inspiration images while staying honest about its limits. Selected images remain local, and WhatsApp cannot attach files through a click-to-chat link.'],
       ['Result', 'A multi-page business website with menu details, FAQs and a message preview. No enquiry is sent, no live ordering service is connected and no conversion results are claimed.'],
       ['What I learned', 'Useful business websites answer practical questions early. A clear lead time or delivery explanation can be more helpful than another decorative section.'],
+    ],
+  },
+  {
+    slug: 'haya2', name: 'Haya 2', type: 'E-commerce concept', category: 'Fashion / E-commerce', image: haya, color: 'rose',
+    summary: 'An abaya boutique built around silhouette and detail.',
+    stack: ['WordPress', 'WooCommerce', 'PHP', 'CSS', 'JavaScript'],
+    sections: [
+      ['Context', 'A portfolio boutique concept showcasing abayas through sample products, AED prices and UAE delivery settings. It is not presented as a paying client or a live retail operation.'],
+      ['Problem', 'Fashion imagery needs room to breathe, while customers still need practical information about size, stock and delivery.'],
+      ['Approach', 'Separate everyday, occasion, signature and light-tone collections. Connect editorial imagery to the catalogue, then use product pages and a size guide to support selection.'],
+      ['Design', 'Burgundy, ivory and dark text create a restrained fashion identity. Large serif headings contrast with practical navigation and product labels; tall photography emphasises the garments.'],
+      ['Development', 'A custom WordPress/WooCommerce storefront includes variable products, catalogue filters, coupon settings and UAE shipping. The local demo supports guest checkout and simulated payment outcomes.'],
+      ['Challenges', 'Per-size stock, unavailable variations and shipping thresholds after discounts need clear states. Product images also need consistent proportions without cropping away important garment details.'],
+      ['Result', 'A responsive boutique interface and a working local commerce demo. The public site showcases the design and catalogue; account and checkout services are not available on the static preview. Products and policies are illustrative.'],
+      ['What I learned', 'Editorial presentation and shopping clarity have to work together. Size availability and order details deserve as much attention as the homepage.'],
     ],
   },
   {

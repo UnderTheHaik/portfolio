@@ -9,20 +9,20 @@ const captures = getProjectCaptures(slug);
   <div class="gallery-heading">
     <p class="eyebrow">A CLOSER LOOK</p>
     <h2>On a laptop. On a phone<span class="dot">.</span></h2>
-    <p>Real screenshots of the published website, captured at 1440 × 900 and 390 × 844. Select a screenshot to view it at full size.</p>
+    <p>Real screenshots of the published website at laptop and phone sizes. Labels show the original image dimensions. Select a screenshot to view it at full size.</p>
   </div>
   {captures.map((capture, index) => <section class="capture-row" aria-label={capture.label}>
     <h3>{capture.label}</h3>
     <div class="capture-pair">
       <figure class="laptop-capture">
-        <figcaption><span>Laptop</span><span>1440 × 900</span></figcaption>
+        <figcaption><span>Laptop</span><span>{capture.laptop.width} × {capture.laptop.height}</span></figcaption>
         <a class="laptop-frame" href={capture.laptop.src} aria-label={`Open full-size ${name} ${capture.label.toLowerCase()} laptop screenshot`}>
           <span class="capture-browser" aria-hidden="true"><i></i><i></i><i></i></span>
           <Image src={capture.laptop} alt={`${name}: ${capture.label} on a laptop`} widths={[480,800,1200,1440]} sizes="(max-width: 700px) 66vw, 65vw" format="webp" quality={85} loading={index===0?'eager':'lazy'} fetchpriority={index===0?'high':'auto'}/>
         </a>
       </figure>
       <figure class="phone-capture">
-        <figcaption><span>Phone</span><span>390 × 844</span></figcaption>
+        <figcaption><span>Phone</span><span>{capture.phone.width} × {capture.phone.height}</span></figcaption>
         <a class="phone-frame" href={capture.phone.src} aria-label={`Open full-size ${name} ${capture.label.toLowerCase()} phone screenshot`}>
           <Image src={capture.phone} alt={`${name}: ${capture.label} on a phone`} widths={[195,300,390]} sizes="(max-width: 700px) 20vw, 22vw" format="webp" quality={85} loading="lazy"/>
         </a>

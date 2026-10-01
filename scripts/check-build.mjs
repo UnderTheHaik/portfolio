@@ -1,6 +1,7 @@
 import {readFile,readdir,access} from 'node:fs/promises';
 import path from 'node:path';
 import assert from 'node:assert/strict';
+import sharp from 'sharp';
 const root=path.resolve(process.env.BUILD_DIR||'dist');
 const base=(process.env.BASE_PATH||'').replace(/\/$/,'');
 async function walk(dir){const entries=await readdir(dir,{withFileTypes:true});return (await Promise.all(entries.map(e=>e.isDirectory()?walk(path.join(dir,e.name)):path.join(dir,e.name)))).flat();}
@@ -8,7 +9,23 @@ const files=await walk(root);const html=files.filter(f=>f.endsWith('.html'));
 for(const f of html){const text=await readFile(f,'utf8');assert.match(text,/<title>.+<\/title>/);assert.match(text,/name="description"/);assert.match(text,/rel="canonical"/);for(const [,href] of text.matchAll(/(?:href|src)="([^"#]+)"/g)){if(!href.startsWith('/'))continue;assert.ok(!base||href.startsWith(base+'/'),`Missing base path: ${href}`);const local=decodeURIComponent(href.slice(base.length).split(/[?#]/)[0]);const target=path.join(root,local.endsWith('/')?`${local}index.html`:local);await access(target).catch(()=>{throw Error(`Broken local link in ${f}: ${href}`);});}}
 for(const name of ['rss.xml','sitemap-index.xml','robots.txt'])await access(path.join(root,name));
 const home=await readFile(path.join(root,'index.html'),'utf8');assert.ok(home.includes('Websites designed'));assert.ok(home.includes('for your business'));assert.ok(!home.includes('senior developer'));assert.ok(!home.includes('Transforming ideas into digital experiences'));
-for(const slug of ['nisma','haya2','sift-and-saffron','les-mots-dun-montagnard','underthehaik','personalized-perfume','crumb-and-cup']){const study=await readFile(path.join(root,'work',slug,'index.html'),'utf8');for(const heading of ['Context','Problem','Approach','Design','Development','Challenges','Result','What I learned'])assert.ok(study.includes(`<h2>${heading}</h2>`),`${slug}: missing ${heading}`);assert.match(study,/srcset="/);assert.equal((study.match(/class="capture-pair"/g)||[]).length,3,`${slug}: expected three screenshot pairs`);assert.ok(study.includes("390 × 844"));}
+for(const slug of ['nisma','haya2','sift-and-saffron','les-mots-dun-montagnard','underthehaik','personalized-perfume','crumb-and-cup']){
+ const study=await readFile(path.join(root,'work',slug,'index.html'),'utf8');
+ for(const heading of ['Context','Problem','Approach','Design','Development','Challenges','Result','What I learned'])assert.ok(study.includes(`<h2>${heading}</h2>`),`${slug}: missing ${heading}`);
+ assert.match(study,/srcset="/);
+ assert.equal((study.match(/class="capture-pair"/g)||[]).length,3,`${slug}: expected three screenshot pairs`);
+ const labels=[...study.matchAll(/<figcaption><span>(Laptop|Phone)<\/span><span>(\d+) × (\d+)<\/span><\/figcaption>\s*<a[^>]*href="([^"]+)"/g)];
+ assert.equal(labels.length,6,`${slug}: expected six dimension labels`);
+ for(const [,device,width,height,href] of labels){
+  const image=path.join(root,decodeURIComponent(href.slice(base.length)));
+  const metadata=await sharp(image).metadata();
+  assert.equal(Number(width),metadata.width,`${slug} ${device}: incorrect width label`);
+  assert.equal(Number(height),metadata.height,`${slug} ${device}: incorrect height label`);
+ }
+}
+assert.ok(home.includes('Hi, I’m ken.lou'));
+const projectOrder=[...home.matchAll(/aria-label="Read ([^"]+) case study"/g)].map(match=>match[1]);
+assert.deepEqual(projectOrder.slice(0,3),['Nisma','Sift &amp; Saffron','Haya 2']);
 assert.ok(home.includes('Contact details coming soon.'));assert.ok(!home.includes('href="https://wa.me/"'));
 console.log(`Checked ${html.length} HTML pages: metadata, local links/assets, base paths, homepage copy, RSS, sitemap, and robots file.`);
 for(const page of ['index.html','essays/index.html','categories/index.html','about/index.html','contact/index.html','privacy/index.html','essays/who-owns-the-book/index.html']){const content=await readFile(path.join(root,'fr',page),'utf8');assert.match(content,/<html lang="fr"/);assert.ok(content.includes('Mode sombre'));assert.ok(content.includes('Accueil'));}
