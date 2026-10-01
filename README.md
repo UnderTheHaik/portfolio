@@ -1,6 +1,6 @@
 # Under the Haik — Freelance portfolio
 
-A Dubai-based web design and development portfolio built with Astro, TypeScript and CSS. The homepage features five projects, seven services, a technical-background section, a six-step process and WhatsApp-first contact. Each project has its own case study at `/work/<slug>/`.
+A Dubai-based web design and development portfolio built with Astro, TypeScript and CSS. The homepage features seven projects, seven services, a technical-background section, a six-step process and WhatsApp-first contact. Each project has its own case study at `/work/<slug>/`.
 
 Concepts, family projects and personal work are labelled explicitly. The copy makes no seniority, paid-client, testimonial, revenue or years-of-experience claims. Public WooCommerce showcases are clearly described as static previews.
 

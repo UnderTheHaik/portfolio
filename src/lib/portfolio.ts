@@ -3,6 +3,8 @@ import haya from '../assets/portfolio/haya2.jpg';
 import bakery from '../assets/portfolio/sift-and-saffron.jpg';
 import poetry from '../assets/portfolio/les-mots-dun-montagnard.jpg';
 import journal from '../assets/portfolio/underthehaik.jpg';
+import perfume from '../assets/portfolio/personalized-perfume.jpg';
+import cafe from '../assets/portfolio/crumb-and-cup.jpg';
 
 // Leave these blank until the owner supplies verified contact details.
 export const contact = { whatsapp: '', email: '' };
@@ -80,6 +82,36 @@ export const projects = [
       ['Challenges', 'Translations, article metadata and image sources need to remain aligned as the journal grows. Reading layouts must also work with long titles and different image proportions.'],
       ['Result', 'A published bilingual journal with essay and category pages, responsive imagery and a repeatable content workflow. Some editorial illustrations are AI-generated and identified in the journal documentation.'],
       ['What I learned', 'A content website needs a maintainable publishing workflow as much as a strong homepage. Shared layouts and structured metadata make future updates more reliable.'],
+    ],
+  },
+  {
+    slug: 'personalized-perfume', name: 'Personalized Perfume', type: 'Storefront concept', category: 'Fragrance / Customisation', image: perfume, color: 'sand',
+    summary: 'A fragrance storefront with a personal scent-building journey.',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    sections: [
+      ['Context', 'A portfolio showcase for a bespoke fragrance studio concept set in Bur Dubai. The collection, prices and studio story are illustrative; this is not presented as a commercial client engagement.'],
+      ['Problem', 'Visitors need to explore signature fragrances and understand how to personalise a scent, with a clear distinction between ready-made products and custom choices.'],
+      ['Approach', 'Separate the collection, personalisation, story and visit information into dedicated routes. Product cards pair scent notes with bottle sizes, while a separate journey introduces composing a personal fragrance.'],
+      ['Design', 'Warm ivory, dark brown and muted gold create a restrained fragrance identity. Italiana headings contrast with DM Sans interface text; bottle photography and generous spacing keep the products prominent.'],
+      ['Development', 'Static HTML routes share CSS and vanilla JavaScript. The script renders product cards, filters fragrance families, updates AED prices for bottle sizes and stages selections in a preview shopping bag.'],
+      ['Challenges', 'Size-dependent prices and product selections need to stay consistent between catalogue cards and the bag. Customisation also needs understandable choices and a clear boundary between a preview and a real order.'],
+      ['Result', 'A published multi-page fragrance showcase with a signature collection, personalisation route and shopping-bag preview. Interactions do not submit orders or process payments; no business performance is claimed.'],
+      ['What I learned', 'Personalisation needs a clear structure. Separating signature products from custom choices makes the journey easier to understand and the interface easier to maintain.'],
+    ],
+  },
+  {
+    slug: 'crumb-and-cup', name: 'Crumb & Cup', type: 'Café website concept', category: 'Hospitality / Small business', image: cafe, color: 'cream',
+    summary: 'A neighbourhood café website centred on the menu and the visit.',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    sections: [
+      ['Context', 'A portfolio concept imagining a neighbourhood café and bakery in Dubai DMCC. The menu, prices and café story are illustrative, not evidence of a client business or operating venue.'],
+      ['Problem', 'A café website should make it simple to browse food and drinks, understand the atmosphere and find visit information without a complicated interface.'],
+      ['Approach', 'Use a single-page structure connecting the menu, café story and visit section. Divide the menu into pastries, coffee and breakfast so visitors can quickly explore the offering.'],
+      ['Design', 'Cream, cocoa and rust colours support the warm café photography. Playfair Display-style serif headings and DM Sans body text establish an approachable identity, with large images and readable menu descriptions.'],
+      ['Development', 'Semantic HTML and responsive CSS provide the page structure. Vanilla JavaScript updates a shared menu panel from structured records. Menu tabs expose selected states and support arrow keys, Home and End for keyboard navigation.'],
+      ['Challenges', 'Changing menu categories must keep the selected tab, keyboard focus and panel label aligned. The layout also needs to balance atmospheric photography with practical descriptions and AED prices on small screens.'],
+      ['Result', 'A published café showcase with three menu categories, a story section and a neighbourhood map link. The map points to the DMCC area rather than a verified café address. No ordering or payment service is connected.'],
+      ['What I learned', 'A small hospitality site benefits from a focused structure. Accessible category controls and useful visit information make the visual identity easier to put to use.'],
     ],
   },
 ];
