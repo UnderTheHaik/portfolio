@@ -936,3 +936,62 @@
     }
   }
 }
+@layer components {
+  .project-shot { padding-bottom:24px; }
+  .featured-project .project-shot > img { aspect-ratio:1440/900; }
+  .phone-preview {
+    position:absolute;
+    right:4%;
+    bottom:15px;
+    width:21%;
+    padding:4px;
+    border:1px solid #676b60;
+    border-radius:12px;
+    background:var(--ink);
+    overflow:hidden;
+    box-shadow:0 6px 18px #00000024;
+  }
+  .featured-project .phone-preview { width:16%; }
+  .project-shot .phone-preview img,
+  .featured-project .project-shot .phone-preview img {
+    width:100%;
+    height:auto;
+    aspect-ratio:auto;
+    border:0;
+    border-radius:7px;
+    object-fit:contain;
+  }
+  .screenshots-link {
+    display:inline-flex;
+    gap:15px;
+    margin-top:14px;
+    font-size:.75rem;
+    color:var(--ink);
+    border-bottom:1px solid var(--line);
+  }
+  .project-gallery { padding-top:65px; }
+  .gallery-heading h2 { margin-block:16px 20px; }
+  .gallery-heading > p:last-child { max-width:630px; font-size:.88rem; }
+  .capture-row { margin-top:45px; padding-top:25px; border-top:1px solid var(--line); }
+  .capture-row > h3 { margin-bottom:25px; font-size:1.3rem; }
+  .capture-pair { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,.28fr); gap:30px; align-items:start; }
+  .capture-pair figcaption { display:flex; justify-content:space-between; gap:5px; font-size:.7rem; margin-bottom:12px; color:var(--muted); }
+  .capture-pair figcaption > span:first-child { font-weight:600; color:var(--ink); }
+  .laptop-frame { display:block; overflow:hidden; border:1px solid var(--line); border-radius:8px; background:white; }
+  .capture-browser { display:flex; gap:5px; padding:10px 12px; background:#e9e9e3; }
+  .capture-browser i { width:5px; height:5px; background:#9a9e91; border-radius:50%; }
+  .phone-frame { display:block; padding:6px; border:1px solid #676b60; border-radius:22px; background:var(--ink); overflow:hidden; }
+  .phone-frame img { border-radius:15px; }
+  .capture-pair img { width:100%; height:auto; }
+  @media(max-width:700px) {
+    .project-gallery { padding-top:40px; }
+    .capture-pair { gap:14px; grid-template-columns:minmax(0,1fr) minmax(0,.4fr); }
+    .capture-pair figcaption { font-size:.6rem; }
+    .capture-pair figcaption > span:last-child { display:none; }
+    .phone-frame { padding:3px; border-radius:12px; }
+    .phone-frame img { border-radius:8px; }
+    .capture-browser { padding:6px 8px; }
+    .featured-project .phone-preview { width:21%; }
+    .capture-row { margin-top:30px; }
+  }
+}

@@ -27,7 +27,8 @@ On this machine, `work/portfolio-publish/` is the source checkout and `work/port
 2. Import the screenshot in `src/lib/portfolio.ts` and add a record to `projects`. Supply `slug`, `name`, `type`, `category`, `image`, `color`, `summary`, `stack` and `sections`. Colours available: `sage`, `rose`, `sand`, `blue`, `cream`.
 3. Include all eight sections: Context, Problem, Approach, Design, Development, Challenges, Result, What I learned. Describe verified work and limits. Label concepts as concepts and do not claim client relationships or performance without evidence.
 4. The homepage card and `/work/<slug>/` page are generated automatically, as is the next-project link. The first record is featured. The current visit-site URL uses `https://underthehaik.github.io/<slug>/`; if a new project is hosted elsewhere, add a `liveUrl` field to all records and update the link in `src/pages/work/[slug].astro` to use it.
-5. Add the slug to the case-study list in `scripts/check-build.mjs`, then run the checks above. Review the homepage and case study on a narrow phone viewport and desktop, including keyboard navigation, image loading, long titles and links.
+5. Capture three pages at laptop (1440 × 900) and phone (390 × 844) viewport sizes. Save screenshots in `src/assets/portfolio/captures/` as `<slug>--<page>--laptop.jpg` and `<slug>--<page>--phone.jpg`. Use `home` for the first page key. Add the page keys and readable labels to `src/lib/project-captures.ts`; the homepage gets a paired device preview and the case study gets a three-page gallery automatically. Single-page sites can use sections instead of separate pages. Let visible images finish loading before capture and retain the website's actual responsive layout.
+6. Add the slug to the case-study list in `scripts/check-build.mjs`, then run the checks above. Review the homepage and case study on a narrow phone viewport and desktop, including keyboard navigation, image loading, long titles and links. Verify full-size screenshot links.
 
 ## Connect contact details later
 
@@ -41,6 +42,7 @@ Edit the shared `contact` object in `src/lib/portfolio.ts`. Leave empty values u
 - `src/layouts/Portfolio.astro`: portfolio navigation, page metadata, social previews and structured data.
 - `src/styles/portfolio.css`: isolated styling, colours, responsive layouts, focus and reduced-motion support.
 - `src/components/ProjectCard.astro` and `PortfolioContact.astro`: shared cards and contact presentation.
+- `src/components/ProjectGallery.astro` and `src/lib/project-captures.ts`: labelled laptop/phone screenshot pairs for three pages or sections per project. Screenshots are real published-site captures; displayed device frames are CSS, not simulated responsive designs.
 
 The portfolio uses local system fonts and static HTML with no client JavaScript. Images load lazily on the homepage; the case-study screenshot loads eagerly. Navigation stays visible on small screens without a JavaScript menu. Skip links, clear headings, visible keyboard focus and reduced-motion support are included. Canonical and Open Graph metadata, RSS, robots and a generated sitemap are available. Lighthouse scores have not been asserted; audit the final host before launch.
 
