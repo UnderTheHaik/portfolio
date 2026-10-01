@@ -1,0 +1,1 @@
+{"extends":"astro/tsconfigs/strict","include":[".astro/types.d.ts","src/**/*","astro.config.mjs"],"exclude":["dist","work","outputs","bakery-concept","shop","nisma-store"]}

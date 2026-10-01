@@ -1,0 +1,15 @@
+---
+import { Image } from 'astro:assets';
+import { url } from '../lib/content';
+import { projects } from '../lib/portfolio';
+interface Props { project: typeof projects[number]; index: number; }
+const {project, index} = Astro.props;
+---
+<article class:list={['project-card',project.color,{'featured-project':index===0}]}>
+  <a class="project-shot" href={url(`work/${project.slug}/`)} aria-label={`Read ${project.name} case study`}>
+    <span class="browser-strip" aria-hidden="true"><i></i><i></i><i></i><span>{project.name.toLowerCase()}</span></span>
+    <Image src={project.image} alt={`${project.name} website homepage screenshot`} widths={[480,800,1200,1600]} sizes={index===0?'(max-width: 700px) 92vw, 88vw':'(max-width: 700px) 92vw, 44vw'} format="webp" quality={82} loading="lazy"/>
+    <span class="shot-cta" aria-hidden="true">View case study ↗</span>
+  </a>
+  <div class="project-details"><div><p class="eyebrow">{project.category}</p><h3><a href={url(`work/${project.slug}/`)}>{project.name}<span aria-hidden="true">↗</span></a></h3><p>{project.summary}</p></div><span class="project-type">{project.type}</span></div>
+</article>
