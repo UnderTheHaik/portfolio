@@ -5,6 +5,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 );
 
 const pages: Record<string, [string, string][]> = {
+  'noura-beauty-house': [['home', 'Homepage'], ['services', 'Service catalogue'], ['book', 'Appointment planner']],
   'second-story': [['home', 'Homepage'], ['collection', 'The collection'], ['sell', 'Selling and home valuations']],
   nisma: [['home', 'Homepage'], ['shop', 'Shop catalogue'], ['collections', 'Collections']],
   haya2: [['home', 'Homepage'], ['shop', 'Abaya catalogue'], ['sizing', 'Size guide']],

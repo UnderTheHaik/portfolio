@@ -1,3 +1,4 @@
+import nouraBeauty from '../assets/portfolio/captures/noura-beauty-house--home--laptop.jpg';
 import secondStory from '../assets/portfolio/captures/second-story--home--laptop.jpg';
 import nisma from '../assets/portfolio/nisma.jpg';
 import haya from '../assets/portfolio/haya2.jpg';
@@ -129,6 +130,22 @@ export const projects = [
       ['Challenges', 'The buying and selling journeys need equal clarity without suggesting live stock or a connected booking service. The collection imagery is illustrative, and home visits are described as arranged in advance rather than automatically booked.'],
       ['Result', 'A complete responsive five-page showcase, including clothes, shoes and jewellery collections, responsible shopping guidance and home valuation information. The public demo lets visitors explore the design; no payments, booking or enquiries are submitted.'],
       ['What I learned', 'A resale business website needs to explain how pieces enter the store as clearly as how shoppers discover them. Practical valuation information gives the brand message a useful next step.'],
+    ],
+  },
+  {
+    slug: 'noura-beauty-house', name: 'Noura Beauty House', type: 'Salon website concept', category: 'Beauty / Services', image: nouraBeauty, color: 'sand',
+    summary: 'A women-only Dubai salon concept with personalised beauty and home visit planning.',
+    demoPath: 'demos/noura-beauty-house/',
+    stack: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'Sharp'],
+    sections: [
+      ['Context', 'A fictional women-only salon in Dubai, created as a portfolio project. Service prices, packages, specialist names and example reviews are illustrative; no real salon or client engagement is claimed.'],
+      ['Problem', 'A broad beauty menu needs to stay easy to browse, while colour, bridal and home appointments require a more personal plan than a fixed-price list. Visitors also need to understand travel fees and what happens after requesting a visit.'],
+      ['Approach', 'Create seven routes for the homepage, services, home beauty, bridal, story, personalised looks and appointments. Keep the full catalogue off the homepage, group treatments by category and show starting prices wherever the final scope depends on a consultation.'],
+      ['Design', 'Warm brown, ivory and restrained clay accents support a calm salon identity. Cormorant Garamond headings pair with Manrope body text, while supplied salon and treatment photographs carry the atmosphere. The visual story centres on personal care and an unhurried experience.'],
+      ['Development', 'Semantic HTML and shared CSS provide the responsive pages. JavaScript filters the service catalogue, opens accessible service dialogs, calculates neighbourhood travel fees and manages a three-step appointment preview. Conditional quote questions adapt to hair, bridal and home services. Sharp optimises the supplied images into WebP assets.'],
+      ['Challenges', 'Personalised prices and home fees must stay clear as visitors change their choices. Hidden form fields are disabled, uploaded inspiration images remain local and user-entered text is rendered safely. Dates and times are preferences, with no claim of live availability.'],
+      ['Result', 'A complete salon showcase with 72 services, six packages, detailed service information, a home visit fee calculator, bridal content and downloadable request previews. No booking, enquiry, payment or photo upload is sent to a salon. The public demo makes these limits explicit.'],
+      ['What I learned', 'Service businesses need more than a polished homepage. Clear price boundaries, preparation details and a personal planning flow make a complex offering easier to understand.'],
     ],
   },
 ];
