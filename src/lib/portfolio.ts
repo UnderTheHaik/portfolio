@@ -1,3 +1,4 @@
+import secondStory from '../assets/portfolio/captures/second-story--home--laptop.jpg';
 import nisma from '../assets/portfolio/nisma.jpg';
 import haya from '../assets/portfolio/haya2.jpg';
 import bakery from '../assets/portfolio/sift-and-saffron.jpg';
@@ -112,6 +113,22 @@ export const projects = [
       ['Challenges', 'Changing menu categories must keep the selected tab, keyboard focus and panel label aligned. The layout also needs to balance atmospheric photography with practical descriptions and AED prices on small screens.'],
       ['Result', 'A published café showcase with three menu categories, a story section and a neighbourhood map link. The map points to the DMCC area rather than a verified café address. No ordering or payment service is connected.'],
       ['What I learned', 'A small hospitality site benefits from a focused structure. Accessible category controls and useful visit information make the visual identity easier to put to use.'],
+    ],
+  },
+  {
+    slug: 'second-story', name: 'Second Story', type: 'Thrift store website concept', category: 'Fashion / Secondhand', image: secondStory, color: 'rose',
+    summary: 'A photo-led thrift store website that connects buying, selling and responsible shopping.',
+    demoPath: 'demos/second-story/',
+    stack: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'Sharp'],
+    sections: [
+      ['Context', 'A portfolio concept for a store that buys and sells secondhand clothes, shoes and jewellery. Second Story is a suggested brand name; no operating business or client engagement is claimed.'],
+      ['Problem', 'Visitors need to understand both sides of the store: discovering secondhand finds and selling pieces they no longer wear. Larger wardrobe clear-outs also need a clear explanation of home valuations.'],
+      ['Approach', 'Connect five pages: the homepage, collections, store story, responsible shopping and selling items. The selling page explains preparation, assessment and the decision to accept an offer, with a dedicated home valuation section.'],
+      ['Design', 'Deep burgundy, warm paper tones and serif headings give the store an editorial identity. Supplied Unsplash photography shows denim, shoes, jewellery and thrift store interiors; the responsive layout puts these images alongside practical information.'],
+      ['Development', 'Static HTML pages share responsive CSS and a small navigation script. Sharp converts the supplied photographs into local WebP assets. Semantic details elements provide accessible FAQs on the selling page.'],
+      ['Challenges', 'The buying and selling journeys need equal clarity without suggesting live stock or a connected booking service. The collection imagery is illustrative, and home visits are described as arranged in advance rather than automatically booked.'],
+      ['Result', 'A complete responsive five-page showcase, including clothes, shoes and jewellery collections, responsible shopping guidance and home valuation information. The public demo lets visitors explore the design; no payments, booking or enquiries are submitted.'],
+      ['What I learned', 'A resale business website needs to explain how pieces enter the store as clearly as how shoppers discover them. Practical valuation information gives the brand message a useful next step.'],
     ],
   },
 ];
