@@ -1,0 +1,43 @@
+---
+import ProjectCard from './ProjectCard.astro';
+import type { projects as allProjects } from '../lib/portfolio';
+interface Props { projects: typeof allProjects; }
+const { projects } = Astro.props;
+---
+<div class="project-carousel" role="region" aria-roledescription="carousel" aria-label="Website examples">
+  <div class="carousel-controls">
+    <p>Explore the projects <span aria-hidden="true">↔</span></p>
+    <div><span class="carousel-count" aria-live="polite">1 / {projects.length}</span><button type="button" data-direction="-1" aria-label="Previous project" disabled>←</button><button type="button" data-direction="1" aria-label="Next project">→</button></div>
+  </div>
+  <div class="carousel-track" tabindex="0" aria-label="Project cards — swipe or use the arrow buttons">
+    {projects.map((project,index) => <ProjectCard project={project} index={index}/>)}
+  </div>
+</div>
+<script>
+  document.querySelectorAll<HTMLElement>('.project-carousel').forEach(carousel => {
+    const track = carousel.querySelector<HTMLElement>('.carousel-track')!;
+    const cards = [...track.querySelectorAll<HTMLElement>('.project-card')];
+    const buttons = [...carousel.querySelectorAll<HTMLButtonElement>('button[data-direction]')];
+    const count = carousel.querySelector('.carousel-count')!;
+    const reduce = window.matchMedia('(prefers-reduced-motion: reduce)');
+    let current = 0;
+    const update = () => {
+      current = cards.reduce((best,card,i) => Math.abs(card.offsetLeft - cards[0].offsetLeft - track.scrollLeft) < Math.abs(cards[best].offsetLeft - cards[0].offsetLeft - track.scrollLeft) ? i : best, 0);
+      count.textContent = `${current + 1} / ${cards.length}`;
+      buttons[0].disabled = track.scrollLeft < 4;
+      buttons[1].disabled = track.scrollLeft >= track.scrollWidth - track.clientWidth - 4;
+    };
+    const move = (direction: number) => {
+      const target = Math.max(0,Math.min(cards.length-1,current+direction));
+      track.scrollTo({left: cards[target].offsetLeft-cards[0].offsetLeft, behavior:reduce.matches?'instant':'smooth'});
+    };
+    buttons.forEach(button => button.addEventListener('click',() => move(Number(button.dataset.direction))));
+    track.addEventListener('scroll',update,{passive:true});
+    track.addEventListener('keydown',event => {
+      if(event.target !== track) return;
+      if(event.key === 'ArrowRight' || event.key === 'ArrowLeft') { event.preventDefault(); move(event.key === 'ArrowRight'?1:-1); }
+    });
+    new ResizeObserver(update).observe(track);
+    update();
+  });
+</script>

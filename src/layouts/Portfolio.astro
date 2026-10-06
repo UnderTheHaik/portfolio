@@ -30,3 +30,25 @@ const nav = ['Work', 'Services', 'About', 'Process', 'Contact'];
   <footer class="site-footer wrap"><a class="footer-brand" href={url()}><Image class="footer-logo" src={logo} alt="" width={48} height={48} widths={[48,96]} sizes="48px" format="webp" loading="lazy"/><span>under the haik<span class="dot">.</span></span></a><p>Independent web & visual design · Dubai, UAE</p><div><span>© {new Date().getFullYear()} Under the Haik</span><a href={`${url()}#work`}>Back to work ↑</a></div></footer>
 </body>
 </html>
+<script>
+  const motion = matchMedia('(prefers-reduced-motion: reduce)');
+  const mouse = matchMedia('(hover: hover) and (pointer: fine)');
+  const cards = [...document.querySelectorAll<HTMLElement>('.carousel-track .project-card')];
+  let frame = 0;
+  window.addEventListener('pointermove',event => {
+    if(motion.matches || !mouse.matches) return;
+    cancelAnimationFrame(frame);
+    frame = requestAnimationFrame(() => {
+      cards.forEach(card => {
+        const rect = card.getBoundingClientRect();
+        const dx = Math.max(rect.left-event.clientX,0,event.clientX-rect.right);
+        const dy = Math.max(rect.top-event.clientY,0,event.clientY-rect.bottom);
+        const proximity = Math.max(0,1-Math.hypot(dx,dy)/180);
+        card.style.setProperty('--near-scale',String(1+proximity*.025));
+      });
+    });
+  },{passive:true});
+  const reset = () => cards.forEach(card => card.style.removeProperty('--near-scale'));
+  document.documentElement.addEventListener('pointerleave',reset);
+  motion.addEventListener('change',reset);
+</script>
