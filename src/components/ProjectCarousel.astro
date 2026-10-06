@@ -7,7 +7,7 @@ const { projects } = Astro.props;
 <div class="project-carousel" role="region" aria-roledescription="carousel" aria-label="Website examples">
   <div class="carousel-controls">
     <p>Explore the projects <span aria-hidden="true">↔</span></p>
-    <div><span class="carousel-count" aria-live="polite">1 / {projects.length}</span><button type="button" data-direction="-1" aria-label="Previous project" disabled>←</button><button type="button" data-direction="1" aria-label="Next project">→</button></div>
+    <div><span class="carousel-count" aria-live="polite">1 / {projects.length}</span><button type="button" data-direction="-1" aria-label="Previous project" disabled><span aria-hidden="true">←</span> Previous</button><button type="button" data-direction="1" aria-label="Next project">Next <span aria-hidden="true">→</span></button></div>
   </div>
   <div class="carousel-track" tabindex="0" aria-label="Project cards — swipe or use the arrow buttons">
     {projects.map((project,index) => <ProjectCard project={project} index={index}/>)}

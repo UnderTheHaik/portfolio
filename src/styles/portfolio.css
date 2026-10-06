@@ -1056,9 +1056,10 @@
   .carousel-controls > p { font-size:.8rem; }
   .carousel-controls > div { display:flex; align-items:center; gap:10px; }
   .carousel-count { font-size:.75rem; min-width:45px; font-variant-numeric:tabular-nums; }
-  .carousel-controls button { width:44px; height:44px; border:1px solid var(--line); border-radius:50%; background:transparent; color:var(--ink); font-size:1.2rem; cursor:pointer; transition:background .2s,transform .2s; }
-  .carousel-controls button:hover:not(:disabled) { background:var(--green); transform:translateY(-2px); }
-  .carousel-controls button:disabled { opacity:.3; cursor:default; }
+  .carousel-controls button { display:inline-flex; align-items:center; justify-content:center; gap:12px; min-height:48px; padding:10px 20px; border:1px solid var(--ink); border-radius:6px; background:var(--ink); color:var(--paper); font-size:.85rem; font-weight:600; cursor:pointer; transition:background .2s,transform .2s; }
+  .carousel-controls button span { font-size:1.3rem; line-height:1; }
+  .carousel-controls button:hover:not(:disabled) { background:var(--rust); transform:translateY(-2px); }
+  .carousel-controls button:disabled { background:transparent; color:var(--muted); border-color:var(--line); cursor:default; }
   .carousel-track { position:relative; display:flex; gap:32px; overflow-x:auto; scroll-snap-type:x mandatory; scroll-padding-inline:20px; padding:24px 20px 30px; margin-inline:-20px; scrollbar-width:thin; scrollbar-color:#a5ad99 transparent; }
   .carousel-track .project-card { flex:0 0 72%; min-width:0; scroll-snap-align:start; transform:scale(var(--near-scale,1)); transition:transform .3s ease; transform-origin:center; }
   .carousel-track .project-shot,.carousel-track .featured-project .project-shot { padding:28px 28px 24px; }
@@ -1071,7 +1072,9 @@
     .carousel-track .project-card { flex-basis:91%; }
     .carousel-track .project-shot,.carousel-track .featured-project .project-shot { padding:18px 18px 24px; }
     .carousel-track .project-details { flex-wrap:wrap; }
+    .carousel-controls { flex-wrap:wrap; gap:12px; }
     .carousel-controls > p { font-size:.7rem; }
+    .carousel-controls button { padding:10px 14px; gap:8px; font-size:.78rem; }
   }
 }
 @media(prefers-reduced-motion:no-preference) {
