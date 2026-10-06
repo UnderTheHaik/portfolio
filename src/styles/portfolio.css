@@ -1079,6 +1079,8 @@
 }
 @media(prefers-reduced-motion:no-preference) {
   .hero-visual img,.identity-board img,.brand-logos img,.brand-icon,.footer-logo { animation:portfolio-float 7s ease-in-out infinite; }
+  .hero-visual img { animation:hero-float 3.2s ease-in-out infinite; }
+  @keyframes hero-float { 0%,100% { translate:0 0; } 50% { translate:0 -18px; } }
   .project-shot > img,.browser-strip { animation:portfolio-float 7s ease-in-out infinite; }
   .phone-preview { animation:portfolio-float 6s ease-in-out -3s infinite; }
   .capture-pair .laptop-frame { animation:portfolio-float 8s ease-in-out infinite; }
