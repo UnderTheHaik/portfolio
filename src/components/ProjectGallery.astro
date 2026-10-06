@@ -1,16 +1,19 @@
 ---
 import { Image } from 'astro:assets';
+import { projects } from '../lib/portfolio';
 import { getProjectCaptures } from '../lib/project-captures';
 interface Props { slug: string; name: string; }
 const { slug, name } = Astro.props;
 const captures = getProjectCaptures(slug);
+const project = projects.find(project => project.slug === slug);
 ---
 <section class="project-gallery" id="screenshots" aria-labelledby="gallery-heading">
   <div class="gallery-heading">
     <p class="eyebrow">A CLOSER LOOK</p>
-    <h2>On a laptop. On a phone<span class="dot">.</span></h2>
-    <p>Real screenshots of the published website at laptop and phone sizes. Labels show the original image dimensions. Select a screenshot to view it at full size.</p>
+    <h2>{captures.length ? 'On a laptop. On a phone' : 'The website in view'}<span class="dot">.</span></h2>
+    <p>{captures.length ? 'Real screenshots of the published website at laptop and phone sizes. Labels show the original image dimensions. Select a screenshot to view it at full size.' : 'A real homepage capture of the community concept. Visit the demo to explore the gatherings, community, photo journal and joining pages.'}</p>
   </div>
+  {!captures.length && project && <figure class="capture-row"><Image src={project.image} alt={`${name} community website homepage`} widths={[480,800,1200,1440]} sizes="88vw" format="webp" loading="eager"/></figure>}
   {captures.map((capture, index) => <section class="capture-row" aria-label={capture.label}>
     <h3>{capture.label}</h3>
     <div class="capture-pair">

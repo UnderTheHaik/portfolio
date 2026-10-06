@@ -4,14 +4,18 @@ import PortfolioContact from '../../components/PortfolioContact.astro';
 import ProjectGallery from '../../components/ProjectGallery.astro';
 import { projects } from '../../lib/portfolio';
 import { url } from '../../lib/content';
+import { identities } from '../../lib/identities';
+import BrandIdentity from '../../components/BrandIdentity.astro';
 export function getStaticPaths(){return projects.map((project,index)=>({params:{slug:project.slug},props:{project,index}}));}
 const {project,index} = Astro.props;
 const next = projects[(index+1)%projects.length];
+const identity = identities[project.slug];
+const design = project.sections.find(([heading]) => heading === 'Design')?.[1];
 ---
-<Portfolio title={`${project.name} — Case study`} description={`${project.summary} ${project.type}. Explore the context, design and development of this portfolio project.`} image={project.image.src}>
-  <article class="case-study wrap"><a class="text-link case-back" href={`${url()}#work`}>← Back to selected work</a><header class="case-header"><p class="eyebrow">{project.category}</p><h1>{project.name}<span class="dot">.</span></h1><div class="case-lead"><p>{project.summary}</p><span class="project-type">{project.type}</span></div><div class="case-meta"><div><span class="eyebrow">TECHNOLOGIES</span><p>{project.stack.join(' · ')}</p></div><a class="button" href={'demoPath' in project ? url(project.demoPath as string) : `https://underthehaik.github.io/${project.slug}/`}>Visit website <span aria-hidden="true">↗</span></a></div></header>
+<Portfolio title={`${project.name} — Case study`} description={`${project.summary} ${project.type}. Explore the branding, colour theme and visual identity of this portfolio project.`} image={project.image.src}>
+  <article class="case-study wrap"><a class="text-link case-back" href={`${url()}#work`}>← Back to selected work</a><header class="case-header"><p class="eyebrow">{project.category}</p><h1>{project.name}<span class="dot">.</span></h1><div class="case-lead"><p>{project.summary}</p><span class="project-type">{project.type}</span></div><div class="case-meta"><div><span class="eyebrow">PROJECT</span><p>{project.type}</p></div><a class="button" href={'demoPath' in project ? url(project.demoPath as string) : `https://underthehaik.github.io/${project.slug}/`}>Visit website <span aria-hidden="true">↗</span></a></div></header>
   <ProjectGallery slug={project.slug} name={project.name}/>
-  <div class="case-body"><aside><p class="eyebrow">INSIDE THE PROJECT</p><nav aria-label="Case study sections"><a href="#screenshots">Pages & device views</a>{project.sections.map(([heading])=><a href={`#${heading.toLowerCase().replaceAll(' ','-')}`}>{heading}</a>)}</nav></aside><div>{project.sections.map(([heading,body],i)=><section id={heading.toLowerCase().replaceAll(' ','-')}><span class="eyebrow">0{i+1}</span><h2>{heading}</h2><p>{body}</p></section>)}</div></div>
+  <div class="case-body"><aside><p class="eyebrow">THE VISUAL IDENTITY</p><nav aria-label="Project identity sections"><a href="#screenshots">Website previews</a><a href="#branding">Branding direction</a>{identity && <><a href="#colour-theme">Colour theme</a><a href="#typography">Typography</a><a href="#logo-approaches">Logo approaches</a></>}</nav></aside><div><section id="branding"><p class="eyebrow">01 / BRANDING</p><h2>The look &amp; feel.</h2><p>{identity?.direction || design}</p><p class="identity-note">{project.type.includes('concept') || project.type.includes('Concept') ? 'Self-initiated portfolio concept.' : project.type + '.'}</p></section>{identity && <BrandIdentity identity={identity} name={project.name} slug={project.slug}/>}</div></div>
   <a class="next-project" href={url(`work/${next.slug}/`)}><span class="eyebrow">NEXT PROJECT</span><span>{next.name} <span aria-hidden="true">↗</span></span></a></article>
   <PortfolioContact/>
 </Portfolio>

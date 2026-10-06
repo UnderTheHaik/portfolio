@@ -4,7 +4,7 @@ import { Image } from 'astro:assets';
 import logo from '../assets/portfolio/logo.png';
 import { url } from '../lib/content';
 interface Props { title?: string; description?: string; image?: string; }
-const {title = 'Web design & development in Dubai', description = 'Responsive websites for small businesses, creators and communities in the UAE. Explore web design, WordPress and front-end development by Under the Haik.', image} = Astro.props;
+const {title = 'Web & visual design in Dubai', description = 'Affordable websites and starter visual identities for small businesses in the UAE. Explore launch packages from 350 AED and the 1,000 AED business launch bundle.', image} = Astro.props;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const pageTitle = `${title} — Under the Haik`;
 const socialImage = new URL(image || url('images/portfolio/og.jpg'), Astro.site);
@@ -18,15 +18,15 @@ const nav = ['Work', 'Services', 'About', 'Process', 'Contact'];
   <meta name="theme-color" content="#f6f4ed"/><link rel="icon" href={url('portfolio-favicon.png')} type="image/png" sizes="48x48"/><link rel="apple-touch-icon" href={url('portfolio-touch-icon.png')}/>
   <meta property="og:type" content="website"/><meta property="og:title" content={pageTitle}/><meta property="og:description" content={description}/><meta property="og:url" content={canonical}/><meta property="og:image" content={socialImage}/><meta property="og:image:alt" content="Under the Haik web design and development portfolio"/><meta property="og:site_name" content="Under the Haik"/>
   <meta name="twitter:card" content="summary_large_image"/>
-  <script is:inline type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@type':'ProfessionalService',name:'Under the Haik',url:Astro.site?.href,description,areaServed:'United Arab Emirates',knowsAbout:['Web design','Web development','WordPress','Responsive design']})}/>
+  <script is:inline type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@type':'ProfessionalService',name:'Under the Haik',url:Astro.site?.href,description,areaServed:'United Arab Emirates',knowsAbout:['Web design','Web development','Visual identity','Responsive design']})}/>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
   <header class="site-header wrap">
-    <a class="brand" href={url()} aria-label="Under the Haik home"><Image class="brand-icon" src={logo} alt="" width={64} height={64} widths={[64,128]} sizes="64px" format="webp" loading="eager"/><span>under the haik<span class="brand-caption">WEB DESIGN & DEVELOPMENT</span></span></a>
+    <a class="brand" href={url()} aria-label="Under the Haik home"><Image class="brand-icon" src={logo} alt="" width={64} height={64} widths={[64,128]} sizes="64px" format="webp" loading="eager"/><span>under the haik<span class="brand-caption">WEB & VISUAL DESIGN</span></span></a>
     <nav aria-label="Main navigation">{nav.map(item => <a href={`${url()}#${item.toLowerCase()}`} class:list={{'nav-contact':item==='Contact'}}>{item}<span aria-hidden="true">{item==='Contact'?' ↗':''}</span></a>)}</nav>
   </header>
   <main id="main" tabindex="-1"><slot/></main>
-  <footer class="site-footer wrap"><a class="footer-brand" href={url()}><Image class="footer-logo" src={logo} alt="" width={48} height={48} widths={[48,96]} sizes="48px" format="webp" loading="lazy"/><span>under the haik<span class="dot">.</span></span></a><p>Independent web design & development · Dubai, UAE</p><div><span>© {new Date().getFullYear()} Under the Haik</span><a href={`${url()}#work`}>Back to work ↑</a></div></footer>
+  <footer class="site-footer wrap"><a class="footer-brand" href={url()}><Image class="footer-logo" src={logo} alt="" width={48} height={48} widths={[48,96]} sizes="48px" format="webp" loading="lazy"/><span>under the haik<span class="dot">.</span></span></a><p>Independent web & visual design · Dubai, UAE</p><div><span>© {new Date().getFullYear()} Under the Haik</span><a href={`${url()}#work`}>Back to work ↑</a></div></footer>
 </body>
 </html>

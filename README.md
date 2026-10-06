@@ -1,6 +1,6 @@
 # Under the Haik — Freelance portfolio
 
-A Dubai-based web design and development portfolio built with Astro, TypeScript and CSS. The homepage features seven projects, seven services, a technical-background section, a six-step process and WhatsApp-first contact. Each project has its own case study at `/work/<slug>/`.
+A Dubai-based web design and development portfolio built with Astro, TypeScript and CSS. The homepage features six selected projects, website and visual identity launch packages, a technical-background section, an eight-step delivery process and Instagram contact. The main offer is the 1,000 AED business launch bundle. Each project has its own case study at `/work/<slug>/`.
 
 Concepts, family projects and personal work are labelled explicitly. The copy makes no seniority, paid-client, testimonial, revenue or years-of-experience claims. Public WooCommerce showcases are clearly described as static previews.
 
@@ -25,7 +25,7 @@ On this machine, `work/portfolio-publish/` is the source checkout and `work/port
 
 1. Capture an actual website screenshot and save it to `src/assets/portfolio/<slug>.jpg`. Avoid sensitive information, keep images consistent, and use a meaningful filename. Astro generates responsive WebP variants, intrinsic dimensions and `srcset` automatically.
 2. Import the screenshot in `src/lib/portfolio.ts` and add a record to `projects`. Supply `slug`, `name`, `type`, `category`, `image`, `color`, `summary`, `stack` and `sections`. Colours available: `sage`, `rose`, `sand`, `blue`, `cream`.
-3. Include all eight sections: Context, Problem, Approach, Design, Development, Challenges, Result, What I learned. Describe verified work and limits. Label concepts as concepts and do not claim client relationships or performance without evidence.
+3. Add the actual palette, font pairing and branding direction to src/lib/identities.ts. Project pages focus on the visual identity and logo treatments. Label concepts clearly and describe verified work without invented results.
 4. The homepage card and `/work/<slug>/` page are generated automatically, as is the next-project link. The first record is featured. The current visit-site URL uses `https://underthehaik.github.io/<slug>/`; if a new project is hosted elsewhere, add a `liveUrl` field to all records and update the link in `src/pages/work/[slug].astro` to use it.
 5. Capture three pages at laptop and phone viewport sizes. Save screenshots in `src/assets/portfolio/captures/` as `<slug>--<page>--laptop.jpg` and `<slug>--<page>--phone.jpg`. Use `home` for the first page key. Add the page keys and readable labels to `src/lib/project-captures.ts`; the homepage gets a paired device preview and the case study gets a three-page gallery automatically. Dimension labels come from the actual imported image metadata, since delivered screenshots can differ from the requested viewport size. Single-page sites can use sections instead of separate pages. Let visible images finish loading before capture and retain the website's actual responsive layout.
 6. Add the slug to the case-study list in `scripts/check-build.mjs`, then run the checks above. Review the homepage and case study on a narrow phone viewport and desktop, including keyboard navigation, image loading, long titles and links. Verify full-size screenshot links.
