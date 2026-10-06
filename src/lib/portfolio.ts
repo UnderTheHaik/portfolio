@@ -1,4 +1,5 @@
 import nouraBeauty from '../assets/portfolio/captures/noura-beauty-house--home--laptop.jpg';
+import herCircle from '../assets/portfolio/captures/her-circle--home--laptop.jpg';
 import secondStory from '../assets/portfolio/captures/second-story--home--laptop.jpg';
 import nisma from '../assets/portfolio/nisma.jpg';
 import haya from '../assets/portfolio/haya2.jpg';
@@ -146,6 +147,22 @@ export const projects = [
       ['Challenges', 'Personalised prices and home fees must stay clear as visitors change their choices. Hidden form fields are disabled, uploaded inspiration images remain local and user-entered text is rendered safely. Dates and times are preferences, with no claim of live availability.'],
       ['Result', 'A complete salon showcase with 72 services, six packages, detailed service information, a home visit fee calculator, bridal content and downloadable request previews. No booking, enquiry, payment or photo upload is sent to a salon. The public demo makes these limits explicit.'],
       ['What I learned', 'Service businesses need more than a polished homepage. Clear price boundaries, preparation details and a personal planning flow make a complex offering easier to understand.'],
+    ],
+  },
+  {
+    slug: 'her-circle', name: 'Her Circle', type: 'Community website demo', category: 'Community / Events', image: herCircle, color: 'rose',
+    summary: 'A welcoming women-only community website for friendship and shared experiences.',
+    demoPath: 'demos/her-circle/',
+    stack: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'Sharp'],
+    sections: [
+      ['Context', 'A portfolio demo for a fictional women-only social community. Her Circle is a working concept name. The programme is illustrative, and supplied photographs are inspiration imagery rather than evidence of real members or past events.'],
+      ['Problem', 'New visitors need to understand the community, find an activity they would enjoy and feel comfortable coming alone. A WhatsApp-led community also needs clear joining guidance and thoughtful boundaries around sharing photos and personal information.'],
+      ['Approach', 'Connect five pages: Home, Gatherings, Our Community, Gallery and Join. Present eight sample experiences, including sip and paint, picnics, galas, brunches, walks, cycling, spa days and coffee with clay. Category filters help visitors explore social, creative, outdoor and wellbeing plans.'],
+      ['Design', 'A rich berry palette, Playfair Display headings and DM Sans body text create a warm social identity. Supplied photography carries the story, while split layouts, readable cards and a mobile navigation menu keep the practical details accessible.'],
+      ['Development', 'Static HTML pages share CSS and a small JavaScript layer for responsive navigation and gathering filters. Node.js generates the pages from shared content, and Sharp optimises nine supplied photographs into local WebP assets. Native details elements provide joining FAQs.'],
+      ['Challenges', 'The site needs to encourage connection without implying that sample events can be booked. Dates, prices and meeting points are left for a future organiser to confirm. The joining page explains that the WhatsApp invite is not connected and does not collect personal information.'],
+      ['Result', 'A published five-page demo with eight gathering concepts, activity filters, an inspiration gallery, community guidelines and joining FAQs. Local links, assets and gathering anchors were checked; the wellbeing filter was verified in the browser, and desktop and phone screenshots document the responsive pages. No membership, booking or payment service is connected.'],
+      ['What I learned', 'Community websites need to make the first hello feel manageable. Clear expectations, practical activity details and respectful joining guidance give the welcoming visual identity a useful purpose.'],
     ],
   },
 ];
