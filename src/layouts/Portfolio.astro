@@ -22,18 +22,28 @@ const nav = ['Work', 'Services', 'About', 'Process', 'Contact'];
   <meta name="twitter:card" content="summary_large_image"/>
   <script is:inline type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@type':'ProfessionalService',name:'Under the Haik',url:Astro.site?.href,description,areaServed:'United Arab Emirates',knowsAbout:['Web design','Web development','Visual identity','Responsive design']})}/>
 </head>
-<body>
+<body id="top">
   <a class="skip" href="#main">Skip to content</a>
   <header class="site-header wrap">
     <a class="brand" href={url()} aria-label="Under the Haik home"><Image class="brand-icon" src={logo} alt="" width={64} height={64} widths={[64,128]} sizes="64px" format="webp" loading="eager"/><span>under the haik<span class="brand-caption">WEB & VISUAL DESIGN</span></span></a>
     <nav aria-label="Main navigation">{nav.map(item => <a href={`${url()}#${item.toLowerCase()}`} class:list={{'nav-contact':item==='Contact'}}>{item}<span aria-hidden="true">{item==='Contact'?' ↗':''}</span></a>)}</nav>
   </header>
   <main id="main" tabindex="-1"><slot/></main>
+  <a class="back-to-top" href="#top" aria-label="Back to top" hidden><span aria-hidden="true">↑</span></a>
   <footer class="site-footer wrap"><a class="footer-brand" href={url()}><Image class="footer-logo" src={logo} alt="" width={48} height={48} widths={[48,96]} sizes="48px" format="webp" loading="lazy"/><span>under the haik<span class="dot">.</span></span></a><p>Independent web & visual design · Dubai, UAE</p><div><span>© {new Date().getFullYear()} Under the Haik</span><a href={`${url()}#work`}>Back to work ↑</a></div></footer>
 </body>
 </html>
 <script>
   const motion = matchMedia('(prefers-reduced-motion: reduce)');
+  const backToTop = document.querySelector<HTMLAnchorElement>('.back-to-top');
+  const updateBackToTop = () => { if (backToTop) backToTop.hidden = window.scrollY < 400; };
+  window.addEventListener('scroll', updateBackToTop, { passive: true });
+  updateBackToTop();
+  backToTop?.addEventListener('click', event => {
+    event.preventDefault();
+    window.scrollTo({ top: 0, behavior: motion.matches ? 'instant' : 'smooth' });
+    document.querySelector<HTMLAnchorElement>('.skip')?.focus({ preventScroll: true });
+  });
   const mouse = matchMedia('(hover: hover) and (pointer: fine)');
   const cards = [...document.querySelectorAll<HTMLElement>('.carousel-track .project-card, .showcase-preview')];
   let frame = 0;
