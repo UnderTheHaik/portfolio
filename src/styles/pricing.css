@@ -2,19 +2,14 @@
 .pricing-section>.wrap{width:min(1180px,90%)}
 .pricing-section .section-heading{align-items:end;gap:36px;margin-bottom:34px}
 .pricing-section .section-heading>p{max-width:410px;color:#64625d}
-.pricing-tabs{display:flex;gap:10px;overflow-x:auto;padding:5px 3px 15px;scrollbar-width:thin;scrollbar-color:#a6a28d transparent}
-.pricing-tab{flex:0 0 auto;border:1px solid #dfddd4;border-radius:999px;background:#fff;color:#414137;padding:12px 19px;font:inherit;font-size:.9rem;font-weight:700;cursor:pointer;transition:background .2s,color .2s,border-color .2s,transform .2s}
-.pricing-tab:hover{transform:translateY(-2px);border-color:#64713d}
-.pricing-tab[aria-pressed=true]{background:#343b13;border-color:#343b13;color:#fff}
 .pricing-group{padding-top:14px}
-.pricing-group[hidden]{display:none}
 .pricing-group-heading{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}
 .pricing-group-heading .eyebrow{margin-bottom:5px;color:#737461;font-size:.76rem;letter-spacing:.12em}
 .pricing-group-heading>div>p:last-child{margin:0;color:#6d6a62;font-size:.9rem}
 .pricing-arrows{display:flex;gap:10px}
 .pricing-arrows button{width:46px;height:46px;border:1px solid #d9d7ce;border-radius:50%;background:#fff;color:#343b13;font-size:1.25rem;cursor:pointer;transition:background .2s,color .2s,transform .2s}
 .pricing-arrows button:hover{background:#343b13;color:white;transform:scale(1.06)}
-.pricing-arrows button:focus-visible,.pricing-tab:focus-visible,.pricing-cta:focus-visible{outline:3px solid #bcae72;outline-offset:3px}
+.pricing-arrows button:focus-visible,.pricing-cta:focus-visible{outline:3px solid #bcae72;outline-offset:3px}
 .pricing-track{display:grid;grid-auto-columns:minmax(270px,31%);grid-auto-flow:column;align-items:stretch;gap:16px;overflow-x:auto;overscroll-behavior-inline:contain;scroll-snap-type:x mandatory;scroll-padding-inline:12px;padding:22px 12px 34px;margin-inline:-12px;scrollbar-width:thin;scrollbar-color:#aaa68e transparent;cursor:grab}
 .pricing-track.is-dragging{cursor:grabbing;user-select:none;scroll-snap-type:none}
 .pricing-card{position:relative;display:flex;flex-direction:column;min-height:390px;padding:25px 23px 21px;border:1px solid #e0ded4;border-radius:17px;background:#fff;box-shadow:0 7px 22px #2927100a;scroll-snap-align:center;transform:scale(.96);transform-origin:center;transition:transform .25s ease,box-shadow .25s ease,border-color .25s ease,background .25s ease}
@@ -40,5 +35,5 @@
 .pricing-conditions h3{margin:0 0 9px;font-size:1.05rem}
 .pricing-conditions p{margin:0;color:#5f5d56;font-size:.87rem;line-height:1.65}
 @media(max-width:850px){.pricing-track{grid-auto-columns:minmax(270px,44%)}.pricing-section .section-heading{grid-template-columns:1fr;gap:12px}}
-@media(max-width:600px){.pricing-section{padding-block:58px}.pricing-section>.wrap{width:88%}.pricing-track{grid-auto-columns:minmax(255px,84%);gap:12px;scroll-padding-inline:5px;margin-inline:-5px;padding-inline:5px}.pricing-card{min-height:375px}.pricing-group-heading{align-items:end}.pricing-arrows{gap:6px}.pricing-arrows button{width:41px;height:41px}.pricing-tabs{margin-right:-6vw}.pricing-callout{align-items:flex-start;padding:18px}.pricing-callout-mark{flex-basis:34px;width:34px;height:34px}.pricing-conditions{grid-template-columns:1fr;gap:0}.pricing-conditions>div{padding:18px 0}}
-@media(prefers-reduced-motion:reduce){.pricing-tab,.pricing-arrows button,.pricing-card{transition:none}}
+@media(max-width:600px){.pricing-section{padding-block:58px}.pricing-section>.wrap{width:88%}.pricing-track{grid-auto-columns:minmax(255px,84%);gap:12px;scroll-padding-inline:5px;margin-inline:-5px;padding-inline:5px}.pricing-card{min-height:375px}.pricing-group-heading{align-items:end}.pricing-arrows{gap:6px}.pricing-arrows button{width:41px;height:41px}.pricing-callout{align-items:flex-start;padding:18px}.pricing-callout-mark{flex-basis:34px;width:34px;height:34px}.pricing-conditions{grid-template-columns:1fr;gap:0}.pricing-conditions>div{padding:18px 0}}
+@media(prefers-reduced-motion:reduce){.pricing-arrows button,.pricing-card{transition:none}}
