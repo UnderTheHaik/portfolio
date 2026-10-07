@@ -1,5 +1,6 @@
 ---
 import AgencyHero from '../components/AgencyHero.astro';
+import MockupAccordion from '../components/MockupAccordion.astro';
 
 import Portfolio from '../layouts/Portfolio.astro';
 import ProjectShowcase from '../components/ProjectShowcase.astro';
@@ -32,16 +33,7 @@ const process = [
     <p class="eyebrow">VISUAL IDENTITY / SELF-INITIATED CONCEPT</p>
     <h2 id="identity-title">Under the Haik.<br/>One identity, across every detail<span class="dot">.</span></h2>
     <p>A visual identity study for my own brand: an illustrated mark, olive lettering and warm neutrals, carried from a small staff-shirt badge to packaging and printed stationery. These mockups explore how the identity can feel consistent across different materials and scales.</p>
-    <div class="identity-board">
-      {[
-        ['business-card', 'Business cards', 'Cream textured business cards with the Under the Haik logo and olive serif lettering'],
-        ['tshirt', 'Staff T-shirt', 'White staff T-shirt with a small Under the Haik logo and name on the left chest'],
-        ['box', 'Kraft box', 'Kraft packaging box printed with the Under the Haik illustrated logo and brand name'],
-        ['packaging-set', 'Bags & gift tag', 'Under the Haik branding on a drawstring pouch, paper shopping bag and kraft gift tag'],
-        ['pouch', 'Kraft pouch', 'Kraft pouch with the Under the Haik logo above the olive brand name'],
-        ['tote', 'Canvas tote', 'Natural canvas tote bag with the Under the Haik logo and serif brand name'],
-      ].map(([file, label, alt]) => <figure><img src={url('images/portfolio/identity/under-the-haik-'+file+'.webp')} alt={alt} width="1200" height="800" loading="lazy" decoding="async"/><figcaption>{label}</figcaption></figure>)}
-    </div>
+    <MockupAccordion/>
     <div class="identity-details">
       <div><h3>Colour &amp; typography</h3><p>Dark olive, cream and charcoal give the illustrated mark a quiet, recognisable presence. Classic serif lettering brings the name into the same visual language across stationery, fabric and kraft packaging.</p></div>
       <div><h3>From mark to material</h3><p>A compact logo and name sit on the wearer’s left chest for the staff T-shirt. Larger centred arrangements suit the tote and packaging, while the business cards keep generous space around the identity. These are AI-assisted presentation mockups; production artwork is prepared separately for printing.</p></div>
