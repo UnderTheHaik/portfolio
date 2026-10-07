@@ -8,35 +8,26 @@ import { projects } from '../lib/portfolio';
 import { url } from '../lib/content';
 import '../styles/pricing.css';
 const selectedProjects = ['sift-and-saffron', 'noura-beauty-house', 'crumb-and-cup', 'the-table-restaurant', 'loom-and-kiln', 'brightpath-academy', 'second-story', 'les-mots-dun-montagnard', 'her-circle'].map(slug => projects.find(project => project.slug === slug)!);
-const pricingGroups = [
-  { id: 'websites', label: 'Websites', cards: [
-    { name: 'One-page website', price: '350', unit: 'AED', description: 'A clear starting point for a small business.', features: ['Up to six sections', 'Mobile layout', 'Contact links', 'Basic search setup'] },
-    { name: 'Business website', price: '500', unit: 'AED', description: 'A small, practical home for your services.', features: ['Up to five simple pages', 'Mobile layout', 'One revision round'] },
-  ] },
-  { id: 'branding', label: 'Brand & social', cards: [
-    { name: 'Logo design', price: '300', unit: 'AED', description: 'A considered logo, ready to use online and in print.', features: ['Two design directions', 'Two revision rounds', 'Final SVG and transparent PNG files'] },
-    { name: 'Starter visual identity', price: '600', unit: 'AED', description: 'A consistent starter kit for a growing business.', features: ['Logo package', 'Colour palette and font pairing', 'Short guidelines', 'Profile image'] },
-    { name: 'Instagram account setup', price: '100', unit: 'AED', description: 'Set up your business profile using your existing branding.', features: ['Bio and profile image', 'Business details', 'Website link'] },
-    { name: 'Facebook Page setup', price: '100', unit: 'AED', description: 'A clear, complete business Page using existing branding.', features: ['Profile and cover images', 'Description and contact details', 'Website link'] },
-    { name: 'Instagram + Facebook setup', price: '150', unit: 'AED', description: 'Both social profiles, with matching existing branding.', features: ['Instagram business account', 'Facebook business Page', 'Matching images and details'] },
-  ] },
-  { id: 'bundles', label: 'Launch bundles', cards: [
-    { name: 'Website + identity', price: '900', unit: 'AED', description: 'A grouped launch offer for your website and visual identity.', features: ['Business website', 'Starter visual identity'] },
-    { name: 'Complete launch', price: '1,000', unit: 'AED', description: 'Website, identity and matching social profiles.', features: ['Business website + starter identity', 'Instagram + Facebook setup', 'Client-supplied text and photos'], badge: 'COMPLETE DESIGN + SOCIAL', featured: true },
-    { name: 'Complete launch + domain', price: '1,150', unit: 'AED upfront', description: 'A complete launch, including the first year of web address and hosting setup.', features: ['Business website + starter identity', 'Instagram + Facebook setup', 'First-year domain and static hosting add-on'], badge: 'FULL FIRST-YEAR PACKAGE', featured: true },
-  ] },
-  { id: 'domain', label: 'Domain & hosting', cards: [
-    { name: 'Web address & hosting', price: '150', unit: 'AED · first year', description: 'A simple, managed start for a standard available web address.', features: ['Domain costing up to 75 AED', 'Static hosting setup and HTTPS', 'Domain connection', 'Choose the domain with your approval; register it in your name'] },
-    { name: 'Chosen or premium domain', price: '150', unit: 'AED + domain cost above 75 AED', description: 'The same setup with the exact domain cost agreed before purchase.', features: ['Standard domain and hosting setup', 'Your approval before any extra domain cost', 'The domain is registered in your name'], badge: 'NO SURCHARGE FOR A NAME ALONE' },
-    { name: 'Renewal management', price: '75', unit: 'AED/year + provider charges', description: 'A yearly reminder and connection check, handled for you.', features: ['Renewal management', 'Check that the website remains connected', 'Provider charges billed separately'] },
-  ] },
-  { id: 'care', label: 'Website care', cards: [
-    { name: 'Pay as you go', price: 'From 50', unit: 'AED / update', description: 'For a small change when you need one.', features: ['Small text, price, photo or link changes', 'Quote approved before work begins', 'Time includes review, editing, checks and publishing'] },
-    { name: 'Website Care', price: '100', unit: 'AED / month', description: 'Regular checks and a little room for content updates.', features: ['Monthly link and contact checks', 'Source backup', 'Up to 30 minutes of updates', 'One grouped monthly batch'], badge: 'STEADY SUPPORT' },
-    { name: 'Website Care Plus', price: '200', unit: 'AED / month', description: 'More update time and a small monthly promotion.', features: ['Monthly link and contact checks', 'Source backup', 'Up to 90 minutes of updates', 'Two grouped batches', 'One small promotional banner per month'], badge: 'MORE ROOM TO UPDATE' },
-  ] },
+const oneTimeOffers = [
+  { name: 'One-page website', price: '350', unit: 'AED', description: 'A clear starting point for a small business.', features: ['Up to six sections', 'Mobile layout', 'Contact links', 'Basic search setup'] },
+  { name: 'Business website', price: '500', unit: 'AED', description: 'A small, practical home for your services.', features: ['Up to five simple pages', 'Mobile layout', 'One revision round'] },
+  { name: 'Logo design', price: '300', unit: 'AED', description: 'A considered logo, ready to use online and in print.', features: ['Two design directions', 'Two revision rounds', 'Final SVG and transparent PNG files'] },
+  { name: 'Starter visual identity', price: '600', unit: 'AED', description: 'A consistent starter kit for a growing business.', features: ['Logo package', 'Colour palette and font pairing', 'Short guidelines', 'Profile image'] },
+  { name: 'Instagram account setup', price: '100', unit: 'AED', description: 'Set up your business profile using your existing branding.', features: ['Bio and profile image', 'Business details', 'Website link'] },
+  { name: 'Facebook Page setup', price: '100', unit: 'AED', description: 'A clear, complete business Page using existing branding.', features: ['Profile and cover images', 'Description and contact details', 'Website link'] },
+  { name: 'Instagram + Facebook setup', price: '150', unit: 'AED', description: 'Both social profiles, with matching existing branding.', features: ['Instagram business account', 'Facebook business Page', 'Matching images and details'] },
+  { name: 'Website + identity', price: '900', unit: 'AED', description: 'A grouped launch offer for your website and visual identity.', features: ['Business website', 'Starter visual identity'] },
+  { name: 'Complete launch', price: '1,000', unit: 'AED', description: 'Website, identity and matching social profiles.', features: ['Business website + starter identity', 'Instagram + Facebook setup', 'Client-supplied text and photos'] },
+  { name: 'Complete launch + domain', price: '1,150', unit: 'AED upfront', description: 'A complete launch, including the first year of web address and hosting setup.', features: ['Business website + starter identity', 'Instagram + Facebook setup', 'First-year domain and static hosting add-on'] },
+  { name: 'Web address & hosting', price: '150', unit: 'AED · first year', description: 'A simple, managed start for a standard available web address.', features: ['Domain costing up to 75 AED', 'Static hosting setup and HTTPS', 'Domain connection', 'Choose the domain with your approval; register it in your name'] },
+  { name: 'Chosen or premium domain', price: '150', unit: 'AED + domain cost above 75 AED', description: 'The same setup with the exact domain cost agreed before purchase.', features: ['Standard domain and hosting setup', 'Your approval before any extra domain cost', 'The domain is registered in your name'] },
 ];
-const pricingCards = pricingGroups.flatMap(group => group.cards);
+const careOffers = [
+  { name: 'Pay as you go', price: 'From 50', unit: 'AED / update', description: 'For a small change when you need one.', features: ['Small text, price, photo or link changes', 'Quote approved before work begins', 'Time includes review, editing, checks and publishing'] },
+  { name: 'Website Care', price: '100', unit: 'AED / month', description: 'Regular checks and a little room for content updates.', features: ['Monthly link and contact checks', 'Source backup', 'Up to 30 minutes of updates', 'One grouped monthly batch'] },
+  { name: 'Website Care Plus', price: '200', unit: 'AED / month', description: 'More update time and a small monthly promotion.', features: ['Monthly link and contact checks', 'Source backup', 'Up to 90 minutes of updates', 'Two grouped batches', 'One small promotional banner per month'] },
+  { name: 'Annual renewal management', price: '75', unit: 'AED / year + provider charges', description: 'A yearly reminder and connection check, handled for you.', features: ['Renewal management', 'Check that the website remains connected', 'Provider charges billed separately'] },
+];
 const process = [
  ['Brief', 'We establish what your business offers, what visitors should do and whether the project fits the scope.'],
  ['Written quote', 'Pages, features, revisions, costs, payment terms, cancellation terms and ownership are agreed in writing.'],
@@ -53,16 +44,23 @@ const process = [
   <section id="work" class="work-section wrap"><div class="section-heading"><div><p class="eyebrow">01 / SELECTED WORK</p><h2>Different projects.<br/>The same attention to detail<span class="dot">.</span></h2></div><p>Websites for businesses, communities and independent voices. Explore the visual identity and desktop and phone previews for each project.</p></div><ProjectShowcase projects={selectedProjects}/></section>
   <section id="services" class="services-section pricing-section" aria-labelledby="pricing-title">
     <div class="wrap">
-      <div class="section-heading"><div><p class="eyebrow">02 / CLEAR, SIMPLE PRICING</p><h2 id="pricing-title">Pick a starting point.<br/>Build the right package<span class="dot">.</span></h2></div><p>Swipe or drag left and right through every option, or use the arrows to move along the full price list.</p></div>
-      <section class="pricing-group" aria-label="All service prices">
-        <div class="pricing-group-heading"><div><p class="eyebrow">ALL SERVICES / {pricingCards.length} OPTIONS</p><p>Swipe, drag or use the arrows to browse.</p></div><div class="pricing-arrows"><button type="button" data-pricing-prev aria-label="Previous price options">←</button><button type="button" data-pricing-next aria-label="Next price options">→</button></div></div>
-        <div class="pricing-track" data-pricing-track tabindex="0" role="region" aria-label="All pricing options">
-          {pricingCards.map(card=><article class:list={['pricing-card',{'is-featured':card.featured}]}>
-            {card.badge && <p class="pricing-badge">{card.badge}</p>}<h3>{card.name}</h3><p class="pricing-description">{card.description}</p><p class="pricing-amount"><strong>{card.price}</strong><span>{card.unit}</span></p><ul>{card.features.map(feature=><li>{feature}</li>)}</ul><a class="pricing-cta" href="#contact">Ask about this option <span aria-hidden="true">↗</span></a>
+      <div class="section-heading"><div><p class="eyebrow">02 / CLEAR, SIMPLE PRICING</p><h2 id="pricing-title">Pick a starting point.<br/>Build the right package<span class="dot">.</span></h2></div><p>Swipe or drag left and right through each row, or use its arrows to browse the offers.</p></div>
+      <section class="pricing-group" aria-label="One-time offers">
+        <div class="pricing-group-heading"><div><p class="eyebrow">ONE-TIME OFFERS / {oneTimeOffers.length} OPTIONS</p><p>Swipe, drag or use the arrows to browse.</p></div><div class="pricing-arrows"><button type="button" data-pricing-prev aria-label="Previous one-time offers">←</button><button type="button" data-pricing-next aria-label="Next one-time offers">→</button></div></div>
+        <div class="pricing-track" data-pricing-track tabindex="0" role="region" aria-label="One-time offers">
+          {oneTimeOffers.map(card=><article class="pricing-card">
+            <h3>{card.name}</h3><p class="pricing-description">{card.description}</p><p class="pricing-amount"><strong>{card.price}</strong><span>{card.unit}</span></p><ul>{card.features.map(feature=><li>{feature}</li>)}</ul><a class="pricing-cta" href="#contact">Ask about this option <span aria-hidden="true">↗</span></a>
           </article>)}
         </div>
       </section>
-      <div class="pricing-callout"><span class="pricing-callout-mark" aria-hidden="true">✳</span><p><strong>The complete launch is 1,150 AED upfront.</strong> That includes a business website, starter identity, Instagram and Facebook setup, and the first-year domain and hosting add-on. Add Website Care for 100 AED/month.</p></div>
+      <section class="pricing-group pricing-care" aria-label="Subscriptions and care packages">
+        <div class="pricing-group-heading"><div><p class="eyebrow">SUBSCRIPTIONS &amp; CARE / {careOffers.length} OPTIONS</p><p>Swipe, drag or use the arrows to browse.</p></div><div class="pricing-arrows"><button type="button" data-pricing-prev aria-label="Previous care packages">←</button><button type="button" data-pricing-next aria-label="Next care packages">→</button></div></div>
+        <div class="pricing-track" data-pricing-track tabindex="0" role="region" aria-label="Subscriptions and care packages">
+          {careOffers.map(card=><article class="pricing-card">
+            <h3>{card.name}</h3><p class="pricing-description">{card.description}</p><p class="pricing-amount"><strong>{card.price}</strong><span>{card.unit}</span></p><ul>{card.features.map(feature=><li>{feature}</li>)}</ul><a class="pricing-cta" href="#contact">Ask about this option <span aria-hidden="true">↗</span></a>
+          </article>)}
+        </div>
+      </section>
       <div class="pricing-conditions"><div><h3>Domain &amp; hosting</h3><p>We choose the standard domain together, with your approval, and register it in your name. A specific name has no extra fee unless its domain cost exceeds the included 75 AED allowance. A suitable free static hosting tier may be used; any paid hosting is quoted separately. Hosting setup does not include maintenance.</p></div><div><h3>Included with every build</h3><p>Website prices use text and photos you provide. Every build includes 14 days of fixes for faults in my delivered work. Social setup uses your existing branding; ongoing posts, ads and account management are separate.</p></div><div><h3>Website care terms</h3><p>Care is optional and can be cancelled before the next billing month. Update time includes reviewing, editing, checking and publishing. Requests are grouped into one monthly batch for Care or two for Care Plus; unused time does not roll over. Routine updates are handled within three working days.</p></div><div><h3>Requests beyond a care package</h3><p>New pages, redesigns, features and third-party charges are quoted separately. There is no emergency or 24/7 support promise. Any new work is agreed before it begins.</p></div></div>
     </div>
   </section>
@@ -92,26 +90,9 @@ const process = [
 </Portfolio>
 
 <script>
-  const group = document.querySelector<HTMLElement>('.pricing-group');
-  const track = group?.querySelector<HTMLElement>('[data-pricing-track]');
-  const highlight = (track: HTMLElement) => {
-    const cards = [...track.querySelectorAll<HTMLElement>('.pricing-card')];
-    const center = track.scrollLeft + track.clientWidth / 2;
-    let nearest: HTMLElement | undefined;
-    let distance = Number.POSITIVE_INFINITY;
-    for (const card of cards) {
-      const cardCenter = card.offsetLeft + card.offsetWidth / 2;
-      const nextDistance = Math.abs(center - cardCenter);
-      if (nextDistance < distance) { distance = nextDistance; nearest = card; }
-    }
-    cards.forEach(card => card.classList.toggle('is-highlighted', card === nearest));
-  };
-  const connectTrack = (group: HTMLElement, track: HTMLElement) => {
-    let frame = 0;
-    track.addEventListener('scroll', () => {
-      cancelAnimationFrame(frame);
-      frame = requestAnimationFrame(() => highlight(track));
-    }, { passive: true });
+  const connectTrack = (group: HTMLElement) => {
+    const track = group.querySelector<HTMLElement>('[data-pricing-track]');
+    if (!track) return;
     const step = () => (track.querySelector<HTMLElement>('.pricing-card')?.getBoundingClientRect().width || track.clientWidth * .8) + 16;
     group.querySelector<HTMLButtonElement>('[data-pricing-prev]')?.addEventListener('click', () => track.scrollBy({ left: -step(), behavior: 'smooth' }));
     group.querySelector<HTMLButtonElement>('[data-pricing-next]')?.addEventListener('click', () => track.scrollBy({ left: step(), behavior: 'smooth' }));
@@ -139,8 +120,7 @@ const process = [
     track.addEventListener('click', event => {
       if (dragged) { event.preventDefault(); event.stopPropagation(); dragged = false; }
     }, true);
-    highlight(track);
   };
-  if (group && track) connectTrack(group, track);
+  document.querySelectorAll<HTMLElement>('.pricing-group').forEach(connectTrack);
 </script>
 
