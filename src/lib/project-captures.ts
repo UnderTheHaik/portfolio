@@ -5,6 +5,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 );
 
 const pages: Record<string, [string, string][]> = {
+ 'the-table-restaurant': [['home','Menu book cover'], ['welcome','Welcome spread'], ['menu','Restaurant menu']],
  'loom-and-kiln': [['home','Homepage'], ['collection','Artisan collection'], ['makers','Maker studios']],
  'brightpath-academy': [['home','Homepage'], ['programs','Tutoring programs'], ['contact','Lesson enquiry']],
  'her-circle': [['home','Homepage'], ['gatherings','Community gatherings'], ['join','Joining and guidelines']],
