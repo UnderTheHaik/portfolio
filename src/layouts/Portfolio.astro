@@ -1,6 +1,7 @@
 ---
 import '../styles/portfolio.css';
 import '../styles/agency.css';
+import '../styles/showcase.css';
 import { Image } from 'astro:assets';
 import logo from '../assets/portfolio/logo.png';
 import { url } from '../lib/content';
@@ -34,7 +35,7 @@ const nav = ['Work', 'Services', 'About', 'Process', 'Contact'];
 <script>
   const motion = matchMedia('(prefers-reduced-motion: reduce)');
   const mouse = matchMedia('(hover: hover) and (pointer: fine)');
-  const cards = [...document.querySelectorAll<HTMLElement>('.carousel-track .project-card')];
+  const cards = [...document.querySelectorAll<HTMLElement>('.carousel-track .project-card, .showcase-preview')];
   let frame = 0;
   window.addEventListener('pointermove',event => {
     if(motion.matches || !mouse.matches) return;

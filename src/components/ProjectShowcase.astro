@@ -1,0 +1,50 @@
+---
+import { Image } from 'astro:assets';
+import { url } from '../lib/content';
+import { getProjectCaptures } from '../lib/project-captures';
+import type { projects as allProjects } from '../lib/portfolio';
+interface Props { projects: typeof allProjects; }
+const { projects } = Astro.props;
+---
+<div class="project-showcase">
+  <div class="showcase-navigation"><p>Scroll to explore <span aria-hidden="true">↓</span></p><div><span class="showcase-count" aria-live="polite">1 / {projects.length}</span><button type="button" data-step="-1" aria-label="Previous project" disabled>← Previous</button><button type="button" data-step="1" aria-label="Next project">Next →</button></div></div>
+  <div class="showcase-stack">
+    {projects.map((project,index) => {
+      const preview = getProjectCaptures(project.slug)[0];
+      return <article class={`showcase-panel tone-${index%4}`} id={`showcase-${project.slug}`} style={`--panel-order:${index}`} aria-label={`${index+1} of ${projects.length}: ${project.name}`}>
+        <div class="showcase-copy"><p class="showcase-kicker"><span aria-hidden="true">▶</span> My web design portfolio</p><h3><a href={url(`work/${project.slug}/`)}>{project.name}</a></h3><p class="showcase-summary">{project.summary}</p><p class="showcase-category">{project.category}</p><span class="showcase-tag">{project.type}</span><div class="showcase-links"><a href={url(`work/${project.slug}/`)}>Explore project <span aria-hidden="true">↗</span></a><a href={url(`work/${project.slug}/#screenshots`)}>Pages & device views <span aria-hidden="true">↗</span></a></div></div>
+        <a class="showcase-preview" href={url(`work/${project.slug}/`)} aria-label={`Read ${project.name} case study`}>
+          <div class="showcase-desktop"><div class="showcase-browser" aria-hidden="true"><i></i><i></i><i></i></div><Image src={preview?.laptop || project.image} alt={`${project.name} website on desktop`} widths={[480,800,1200]} sizes="(max-width:700px) 78vw, 40vw" format="webp" quality={82} loading="lazy"/></div>
+          {preview && <div class="showcase-phone"><Image src={preview.phone} alt={`${project.name} website on a phone`} widths={[160,240,390]} sizes="(max-width:700px) 20vw, 10vw" format="webp" quality={82} loading="lazy"/></div>}
+          <span class="showcase-preview-label">View project ↗</span>
+        </a>
+      </article>;
+    })}
+  </div>
+</div>
+<script>
+  document.querySelectorAll<HTMLElement>('.project-showcase').forEach(showcase => {
+    const panels = [...showcase.querySelectorAll<HTMLElement>('.showcase-panel')];
+    const buttons = [...showcase.querySelectorAll<HTMLButtonElement>('[data-step]')];
+    const count = showcase.querySelector('.showcase-count')!;
+    const reduce = matchMedia('(prefers-reduced-motion:reduce)');
+    let current = 0, frame = 0;
+    const update = () => {
+      current = 0;
+      panels.forEach((panel,index) => {if(panel.getBoundingClientRect().top <= innerHeight*.45) current=index;});
+      count.textContent = `${current+1} / ${panels.length}`;
+      buttons[0].disabled=current===0;
+      buttons[1].disabled=current===panels.length-1;
+    };
+    buttons.forEach(button => button.addEventListener('click',() => {
+      const next = Math.max(0,Math.min(panels.length-1,current+Number(button.dataset.step)));
+      const stack = showcase.querySelector<HTMLElement>('.showcase-stack')!;
+      const precedingHeight = panels.slice(0,next).reduce((height,panel) => height + panel.offsetHeight + parseFloat(getComputedStyle(panel).marginBottom),0);
+      const top = stack.getBoundingClientRect().top + scrollY + parseFloat(getComputedStyle(stack).paddingTop) + precedingHeight - 86;
+      window.scrollTo({top,behavior:reduce.matches?'instant':'smooth'});
+    }));
+    window.addEventListener('scroll',() => {cancelAnimationFrame(frame);frame=requestAnimationFrame(update);},{passive:true});
+    window.addEventListener('resize',update);
+    update();
+  });
+</script>
