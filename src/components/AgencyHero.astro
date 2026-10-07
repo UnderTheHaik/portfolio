@@ -1,0 +1,27 @@
+---
+import { Image } from 'astro:assets';
+import { projects } from '../lib/portfolio';
+import { url } from '../lib/content';
+const previews = ['noura-beauty-house','brightpath-academy','sift-and-saffron','loom-and-kiln','her-circle','second-story'].map(slug => projects.find(project => project.slug === slug)!);
+---
+<section class="agency-hero">
+  <div class="hero-collage" aria-hidden="true">{[0,1,2].map(column => <div class="collage-column">{[previews[column*2],previews[column*2+1],previews[column*2]].map(project => <div class="collage-screen"><Image src={project.image} alt="" widths={[480,800]} sizes="(max-width:700px) 60vw, 32vw" format="webp" quality={80} loading={column===1?'eager':'lazy'}/></div>)}</div>)}</div>
+  <div class="agency-hero-shade"></div>
+  <div class="wrap agency-hero-content">
+    <p class="agency-kicker">INDEPENDENT WEB & VISUAL DESIGN · DUBAI</p>
+    <h1>Your next chapter.<br/>A website & identity<br/><span>made for your business.</span></h1>
+    <p class="agency-intro">Affordable websites and starter visual identities for small businesses in the UAE. Thoughtful design, technical care and direct communication with the person doing the work.</p>
+    <ul class="hero-benefits"><li>Affordable<br/>web design</li><li>Ready for<br/>every screen</li><li>A clear<br/>visual identity</li></ul>
+    <div class="agency-actions"><a class="button" href="#contact">Request a quote <span aria-hidden="true">↗</span></a><a class="hero-work-link" href="#work">Explore my work <span aria-hidden="true">↓</span></a></div>
+  </div>
+</section>
+<div class="agency-facts wrap" aria-label="What Under the Haik offers">
+  <div><span aria-hidden="true">↗</span><p><strong>8</strong><span>Portfolio projects</span></p></div>
+  <div><span aria-hidden="true">⌘</span><p><strong>350 <small>AED</small></strong><span>One-page websites from</span></p></div>
+  <div><span aria-hidden="true">✳</span><p><strong>1,000 <small>AED</small></strong><span>Business launch bundle</span></p></div>
+  <div><span aria-hidden="true">◎</span><p><strong>Dubai</strong><span>Independent designer</span></p></div>
+</div>
+<section class="agency-introduction wrap">
+  <div><p class="eyebrow">A WEBSITE THAT FEELS LIKE YOUR BUSINESS</p><h2>A strong first impression.<br/><span>A clear next step.</span></h2></div>
+  <div><p>Your business deserves a home online that makes it easy to understand what you offer, see your work and get in touch. I combine a thoughtful visual identity with a practical, responsive website.</p><p>From home bakeries and salons to tutors and local communities, every project begins with your audience and the action you want them to take.</p><a class="text-link" href={url('#about')}>Meet the designer <span aria-hidden="true">↗</span></a></div>
+</section>
