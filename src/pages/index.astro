@@ -8,7 +8,7 @@ import MockupAccordion from '../components/MockupAccordion.astro';
 import { projects } from '../lib/portfolio';
 import { url } from '../lib/content';
 import '../styles/pricing.css';
-const selectedProjects = ['sift-and-saffron', 'noura-beauty-house', 'crumb-and-cup', 'the-table-restaurant', 'loom-and-kiln', 'brightpath-academy', 'second-story', 'les-mots-dun-montagnard', 'her-circle'].map(slug => projects.find(project => project.slug === slug)!);
+const selectedProjects = ['sift-and-saffron', 'noura-beauty-house', 'crumb-and-cup', 'serenas-sanctuary', 'the-table-restaurant', 'loom-and-kiln', 'brightpath-academy', 'second-story', 'les-mots-dun-montagnard', 'her-circle'].map(slug => projects.find(project => project.slug === slug)!);
 const oneTimeOffers = [
   { name: 'One-page website', price: '350', unit: 'AED', description: 'A clear starting point for a small business.', features: ['Up to six sections', 'Mobile layout', 'Contact links', 'Basic search setup'] },
   { name: 'Business website', price: '500', unit: 'AED', description: 'A small, practical home for your services.', features: ['Up to five simple pages', 'Mobile layout', 'One revision round'] },
