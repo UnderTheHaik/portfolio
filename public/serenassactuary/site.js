@@ -5,3 +5,12 @@ function closeMenu(){toggle?.setAttribute('aria-expanded','false');nav?.classLis
 toggle?.addEventListener('click',()=>{const open=toggle.getAttribute('aria-expanded')!=='true';toggle.setAttribute('aria-expanded',String(open));nav.classList.toggle('open',open);});
 nav?.querySelectorAll('a').forEach(a=>a.addEventListener('click',closeMenu));
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&toggle?.getAttribute('aria-expanded')==='true'){closeMenu();toggle.focus();}});
+const floatingActions = document.querySelector('.floating-actions');
+if (floatingActions) {
+  const updateFloatingActions = () => {
+    floatingActions.hidden = window.scrollY <= 80;
+  };
+  updateFloatingActions();
+  window.addEventListener('scroll', updateFloatingActions, { passive: true });
+  window.addEventListener('pageshow', updateFloatingActions);
+}
