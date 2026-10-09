@@ -19,3 +19,5 @@
  .showcase-preview{max-height:250px;aspect-ratio:1.4;padding:24px 20px}
 }
 @media(max-width:700px) and (prefers-reduced-motion:reduce){.showcase-panel{position:relative;top:auto}}
+
+.tone-0 .showcase-preview{background:#f0f2ff}.tone-1 .showcase-preview{background:#fff0f1}.tone-2 .showcase-preview{background:#f0f8f3}.tone-3 .showcase-preview{background:#fff7ec}
