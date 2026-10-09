@@ -10,4 +10,4 @@
 .footer{padding-bottom:90px}
 @media(max-width:760px){.floating-actions{right:max(16px,env(safe-area-inset-right));bottom:calc(16px + env(safe-area-inset-bottom))}.floating-book{display:inline-flex;align-items:center;gap:20px;min-height:48px;padding:11px 20px;background:var(--olive);color:white;border:1px solid var(--olive);border-radius:24px;font-size:14px;font-weight:500;box-shadow:0 4px 18px #333a3020}.floating-book:hover{background:#4b5b42}.footer{padding-bottom:95px}}
 .floating-actions[hidden]{display:none}
-.header{background:var(--blush);box-shadow:0 0 0 100vmax var(--blush);clip-path:inset(0 -100vmax)} @media(max-width:760px){.header{clip-path:none;box-shadow:none;width:100%;padding-inline:6%}.header nav{background:var(--blush)}}
+
