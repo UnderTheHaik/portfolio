@@ -13,11 +13,11 @@ The deployable output is `dist/`. Set `SITE_URL` to the final origin and `BASE_P
 ## GitHub publication
 
 - Source: https://github.com/UnderTheHaik/portfolio (main branch).
-- Website: https://underthehaik.github.io/portfolio/.
+- Website: https://underthehaik.com/.
 - GitHub Pages publishes the generated `gh-pages` branch, with a `.nojekyll` file.
-- Production build settings: `SITE_URL=https://underthehaik.github.io`, `BASE_PATH=/portfolio`.
+- Production build settings: `SITE_URL=https://underthehaik.com`, `BASE_PATH=/`.
 
-The portfolio repository uses direct static publication because the current GitHub login cannot upload Actions workflows. Pushing source to main does not redeploy the site automatically. For future updates, build with the production settings, run the build checks with `BASE_PATH=/portfolio`, then commit the generated output to the repository's `gh-pages` branch. Keep the source on main and private runtime files out of both branches.
+The portfolio repository uses direct static publication because the current GitHub login cannot upload Actions workflows. Pushing source to main does not redeploy the site automatically. For future updates, build with the production settings, run the build checks with `BASE_PATH=/`, then commit the generated output to the repository's `gh-pages` branch. Keep the source on main and private runtime files out of both branches.
 
 On this machine, `work/portfolio-publish/` is the source checkout and `work/portfolio-pages/` is the generated-page checkout. They are excluded from the original workspace's Git tracking. The original workspace remote still refers to the old journal repository; use the portfolio checkout when pushing portfolio changes. Before building again, output to a separate folder or `dist/`, then sync the generated files into the Pages checkout while preserving its `.git` directory.
 
