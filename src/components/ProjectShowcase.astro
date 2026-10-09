@@ -33,6 +33,7 @@ const { projects } = Astro.props;
       current = 0;
       panels.forEach((panel,index) => {if(panel.getBoundingClientRect().top <= innerHeight*.45) current=index;});
       count.textContent = `${current+1} / ${panels.length}`;
+      showcase.style.setProperty('--project-button-background', getComputedStyle(panels[current]).background);
       buttons[0].disabled=current===0;
       buttons[1].disabled=current===panels.length-1;
     };
