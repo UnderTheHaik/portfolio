@@ -1,0 +1,6 @@
+---
+interface Props { price: number; }
+const { price } = Astro.props;
+const format = (value: number) => value.toLocaleString('en-US');
+---
+<p class="pricing-amount launch-price"><span class="regular-price"><span class="sr-only">Regular price: </span><s>{format(price)} AED</s></span><strong><span class="sr-only">Launch price: </span>{format(price / 2)}</strong><span>AED</span></p>

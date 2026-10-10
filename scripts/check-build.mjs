@@ -8,7 +8,7 @@ async function walk(dir){const entries=await readdir(dir,{withFileTypes:true});r
 const files=await walk(root);const html=files.filter(f=>f.endsWith('.html'));
 for(const f of html){const text=await readFile(f,'utf8');assert.match(text,/<title>.+<\/title>/);assert.match(text,/name="description"/);assert.match(text,/rel="canonical"/);for(const [,href] of text.matchAll(/(?:href|src)="([^"#]+)"/g)){if(!href.startsWith('/'))continue;assert.ok(!base||href.startsWith(base+'/'),`Missing base path: ${href}`);const local=decodeURIComponent(href.slice(base.length).split(/[?#]/)[0]);const target=path.join(root,local.endsWith('/')?`${local}index.html`:local);await access(target).catch(()=>{throw Error(`Broken local link in ${f}: ${href}`);});}}
 for(const name of ['rss.xml','sitemap-index.xml','robots.txt'])await access(path.join(root,name));
-const home=await readFile(path.join(root,'index.html'),'utf8');assert.ok(home.includes('Ready to begin'));assert.ok(home.includes('1,000'));assert.ok(!home.includes('senior developer'));assert.ok(!home.includes('Transforming ideas into digital experiences'));
+const home=await readFile(path.join(root,'index.html'),'utf8');assert.ok(home.includes('Ready to begin'));assert.ok(home.includes('1,700'));assert.ok(!home.includes('senior developer'));assert.ok(!home.includes('Transforming ideas into digital experiences'));
 for(const slug of ['her-circle','nisma','haya2','sift-and-saffron','les-mots-dun-montagnard','underthehaik','personalized-perfume','crumb-and-cup','second-story','noura-beauty-house']){
  const study=await readFile(path.join(root,'work',slug,'index.html'),'utf8');
  assert.ok(study.includes('id="branding"'), `${slug}: missing branding section`);

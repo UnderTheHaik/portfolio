@@ -1,6 +1,6 @@
 # Under the Haik — Freelance portfolio
 
-A Dubai-based web design and development portfolio built with Astro, TypeScript and CSS. The homepage features six selected projects, website and visual identity launch packages, a technical-background section, an eight-step delivery process and Instagram contact. The main offer is the 1,000 AED business launch bundle. Each project has its own case study at `/work/<slug>/`.
+A Dubai-based web design and development portfolio built with Astro, TypeScript and CSS. The homepage features six selected projects, website and visual identity launch packages, a technical-background section, an eight-step delivery process and Instagram contact. The main packages are 650 AED for a one-page website, 1,200 AED for a business website and 1,700 AED for Complete launch. Website, identity and social setup packages currently show a 50% launch offer alongside regular prices; care, domains, updates and extras use their listed standard rates. Each project has its own case study at `/work/<slug>/`.
 
 Concepts, family projects and personal work are labelled explicitly. The copy makes no seniority, paid-client, testimonial, revenue or years-of-experience claims. Public WooCommerce showcases are clearly described as static previews.
 
