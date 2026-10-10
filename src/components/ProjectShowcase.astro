@@ -11,13 +11,13 @@ const { projects } = Astro.props;
   <div class="showcase-stack">
     {projects.map((project,index) => {
       const preview = getProjectCaptures(project.slug)[0];
+      const website = 'demoPath' in project ? url(project.demoPath as string) : `https://underthehaik.github.io/${project.slug}/`;
       return <article class={`showcase-panel tone-${index%4}`} id={`showcase-${project.slug}`} style={`--panel-order:${index}`} aria-label={`${index+1} of ${projects.length}: ${project.name}`}>
-        <div class="showcase-copy"><p class="showcase-kicker"><span aria-hidden="true">▶</span> My web design portfolio</p><h3><a href={url(`work/${project.slug}/`)}>{project.name}</a></h3><p class="showcase-summary">{project.summary}</p><p class="showcase-category">{project.category}</p><span class="showcase-tag">{project.type}</span><div class="showcase-links"><a href={url(`work/${project.slug}/`)}>Explore project <span aria-hidden="true">↗</span></a><a href={url(`work/${project.slug}/#screenshots`)}>Pages & device views <span aria-hidden="true">↗</span></a></div></div>
-        <a class="showcase-preview" href={url(`work/${project.slug}/`)} aria-label={`Read ${project.name} case study`}>
+        <div class="showcase-copy"><p class="showcase-kicker"><span aria-hidden="true">▶</span> My web design portfolio</p><h3>{project.name}</h3><p class="showcase-summary">{project.summary}</p><p class="showcase-category">{project.category}</p><span class="showcase-tag">{project.type}</span><div class="showcase-links"><a class="showcase-website" href={website} aria-label={`Visit ${project.name} website`}>Visit website <span aria-hidden="true">↗</span></a></div></div>
+        <div class="showcase-preview">
           <div class="showcase-desktop"><div class="showcase-browser" aria-hidden="true"><i></i><i></i><i></i></div><Image src={preview?.laptop || project.image} alt={`${project.name} website on desktop`} widths={[480,800,1200]} sizes="(max-width:700px) 78vw, 40vw" format="webp" quality={82} loading="lazy"/></div>
           {preview && <div class="showcase-phone"><Image src={preview.phone} alt={`${project.name} website on a phone`} widths={[160,240,390]} sizes="(max-width:700px) 20vw, 10vw" format="webp" quality={82} loading="lazy"/></div>}
-          <span class="showcase-preview-label">View project ↗</span>
-        </a>
+        </div>
       </article>;
     })}
   </div>

@@ -21,3 +21,4 @@
 @media(max-width:700px) and (prefers-reduced-motion:reduce){.showcase-panel{position:relative;top:auto}}
 
 .tone-0 .showcase-preview{background:#f0f2ff}.tone-1 .showcase-preview{background:#fff0f1}.tone-2 .showcase-preview{background:#f0f8f3}.tone-3 .showcase-preview{background:#fff7ec}
+.showcase-links .showcase-website{display:inline-flex;align-items:center;gap:12px;padding:12px 18px;background:#252630;color:#fff;border:0;border-radius:6px;font-size:.85rem}.showcase-links .showcase-website:hover{background:#434650;text-decoration:none}.showcase-website:focus-visible{outline:3px solid #b5403f;outline-offset:4px}.showcase-desktop img{aspect-ratio:auto;object-fit:contain}.showcase-phone img{display:block;aspect-ratio:390/844;object-fit:cover;object-position:top}

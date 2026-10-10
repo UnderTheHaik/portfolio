@@ -25,7 +25,7 @@ for(const slug of ['her-circle','nisma','haya2','sift-and-saffron','les-mots-dun
  }
 }
 assert.ok(home.includes('Hi, I’m ken.lou'));
-const projectOrder=[...home.matchAll(/aria-label="Read ([^"]+) case study"/g)].map(match=>match[1]);
+const projectOrder=[...home.matchAll(/aria-label="Visit ([^"]+) website"/g)].map(match=>match[1]);
 assert.deepEqual(projectOrder.slice(0,3),['Sift &amp; Saffron','Noura Beauty House','Crumb &amp; Cup']);
 assert.ok(home.includes('Business email coming soon.'));assert.ok(!home.includes('href="https://wa.me/"'));
 console.log(`Checked ${html.length} HTML pages: metadata, local links/assets, base paths, homepage copy, RSS, sitemap, and robots file.`);
