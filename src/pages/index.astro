@@ -7,6 +7,8 @@ import ProjectShowcase from '../components/ProjectShowcase.astro';
 import PortfolioContact from '../components/PortfolioContact.astro';
 import MockupAccordion from '../components/MockupAccordion.astro';
 import { projects } from '../lib/portfolio';
+import { services } from '../lib/services';
+import '../styles/services.css';
 import { url } from '../lib/content';
 import '../styles/pricing.css';
 const selectedProjects = ['sift-and-saffron', 'noura-beauty-house', 'crumb-and-cup', 'haya2', 'serenas-sanctuary', 'the-table-restaurant', 'loom-and-kiln', 'brightpath-academy', 'second-story', 'les-mots-dun-montagnard', 'her-circle'].map(slug => projects.find(project => project.slug === slug)!);
@@ -47,11 +49,12 @@ const process = [
 ];
 ---
 <Portfolio>
-  <AgencyHero/>
+  <AgencyHero projectCount={selectedProjects.length}/>
   <section id="work" class="work-section wrap"><div class="section-heading"><div><p class="eyebrow">01 / SELECTED WORK</p><h2>Different projects.<br/>The same attention to detail<span class="dot">.</span></h2></div><p>Websites for businesses, communities and independent voices. Preview each project on laptop and phone, then visit its website.</p></div><ProjectShowcase projects={selectedProjects}/></section>
   <section id="services" class="services-section pricing-section" aria-labelledby="pricing-title">
     <div class="wrap">
       <div class="section-heading"><div><p class="eyebrow">02 / CLEAR, SIMPLE PRICING</p><h2 id="pricing-title">Pick a starting point.<br/>Build the right package<span class="dot">.</span></h2></div><p>Static websites and visual identities with a clear scope, direct communication and a written quote.</p></div>
+      <nav class="service-links" aria-label="Explore design services">{services.map(service => <a href={url(`services/${service.slug}/`)}>{service.label} ↗</a>)}<a href={url("guides/website-cost-dubai/")}>Website cost guide ↗</a></nav>
       <div class="launch-notice"><span class="launch-badge">Launch offer — 50% off</span><p>Half-price website, identity and social setup packages. Regular prices are shown beside your launch price. Domains, updates, monthly care, renewal management and extras use the rates listed below.</p></div>
       <div class="pricing-main" aria-label="Main website packages">
         {mainOffers.map(card=><article class="pricing-card"><span class="pricing-offer-mark">Launch special · 50% off</span><h3>{card.name}</h3><p class="pricing-description">{card.description}</p><LaunchPrice price={card.price}/><ul>{card.features.map(feature=><li>{feature}</li>)}</ul><a class="pricing-cta" href="#contact">Discuss this package <span aria-hidden="true">↗</span></a></article>)}

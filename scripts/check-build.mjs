@@ -7,9 +7,9 @@ const base=(process.env.BASE_PATH||'').replace(/\/$/,'');
 async function walk(dir){const entries=await readdir(dir,{withFileTypes:true});return (await Promise.all(entries.map(e=>e.isDirectory()?walk(path.join(dir,e.name)):path.join(dir,e.name)))).flat();}
 const files=await walk(root);const html=files.filter(f=>f.endsWith('.html'));
 for(const f of html){const text=await readFile(f,'utf8');assert.match(text,/<title>.+<\/title>/);assert.match(text,/name="description"/);assert.match(text,/rel="canonical"/);for(const [,href] of text.matchAll(/(?:href|src)="([^"#]+)"/g)){if(!href.startsWith('/'))continue;assert.ok(!base||href.startsWith(base+'/'),`Missing base path: ${href}`);const local=decodeURIComponent(href.slice(base.length).split(/[?#]/)[0]);const target=path.join(root,local.endsWith('/')?`${local}index.html`:local);await access(target).catch(()=>{throw Error(`Broken local link in ${f}: ${href}`);});}}
-for(const name of ['rss.xml','sitemap-index.xml','robots.txt'])await access(path.join(root,name));
+for(const name of ['sitemap-index.xml','robots.txt'])await access(path.join(root,name));
 const home=await readFile(path.join(root,'index.html'),'utf8');assert.ok(home.includes('Ready to begin'));assert.ok(home.includes('1,700'));assert.ok(!home.includes('senior developer'));assert.ok(!home.includes('Transforming ideas into digital experiences'));
-for(const slug of ['her-circle','nisma','haya2','sift-and-saffron','les-mots-dun-montagnard','underthehaik','personalized-perfume','crumb-and-cup','second-story','noura-beauty-house']){
+for(const slug of ['her-circle','nisma','haya2','sift-and-saffron','les-mots-dun-montagnard','personalized-perfume','crumb-and-cup','second-story','noura-beauty-house']){
  const study=await readFile(path.join(root,'work',slug,'index.html'),'utf8');
  assert.ok(study.includes('id="branding"'), `${slug}: missing branding section`);
  assert.ok(!study.includes('<h2>Challenges</h2>'), `${slug}: old case-study narrative remains`);
@@ -27,12 +27,27 @@ for(const slug of ['her-circle','nisma','haya2','sift-and-saffron','les-mots-dun
 assert.ok(home.includes('Hi, I’m ken.lou'));
 const projectOrder=[...home.matchAll(/aria-label="Visit ([^"]+) website"/g)].map(match=>match[1]);
 assert.deepEqual(projectOrder.slice(0,3),['Sift &amp; Saffron','Noura Beauty House','Crumb &amp; Cup']);
-assert.ok(home.includes('Business email coming soon.'));assert.ok(!home.includes('href="https://wa.me/"'));
-console.log(`Checked ${html.length} HTML pages: metadata, local links/assets, base paths, homepage copy, RSS, sitemap, and robots file.`);
-for(const page of ['index.html','essays/index.html','categories/index.html','about/index.html','contact/index.html','privacy/index.html','essays/who-owns-the-book/index.html']){const content=await readFile(path.join(root,'fr',page),'utf8');assert.match(content,/<html lang="fr"/);assert.ok(content.includes('Mode sombre'));assert.ok(content.includes('Accueil'));}
-console.log('French page language and translated navigation verified.');
-const example=await readFile(path.join(root,'essays/who-owns-the-book/index.html'),'utf8');
-assert.match(example,/srcset="/);assert.match(example,/\.webp/);
-for(const [,attrs] of example.matchAll(/<img\s+([^>]+)>/g)){if(attrs.includes('class="brand-logo"'))continue;assert.match(attrs,/alt="[^"]{10,}"/);assert.match(attrs,/width="\d+"/);assert.match(attrs,/height="\d+"/);}
-console.log('Article cover, responsive sources, alt text and intrinsic dimensions verified.');
+assert.ok(!home.includes('href="https://wa.me/"'));
+console.log(`Checked ${html.length} HTML pages: metadata, local links/assets, base paths, homepage copy, sitemap, and robots file.`);
 
+const sitemap = await readFile(path.join(root,'sitemap-0.xml'),'utf8');
+assert.ok(!/\/(?:essays|journal|fr|tags|categories|demos)(?:\/|<)/.test(sitemap), 'Removed content must not be in sitemap');
+assert.ok(!sitemap.includes('/404/'), 'Error pages must not be in sitemap');
+for (const removed of ['essays','journal','fr','tags','categories','rss.xml','work/underthehaik']) {
+ assert.ok(!files.some(file => { const relative=path.relative(root,file).replaceAll('\\','/'); return relative===removed || relative.startsWith(removed+'/'); }), `Removed output remains: ${removed}`);
+}
+for (const slug of ['web-design-dubai','one-page-website-dubai','visual-identity-dubai','website-branding-package-dubai','website-care-uae']) {
+ const route=`services/${slug}/`;
+ const content=await readFile(path.join(root,route,'index.html'),'utf8');
+ assert.equal((content.match(/<h1[ >]/g)||[]).length,1);
+ assert.ok(sitemap.includes(route));
+ assert.ok(home.includes(`href="${base}/${route}"`));
+}
+for (const file of html.filter(file => file.includes(path.join('demos',path.sep)))) {
+ if(file.includes('serenas-sanctuary'))continue;
+ assert.match(await readFile(file,'utf8'), /name="robots" content="noindex, follow"/);
+}
+assert.ok(!home.includes('350 AED') && !home.includes('1,000 AED'), 'Stale metadata prices');
+for (const slug of ['sift-and-saffron','noura-beauty-house','crumb-and-cup']) assert.ok(home.includes(`href="${base}/work/${slug}/"`));
+assert.match(await readFile(path.join(root,'404.html'),'utf8'),/name="robots" content="noindex, follow"/);
+console.log('SEO regression checks passed: journal removal, service discovery, demo noindex, metadata and error page.');

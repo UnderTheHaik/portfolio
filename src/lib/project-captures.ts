@@ -16,7 +16,6 @@ const pages: Record<string, [string, string][]> = {
   haya2: [['home', 'Homepage'], ['shop', 'Abaya catalogue'], ['sizing', 'Size guide']],
   'sift-and-saffron': [['home', 'Homepage'], ['menu', 'Bakery menu'], ['enquiry', 'Custom cake enquiry']],
   'les-mots-dun-montagnard': [['home', 'Homepage'], ['archive', 'Poetry archive'], ['poem', 'Individual poem']],
-  underthehaik: [['home', 'Homepage'], ['archive', 'Essay archive'], ['essay', 'Individual essay']],
   'personalized-perfume': [['home', 'Homepage'], ['collection', 'Fragrance collection'], ['personalize', 'Create your scent']],
   'crumb-and-cup': [['home', 'Homepage'], ['menu', 'Menu section'], ['story', 'Story section']],
 };

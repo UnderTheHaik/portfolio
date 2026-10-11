@@ -12,10 +12,13 @@ const next = projects[(index+1)%projects.length];
 const identity = identities[project.slug];
 const design = project.sections.find(([heading]) => heading === 'Design')?.[1];
 ---
-<Portfolio title={`${project.name} — Case study`} description={`${project.summary} ${project.type}. Explore the branding, colour theme and visual identity of this portfolio project.`} image={project.image.src}>
+<Portfolio title={`${project.category.split(" / ")[0]} website design — ${project.name}`} description={`${project.summary} ${project.type}. See the design approach and responsive website previews.`} image={project.image.src}>
   <article class="case-study wrap"><a class="text-link case-back" href={`${url()}#work`}>← Back to selected work</a><header class="case-header"><p class="eyebrow">{project.category}</p><h1>{project.name}<span class="dot">.</span></h1><div class="case-lead"><p>{project.summary}</p><span class="project-type">{project.type}</span></div><div class="case-meta"><div><span class="eyebrow">PROJECT</span><p>{project.type}</p></div><a class="button" href={'demoPath' in project ? url(project.demoPath as string) : `https://underthehaik.github.io/${project.slug}/`}>Visit website <span aria-hidden="true">↗</span></a></div></header>
   <ProjectGallery slug={project.slug} name={project.name}/>
+  <section class="project-story"><h2>The brief and approach</h2>{project.sections.filter(([heading]) => ["Context", "Problem", "Approach", "Development", "Result"].includes(heading)).map(([heading,copy]) => <section><h3>{heading}</h3><p>{copy}</p></section>)}</section>
   <div class="case-body"><aside><p class="eyebrow">THE VISUAL IDENTITY</p><nav aria-label="Project identity sections"><a href="#screenshots">Website previews</a><a href="#branding">Branding direction</a>{identity && <><a href="#colour-theme">Colour theme</a><a href="#typography">Typography</a><a href="#logo-approaches">Logo approaches</a></>}</nav></aside><div><section id="branding"><p class="eyebrow">01 / BRANDING</p><h2>The look &amp; feel.</h2><p>{identity?.direction || design}</p><p class="identity-note">{project.type.includes('concept') || project.type.includes('Concept') ? 'Self-initiated portfolio concept.' : project.type + '.'}</p></section>{identity && <BrandIdentity identity={identity} name={project.name} slug={project.slug}/>}</div></div>
   <a class="next-project" href={url(`work/${next.slug}/`)}><span class="eyebrow">NEXT PROJECT</span><span>{next.name} <span aria-hidden="true">↗</span></span></a></article>
   <PortfolioContact/>
 </Portfolio>
+
+<style>.project-story{max-width:75ch;margin:48px 0 64px}.project-story>h2{margin-bottom:24px}.project-story section{margin-top:24px}.project-story h3{margin-bottom:12px}.project-story p{line-height:1.75}</style>

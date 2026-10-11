@@ -9,7 +9,6 @@ import nisma from '../assets/portfolio/nisma.jpg';
 import haya from '../assets/portfolio/haya2.jpg';
 import bakery from '../assets/portfolio/sift-and-saffron.jpg';
 import poetry from '../assets/portfolio/les-mots-dun-montagnard.jpg';
-import journal from '../assets/portfolio/underthehaik.jpg';
 import perfume from '../assets/portfolio/personalized-perfume.jpg';
 import cafe from '../assets/portfolio/crumb-and-cup.jpg';
 
@@ -80,21 +79,6 @@ export const projects = [
       ['Challenges', 'Poetry has different layout needs from ordinary paragraphs. Line lengths, image contrast and small-screen reading must be considered together. Archive metadata also needs to stay consistent as the collection grows.'],
       ['Result', 'A published French-language poetry collection with individual reading pages, an organised archive and a separate news section. The site presents the author’s actual writing; no audience metrics are claimed.'],
       ['What I learned', 'The content should determine the interface. For poetry, preserving a comfortable reading rhythm matters more than adding visual effects.'],
-    ],
-  },
-  {
-    slug: 'underthehaik', name: 'Under the Haik', type: 'Personal publishing project', category: 'Journal / Bilingual', image: journal, color: 'cream',
-    summary: 'An independent journal in English and French.',
-    stack: ['Astro', 'TypeScript', 'Markdown', 'CSS', 'Sharp'],
-    sections: [
-      ['Context', 'My personal writing space for essays on faith, heritage, society, technology and everyday life. This is an independent personal project.'],
-      ['Problem', 'Long-form essays need a comfortable reading experience, a clear subject structure and a way to navigate between English and French versions.'],
-      ['Approach', 'Use content collections for articles, individual essay pages, subject archives and language-aware navigation. Separate the writing content from the shared presentation.'],
-      ['Design', 'An editorial masthead, restrained palette and generous reading width put the words first. Article images support the subject, with captions and credits where applicable. A dark reading mode is available.'],
-      ['Development', 'Astro generates static pages from typed Markdown content. Responsive WebP images, RSS, sitemap generation and page metadata support publishing and discovery. TypeScript helps keep content and route handling consistent.'],
-      ['Challenges', 'Translations, article metadata and image sources need to remain aligned as the journal grows. Reading layouts must also work with long titles and different image proportions.'],
-      ['Result', 'A published bilingual journal with essay and category pages, responsive imagery and a repeatable content workflow. Some editorial illustrations are AI-generated and identified in the journal documentation.'],
-      ['What I learned', 'A content website needs a maintainable publishing workflow as much as a strong homepage. Shared layouts and structured metadata make future updates more reliable.'],
     ],
   },
   {

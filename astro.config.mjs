@@ -6,5 +6,5 @@ export default defineConfig({
   base: process.env.BASE_PATH || '/',
   output: 'static',
   trailingSlash: 'always',
-  integrations: [sitemap(), mdx()],
+  integrations: [sitemap({ filter: (page) => !/\/(?:404|demos)(?:\/|$)/.test(new URL(page).pathname) }), mdx()],
 });

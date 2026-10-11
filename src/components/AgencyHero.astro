@@ -2,6 +2,8 @@
 import { Image } from 'astro:assets';
 import { projects } from '../lib/portfolio';
 import { url } from '../lib/content';
+interface Props { projectCount: number; }
+const { projectCount } = Astro.props;
 const previews = ['noura-beauty-house','brightpath-academy','sift-and-saffron','loom-and-kiln','her-circle','second-story'].map(slug => projects.find(project => project.slug === slug)!);
 ---
 <section class="agency-hero">
@@ -9,14 +11,14 @@ const previews = ['noura-beauty-house','brightpath-academy','sift-and-saffron','
   <div class="agency-hero-shade"></div>
   <div class="wrap agency-hero-content">
     <p class="agency-kicker">INDEPENDENT WEB & VISUAL DESIGN · DUBAI</p>
-    <h1>Your next chapter.<br/>A website & identity<br/><span>made for your business.</span></h1>
+    <h1>Affordable web design<br/>&amp; visual identity<br/><span>in Dubai.</span></h1>
     <p class="agency-intro">Affordable websites and starter visual identities for small businesses in the UAE. Thoughtful design, technical care and direct communication with the person doing the work.</p>
     <ul class="hero-benefits"><li>Affordable<br/>web design</li><li>Ready for<br/>every screen</li><li>A clear<br/>visual identity</li></ul>
     <div class="agency-actions"><a class="button" href="#contact">Request a quote <span aria-hidden="true">↗</span></a><a class="hero-work-link" href="#work">Explore my work <span aria-hidden="true">↓</span></a></div>
   </div>
 </section>
 <div class="agency-facts wrap" aria-label="What Under the Haik offers">
-  <div><span aria-hidden="true">↗</span><p><strong>8</strong><span>Portfolio projects</span></p></div>
+  <div><span aria-hidden="true">↗</span><p><strong>{projectCount}</strong><span>Portfolio projects</span></p></div>
   <div><span aria-hidden="true">⌘</span><p><strong>325 <small>AED</small></strong><span>One-page launch price · <s>650 AED</s></span></p></div>
   <div><span aria-hidden="true">✳</span><p><strong>850 <small>AED</small></strong><span>Complete launch · <s>1,700 AED</s></span></p></div>
   <div><span aria-hidden="true">◎</span><p><strong>Dubai</strong><span>Independent designer</span></p></div>
