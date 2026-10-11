@@ -8,7 +8,7 @@ Run `pnpm check`, `pnpm build`, then `pnpm test`. Alternatively use `node node_m
 
 ## Publishing
 
-Source repository: UnderTheHaik/portfolio, main branch. GitHub Pages publishes the gh-pages branch from the sibling `../portfolio-pages` checkout. Build with `SITE_URL=https://underthehaik.com` and `BASE_PATH=/`. Preserve CNAME and .nojekyll when syncing the production build. Source pushes alone do not deploy.
+Source repository: UnderTheHaik/portfolio, main branch. GitHub Pages publishes the gh-pages branch from the sibling `../portfolio-pages` checkout. Build with `SITE_URL=https://underthehaik.com` and `BASE_PATH=/`. Preserve CNAME and .nojekyll in the production build. Source pushes alone do not deploy. The SEO release was published directly from `dist` using a temporary Git index, `write-tree`, `commit-tree` with the remote gh-pages parent, and a fast-forward push. The sibling portfolio-pages working checkout was not synced and is stale: do not publish its files without refreshing it.
 
 ## Site content
 
