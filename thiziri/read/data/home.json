@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
   "id": "home",
-  "title": "Entering & leaving home",
-  "arabicTitle": "أذكار المنزل",
+  "title": "Adhkar entering & leaving home",
+  "arabicTitle": "أذكار دخول المنزل والخروج منه",
   "symbol": "◇",
   "entryCount": 2,
   "entries": [
@@ -50,9 +50,17 @@
         "noteAr": "وينقل دعاء التوكل واللجوء منفصلين عند الخروج من المنزل."
       },
       "countBasis": "personal",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Au nom d'Allah. Je compte sur Allah; il n'y a de force ni de puissance que par Allah.\n\nÔ Allah, je cherche refuge auprès de Toi contre l'égarement ou l'égarement, contre les glissades ou les erreurs, contre les torts ou les torts, contre les actes d'ignorance ou contre l'ignorance dirigée contre moi."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Au nom d’Allah. Je place ma confiance en Allah ; il n’y a de force ni de puissance que par Allah.\n\nÔ Allah, je cherche refuge auprès de Toi contre le fait de m’égarer ou d’être égaré, de trébucher ou d’être fait trébucher, de commettre une injustice ou d’en subir une, d’agir avec ignorance ou de subir l’ignorance d’autrui.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "frenchMeaning"
+        ],
+        "fullScholarlySignoff": false
+      }
     }
   ],
-  "frenchTitle": "Entrer et sortir de chez soi"
+  "frenchTitle": "Adhkar en entrant et sortant de chez soi",
+  "section": "adhkar"
 }

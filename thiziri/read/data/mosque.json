@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "id": "mosque",
-  "title": "At the mosque",
+  "title": "Adhkar at the mosque",
   "arabicTitle": "أذكار المسجد",
   "symbol": "◇",
   "entryCount": 3,
@@ -80,5 +80,6 @@
       "frenchMeaning": "Au nom d'Allah, et paix et bénédiction sur le Messager d'Allah. Ô Allah, je Te demande de Ta générosité. Protège-moi de Satan, le maudit."
     }
   ],
-  "frenchTitle": "À la mosquée"
+  "frenchTitle": "Adhkar à la mosquée",
+  "section": "adhkar"
 }

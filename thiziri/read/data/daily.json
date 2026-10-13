@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
   "id": "daily",
-  "title": "Tasbih & remembrance",
-  "arabicTitle": "تسابيح",
+  "title": "Tasbih & daily adhkar",
+  "arabicTitle": "التسبيح والأذكار اليومية",
   "symbol": "∞",
   "entryCount": 17,
   "entries": [
@@ -88,19 +88,26 @@
       "reference": "Jami at-Tirmidhi 3464",
       "order": 4,
       "review": {
-        "status": "narrated",
+        "status": "reported",
         "scope": "wording",
-        "note": "This wording is reported with a reward of a palm tree in Paradise. No fixed count is specified.",
+        "note": "Tirmidhi calls the palm-tree report hasan sahih gharib; the Darussalam edition grades its chain weak. Grading differs. The benefit is not presented as undisputed, and no fixed count is specified.",
         "references": [
           "Jami at-Tirmidhi 3464"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette formulation est rapportée avec une récompense d'un palmier au Paradis. Aucun nombre fixe n'est spécifié.",
-        "noteAr": "وقد ورد بهذا اللفظ أجر نخلة في الجنة. لم يتم تحديد عدد ثابت."
+        "noteFr": "Tirmidhi juge le récit du palmier « hasan sahih gharib » ; l’édition Darussalam juge sa chaîne faible. Les appréciations divergent. La récompense n’est pas présentée comme incontestée et aucun nombre fixe n’est indiqué.",
+        "noteAr": "حكم الترمذي على رواية النخلة بأنها حسن صحيح غريب، وضعّفت السلسلة في طبعة دار السلام. في التصحيح خلاف؛ فلا تُعرض المكافأة هنا حكمًا متفقًا عليه، ولم يُذكر عدد ثابت."
       },
       "countBasis": "personal",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Gloire et louange à Allah, le Magnifique."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Gloire et louange à Allah, le Magnifique.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "review"
+        ],
+        "fullScholarlySignoff": false
+      }
     },
     {
       "id": "thiziri-daily-5",
@@ -129,7 +136,7 @@
     {
       "id": "thiziri-daily-6",
       "title": "لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء…",
-      "arabic": "لَا إلَه إلّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءِ قَدِيرِ.",
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
       "englishMeaning": "None is worthy of worship except Allah alone, with no partner. His is the sovereignty and His is the praise, and He has power over all things.",
       "repetitions": 100,
       "readingOnly": false,
@@ -147,8 +154,15 @@
         "noteAr": "وقد ثبت في الرواية أن العدد اليومي لهذا اللفظ هو مائة."
       },
       "countBasis": "narrated",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Nulle divinité n’est digne d’adoration en dehors d’Allah, Seul et sans associé. À Lui la royauté et la louange, et Il est capable de toute chose."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Nulle divinité n’est digne d’adoration en dehors d’Allah, Seul et sans associé. À Lui la royauté et la louange, et Il est capable de toute chose.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "arabic"
+        ],
+        "fullScholarlySignoff": false
+      }
     },
     {
       "id": "thiziri-daily-7",
@@ -416,5 +430,6 @@
       "frenchMeaning": "Ô Allah, accorde Tes bénédictions à Muhammad et à la famille de Muhammad, comme Tu les as accordées à Ibrahim et à la famille d’Ibrahim. Tu es digne de louange et de gloire. Ô Allah, bénis Muhammad et la famille de Muhammad, comme Tu as béni Ibrahim et la famille d’Ibrahim. Tu es digne de louange et de gloire."
     }
   ],
-  "frenchTitle": "Tasbih et dhikr"
+  "frenchTitle": "Tasbih et adhkar quotidiens",
+  "section": "adhkar"
 }

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 3,
+  "id": "istikhara",
+  "title": "Dua of istikhara",
+  "arabicTitle": "دعاء الاستخارة",
+  "frenchTitle": "Invocation de l’istikhara",
+  "symbol": "◇",
+  "entries": [
+    {
+      "id": "thiziri-occasions-34",
+      "title": "دعـاء صـلاة الاستخـارة",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْتَخِيرُكَ بِعِلْمِكَ، وَأَسْتَقْدِرُكَ بِقُدْرَتِكَ، وَأَسْأَلُكَ مِنْ فَضْلِكَ الْعَظِيمِ، فَإِنَّكَ تَقْدِرُ وَلَا أَقْدِرُ، وَتَعْلَمُ وَلَا أَعْلَمُ، وَأَنْتَ عَلَّامُ الْغُيُوبِ. اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ خَيْرٌ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي، فَاقْدُرْهُ لِي وَيَسِّرْهُ لِي ثُمَّ بَارِكْ لِي فِيهِ. وَإِنْ كُنْتَ تَعْلَمُ أَنَّ هَذَا الْأَمْرَ شَرٌّ لِي فِي دِينِي وَمَعَاشِي وَعَاقِبَةِ أَمْرِي، فَاصْرِفْهُ عَنِّي وَاصْرِفْنِي عَنْهُ، وَاقْدُرْ لِي الْخَيْرَ حَيْثُ كَانَ ثُمَّ أَرْضِنِي بِهِ.",
+      "englishMeaning": "O Allah, I seek the better choice through Your knowledge and the ability through Your power; I ask from Your immense bounty. You have power and I do not; You know and I do not; You know all unseen things. If You know this matter is good for my religion, livelihood, and the outcome of my affairs, decree it, make it easy, and bless it for me. If You know it is harmful to my religion, livelihood, and the outcome of my affairs, turn it away from me and turn me away from it. Decree good for me wherever it is, then make me content with it.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 1166",
+      "order": 1,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This wording or practice is reported for the occasion.",
+        "references": [
+          "Sahih al-Bukhari 1166"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette formulation ou cette pratique est rapportée pour l'occasion.",
+        "noteAr": "تم تقديم هذه الصياغة أو الممارسة لهذه المناسبة."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Ô Allah, je Te demande de choisir pour moi par Ta science et de m’accorder la capacité par Ta puissance ; je Te demande de Ton immense faveur. Tu peux et je ne peux pas ; Tu sais et je ne sais pas ; Tu connais parfaitement l’invisible. Si Tu sais que cette affaire est un bien pour ma religion, ma vie et l’issue de mes affaires, destine-la-moi, facilite-la-moi puis bénis-la pour moi. Si Tu sais qu’elle est un mal pour ma religion, ma vie et l’issue de mes affaires, éloigne-la de moi et éloigne-moi d’elle. Destine-moi le bien où qu’il soit, puis rends-moi satisfait de ce choix.",
+      "contextEn": "After two voluntary units of prayer, say this supplication and name the matter you are considering. The narration also transmits an alternative phrase for its short- and long-term outcome.",
+      "contextFr": "Après deux unités de prière surérogatoires, récite cette invocation en nommant l’affaire concernée. Le récit transmet aussi une variante concernant ses conséquences immédiates et futures.",
+      "contextAr": "بعد ركعتين من غير الفريضة، ادع بهذا الدعاء وسمّ حاجتك. وفي الرواية أيضًا لفظ آخر للعاجل والآجل.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "arabic",
+          "frenchMeaning",
+          "contextEn",
+          "contextFr",
+          "contextAr"
+        ],
+        "fullScholarlySignoff": false
+      }
+    }
+  ],
+  "entryCount": 1,
+  "section": "duas"
+}

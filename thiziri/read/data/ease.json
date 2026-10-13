@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 3,
+  "id": "ease",
+  "title": "Dua for ease",
+  "arabicTitle": "دعاء التيسير",
+  "frenchTitle": "Invocation pour faciliter une difficulté",
+  "symbol": "◇",
+  "entries": [
+    {
+      "id": "thiziri-occasions-16",
+      "title": "دعـاء من استصعب عليه أمر",
+      "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا.",
+      "englishMeaning": "O Allah, nothing is easy except what You make easy. If You will, You make what is difficult easy.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Hisn al-Muslim 139 · Sahih Ibn Hibban (number 2427 in the cited Hisn edition)",
+      "order": 1,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "references": [
+          "Hisn al-Muslim 139 · Sahih Ibn Hibban (number 2427 in the cited Hisn edition)"
+        ],
+        "note": "Hisn al-Muslim 139 cites Ibn Hibban and reports authentication by Ibn Hajar and Abdul-Qadir al-Arnaut. Numbering differs by edition. No fixed count is stated.",
+        "noteFr": "Hisn al-Muslim 139 cite Ibn Hibban et rapporte l’authentification d’Ibn Hajar et d’Abdul-Qadir al-Arnaut. La numérotation varie selon l’édition. Aucun nombre fixe.",
+        "noteAr": "يورد حصن المسلم 139 مرجع ابن حبان وتصحيح ابن حجر وعبد القادر الأرناؤوط. يختلف الترقيم بحسب الطبعة. لا عدد ثابت للتكرار.",
+        "hadithArabic": null
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Ô Allah, rien n'est facile sauf ce que Tu rends facile. Si Tu le veux, Tu rends facile ce qui est difficile."
+    }
+  ],
+  "entryCount": 1,
+  "section": "duas"
+}

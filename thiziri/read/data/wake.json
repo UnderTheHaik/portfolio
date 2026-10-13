@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "id": "wake",
-  "title": "Upon waking",
+  "title": "Adhkar upon waking",
   "arabicTitle": "أذكار الاستيقاظ",
   "symbol": "☀",
   "entryCount": 3,
@@ -79,5 +79,6 @@
       "frenchMeaning": "Nulle divinité n’est digne d’adoration en dehors d’Allah, Seul et sans associé. À Lui la royauté et la louange, et Il est capable de toute chose. Gloire à Allah ; toute louange appartient à Allah ; nul n'est digne d'être adoré sauf Allah ; Allah est le plus grand ; il n'y a de puissance ni de force que par Allah, le Très-Haut, le Magnifique. Mon Seigneur, pardonne-moi."
     }
   ],
-  "frenchTitle": "Au réveil"
+  "frenchTitle": "Adhkar au réveil",
+  "section": "adhkar"
 }

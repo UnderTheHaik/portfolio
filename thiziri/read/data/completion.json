@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
   "id": "completion",
-  "title": "Completing the Quran",
-  "arabicTitle": "دعاء ختم القرآن الكريم",
+  "title": "Dua after completing the Quran",
+  "arabicTitle": "دعاء ختم القرآن",
   "symbol": "◇",
   "entryCount": 1,
   "entries": [
@@ -32,5 +32,6 @@
       "frenchMeaning": "Ô Allah, aie pitié de moi à travers le Coran et fais-en mon guide, ma lumière, ma guidance et ma miséricorde. Rappelle-moi ce que j'ai oublié, enseigne ce que je ne comprends pas, accorde-moi sa récitation pendant la nuit et aux fins du jour, et fais-en une preuve en ma faveur, Seigneur de tous les mondes.\n\nÔ Allah, redresse ma religion, qui protège mes affaires ; ma vie mondaine, dans laquelle je vis ; et mon au-delà, auquel je reviens. Fais que la vie soit pour moi un accroissement de tout bien, et que la mort soit un soulagement de tout mal.\n\nFais de la dernière partie de ma vie et de mes actes leur meilleur, et mon meilleur jour le jour où je te rencontrerai. Accorde-nous une vie agréable, une mort honnête et revenez sans honte ni exposition. Je demande les meilleures demandes, prières, succès, connaissances, actes, récompenses, vie et mort. Rends-moi ferme, alourdis ma balance, affermis ma foi, élève mon rang, accepte ma prière, pardonne mes erreurs et accorde les plus hauts rangs du Paradis.\n\nAccorde ce qui apporte Ta miséricorde et ton pardon, la sécurité de tout péché, une part de tout bien, le Paradis et le salut du Feu. Faites en sorte que le résultat de toutes nos affaires soit bon et protégez-nous de la honte et du châtiment du monde dans la prochaine vie. Accorde-toi une crainte qui empêche la désobéissance, une obéissance qui nous amène au paradis et une certitude qui atténue les afflictions du monde. Profitons de l’ouïe, de la vue et de la force tout au long de la vie et préservons-les jusqu’à notre fin. Que notre réponse soit contre ceux qui nous font du tort et aide-nous contre nos ennemis. Ne faites pas de notre affliction dans notre religion, de ce monde notre plus grande préoccupation ou la limite de notre connaissance, ni de ceux qui sont sans pitié nos dirigeants.\n\nNe laissez aucun péché non pardonné, aucune inquiétude non soulagée, aucune dette impayée, aucun besoin matériel ou d'un autre monde non satisfait, ô Très Miséricordieux. Notre Seigneur, accorde le bien dans ce monde et dans l'autre et protège-nous du Feu. Qu'Allah envoie une paix abondante et des bénédictions sur notre maître et prophète Muhammad, sa famille et ses bons compagnons."
     }
   ],
-  "frenchTitle": "À la fin de la lecture du Coran"
+  "frenchTitle": "Invocation à la fin de la lecture du Coran",
+  "section": "duas"
 }

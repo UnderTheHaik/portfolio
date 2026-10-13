@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
   "id": "bathroom",
-  "title": "Entering & leaving the bathroom",
-  "arabicTitle": "أذكار الخلاء",
+  "title": "Adhkar for the bathroom",
+  "arabicTitle": "أذكار دخول الخلاء والخروج منه",
   "symbol": "◇",
   "entryCount": 2,
   "entries": [
@@ -55,5 +55,6 @@
       "frenchMeaning": "Je demande Ton pardon."
     }
   ],
-  "frenchTitle": "Entrer et sortir des toilettes"
+  "frenchTitle": "Adhkar des toilettes",
+  "section": "adhkar"
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "id": "prayer",
-  "title": "After prayer",
+  "title": "Adhkar after prayer",
   "arabicTitle": "أذكار بعد الصلاة",
   "symbol": "◇",
   "entryCount": 11,
@@ -129,7 +129,7 @@
     {
       "id": "thiziri-prayer-6",
       "title": "الإخلاص والمعوذتان",
-      "arabic": "بِسْمِ اللهِ الرَّحْمنِ الرَّحِيم\n\nقُلْ هُوَ ٱللَّهُ أَحَدٌ، ٱللَّهُ ٱلصَّمَدُ، لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ.\n\nبِسْمِ اللهِ الرَّحْمنِ الرَّحِيم\n\nقُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ، مِن شَرِّ مَا خَلَقَ، وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ، وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ، وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ.\n\nبِسْمِ اللهِ الرَّحْمنِ الرَّحِيم\n\nقُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ، مَلِكِ ٱلنَّاسِ، إِلَٰهِ ٱلنَّاسِ، مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ، ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ، مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ.\n\n بعد صلاتي الفجر والمغرب. ومرة بعد الصلوات الأخرى.",
+      "arabic": "بِسْمِ اللهِ الرَّحْمنِ الرَّحِيم\n\nقُلْ هُوَ ٱللَّهُ أَحَدٌ، ٱللَّهُ ٱلصَّمَدُ، لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ.\n\nبِسْمِ اللهِ الرَّحْمنِ الرَّحِيم\n\nقُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ، مِن شَرِّ مَا خَلَقَ، وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ، وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ، وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ.\n\nبِسْمِ اللهِ الرَّحْمنِ الرَّحِيم\n\nقُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ، مَلِكِ ٱلنَّاسِ، إِلَٰهِ ٱلنَّاسِ، مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ، ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ، مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ.",
       "englishMeaning": "In the name of Allah, the Most Merciful, the Especially Merciful. Say: He is Allah, the One. Allah, the One upon whom all depend. He neither begets nor was born, and none is comparable to Him.\n\nIn the name of Allah, the Most Merciful, the Especially Merciful. Say: I seek refuge in the Lord of daybreak, from the evil of what He created, from the evil of darkness as it settles, from the evil of those who blow on knots, and from the evil of an envious person when they envy.\n\nIn the name of Allah, the Most Merciful, the Especially Merciful. Say: I seek refuge in the Lord of mankind, the King of mankind, the God of mankind, from the evil of the retreating whisperer, who whispers in people’s hearts, from among jinn and mankind.",
       "repetitions": 1,
       "readingOnly": false,
@@ -148,8 +148,21 @@
         "noteAr": "ورد القراءة بعد الصلاة؛ ثلاث مرات تخص صلاة الصباح والمساء وليس كل صلاة مفروضة."
       },
       "countBasis": "narrated",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Dis : Il est Allah, l’Unique. Allah, Celui dont tout dépend. Il n’a pas engendré et n’a pas été engendré. Et nul n’est égal à Lui.\n\nAu nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Dis : Je cherche refuge auprès du Seigneur de l’aube, contre le mal de ce qu’Il a créé, contre le mal de l’obscurité lorsqu’elle s’installe, contre le mal de celles qui soufflent sur les nœuds, et contre le mal de l’envieux lorsqu’il envie.\n\nAu nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Dis : Je cherche refuge auprès du Seigneur des hommes, du Souverain des hommes, du Dieu des hommes, contre le mal du mauvais conseiller qui se dérobe, qui souffle le mal dans les cœurs des hommes, qu’il soit parmi les djinns ou les hommes."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Dis : Il est Allah, l’Unique. Allah, Celui dont tout dépend. Il n’a pas engendré et n’a pas été engendré. Et nul n’est égal à Lui.\n\nAu nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Dis : Je cherche refuge auprès du Seigneur de l’aube, contre le mal de ce qu’Il a créé, contre le mal de l’obscurité lorsqu’elle s’installe, contre le mal de celles qui soufflent sur les nœuds, et contre le mal de l’envieux lorsqu’il envie.\n\nAu nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Dis : Je cherche refuge auprès du Seigneur des hommes, du Souverain des hommes, du Dieu des hommes, contre le mal du mauvais conseiller qui se dérobe, qui souffle le mal dans les cœurs des hommes, qu’il soit parmi les djinns ou les hommes.",
+      "contextEn": "Recite after prayer. The separate morning/evening practice has its own three-repeat target.",
+      "contextFr": "À réciter après la prière. La pratique du matin et du soir possède son propre objectif de trois répétitions.",
+      "contextAr": "تُقرأ بعد الصلاة. ولأذكار الصباح والمساء عددها المستقل، ثلاث مرات.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "arabic",
+          "contextEn",
+          "contextFr",
+          "contextAr"
+        ],
+        "fullScholarlySignoff": false
+      }
     },
     {
       "id": "thiziri-prayer-7",
@@ -270,5 +283,6 @@
       "frenchMeaning": "Ô Allah, aide-moi à me souvenir de Toi, à te remercier et à bien t'adorer."
     }
   ],
-  "frenchTitle": "Après la prière"
+  "frenchTitle": "Adhkar après la prière",
+  "section": "adhkar"
 }
