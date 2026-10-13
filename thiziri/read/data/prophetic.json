@@ -18,13 +18,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih al-Bukhari 6306"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -49,13 +59,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Taught by Prophet Muhammad ﷺ to Abu Bakr, according to Bukhari 834.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih al-Bukhari 834"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Enseignée par le prophète Muhammad ﷺ à Abu Bakr, selon Bukhari 834.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: علّمها النبي محمد ﷺ لأبي بكر، في البخاري 834.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Taught by Prophet Muhammad ﷺ to Abu Bakr, according to Bukhari 834.",
+          "fr": "Enseignée par le prophète Muhammad ﷺ à Abu Bakr, selon Bukhari 834.",
+          "ar": "علّمها النبي محمد ﷺ لأبي بكر، في البخاري 834."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -73,13 +93,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 2719a"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -106,13 +136,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 483"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -130,13 +170,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih al-Bukhari 6369"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -154,13 +204,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih al-Bukhari 6365"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -185,13 +245,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih al-Bukhari 6368"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -209,13 +279,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 2713"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -241,13 +321,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 2716a"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -265,13 +355,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 2720"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -289,13 +389,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 2721"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -313,13 +423,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 2722"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -344,13 +464,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 2717"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -368,13 +498,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 2739"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -392,13 +532,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 2654"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -416,13 +566,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 770"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -440,13 +600,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih Muslim 486"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -464,13 +634,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih al-Bukhari 6347"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -488,13 +668,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih al-Bukhari 6316"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -512,13 +702,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Taught by Prophet Muhammad ﷺ to Aishah, according to Ibn Majah 3846.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sunan Ibn Majah 3846"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Enseignée par le prophète Muhammad ﷺ à Aïcha, selon Ibn Majah 3846.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: علّمها النبي محمد ﷺ لعائشة، في ابن ماجه 3846.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Taught by Prophet Muhammad ﷺ to Aishah, according to Ibn Majah 3846.",
+          "fr": "Enseignée par le prophète Muhammad ﷺ à Aïcha, selon Ibn Majah 3846.",
+          "ar": "علّمها النبي محمد ﷺ لعائشة، في ابن ماجه 3846."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -536,13 +736,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sunan an-Nasai 1305"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -560,14 +770,24 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sunan Abi Dawud 5074",
           "Hisn al-Muslim 84"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -593,13 +813,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Taught by Prophet Muhammad ﷺ to Abu Bakr for morning, evening and bedtime, according to Tirmidhi 3392.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Jami at-Tirmidhi 3392"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Enseignée par le prophète Muhammad ﷺ à Abu Bakr pour le matin, le soir et le coucher, selon Tirmidhi 3392.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: علّمها النبي محمد ﷺ لأبي بكر للصباح والمساء وعند النوم، في الترمذي 3392.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Taught by Prophet Muhammad ﷺ to Abu Bakr for morning, evening and bedtime, according to Tirmidhi 3392.",
+          "fr": "Enseignée par le prophète Muhammad ﷺ à Abu Bakr pour le matin, le soir et le coucher, selon Tirmidhi 3392.",
+          "ar": "علّمها النبي محمد ﷺ لأبي بكر للصباح والمساء وعند النوم، في الترمذي 3392."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -617,14 +847,24 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "The displayed wording is recorded in al-Tabarani 7135; al-Albani graded its chain authentic in al-Silsilah al-Sahihah 3228, as documented in Dorar’s hadith record. No fixed repetition count is specified.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThe displayed wording is recorded in al-Tabarani 7135; al-Albani graded its chain authentic in al-Silsilah al-Sahihah 3228, as documented in Dorar’s hadith record. No fixed repetition count is specified.",
         "references": [
           "Al-Tabarani, al-Mu‘jam al-Kabir 7135",
           "Al-Albani, al-Silsilah al-Sahihah 3228"
         ],
         "hadithArabic": null,
-        "noteFr": "La formulation affichée figure dans al-Tabarani 7135 ; al-Albani a jugé sa chaîne authentique dans al-Silsilah al-Sahihah 3228, selon la fiche de Dorar. Aucun nombre fixe de répétitions n’est indiqué.",
-        "noteAr": "الصيغة في المعجم الكبير للطبراني 7135، وصحح الألباني إسنادها في السلسلة الصحيحة 3228، كما توثقه الدرر السنية. لم يرد عدد ثابت للتكرار."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nLa formulation affichée figure dans al-Tabarani 7135 ; al-Albani a jugé sa chaîne authentique dans al-Silsilah al-Sahihah 3228, selon la fiche de Dorar. Aucun nombre fixe de répétitions n’est indiqué.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nالصيغة في المعجم الكبير للطبراني 7135، وصحح الألباني إسنادها في السلسلة الصحيحة 3228، كما توثقه الدرر السنية. لم يرد عدد ثابت للتكرار.",
+        "attributionBaseNotes": {
+          "en": "The displayed wording is recorded in al-Tabarani 7135; al-Albani graded its chain authentic in al-Silsilah al-Sahihah 3228, as documented in Dorar’s hadith record. No fixed repetition count is specified.",
+          "fr": "La formulation affichée figure dans al-Tabarani 7135 ; al-Albani a jugé sa chaîne authentique dans al-Silsilah al-Sahihah 3228, selon la fiche de Dorar. Aucun nombre fixe de répétitions n’est indiqué.",
+          "ar": "الصيغة في المعجم الكبير للطبراني 7135، وصحح الألباني إسنادها في السلسلة الصحيحة 3228، كما توثقه الدرر السنية. لم يرد عدد ثابت للتكرار."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -649,13 +889,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Taught by Prophet Muhammad ﷺ to Ali, who transmitted it, according to Tirmidhi 3563.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Jami at-Tirmidhi 3563"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Enseignée par le prophète Muhammad ﷺ à Ali, qui l’a transmise, selon Tirmidhi 3563.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: علّمها النبي محمد ﷺ لعلي، وهو الذي رواها، في الترمذي 3563.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Taught by Prophet Muhammad ﷺ to Ali, who transmitted it, according to Tirmidhi 3563.",
+          "fr": "Enseignée par le prophète Muhammad ﷺ à Ali, qui l’a transmise, selon Tirmidhi 3563.",
+          "ar": "علّمها النبي محمد ﷺ لعلي، وهو الذي رواها، في الترمذي 3563."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
@@ -673,13 +923,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sunan Abi Dawud 5090"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -697,13 +957,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Transmitted from Prophet Muhammad ﷺ in the cited report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Jami at-Tirmidhi 3551"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Transmise du prophète Muhammad ﷺ dans le récit cité.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: مروية عن النبي محمد ﷺ في الرواية المذكورة.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Transmitted from Prophet Muhammad ﷺ in the cited report.",
+          "fr": "Transmise du prophète Muhammad ﷺ dans le récit cité.",
+          "ar": "مروية عن النبي محمد ﷺ في الرواية المذكورة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -728,13 +998,23 @@
       "review": {
         "status": "reported",
         "scope": "wording",
-        "note": "The long wording is traceable to Ahmad 15492 in the al-Risalah edition reproduced in Dorar’s original-source record. Transmitted variants differ; this review does not independently resolve every chain. The original context is after Uhud, not a prescribed daily or universal invocation. No fixed count is established.",
+        "note": "Prophet / teaching: Attributed to Prophet Muhammad ﷺ after Uhud in Ahmad 15492. The source/variant qualifications below still apply.\n\nThe long wording is traceable to Ahmad 15492 in the al-Risalah edition reproduced in Dorar’s original-source record. Transmitted variants differ; this review does not independently resolve every chain. The original context is after Uhud, not a prescribed daily or universal invocation. No fixed count is established.",
         "references": [
           "Musnad Ahmad 15492"
         ],
         "hadithArabic": null,
-        "noteFr": "La longue formulation se retrouve dans Ahmad 15492, édition al-Risalah reproduite dans les sources originales de Dorar. Les variantes transmises diffèrent ; cette revue ne tranche pas indépendamment chaque chaîne. Le contexte original est l’après-Uhud, pas une invocation quotidienne ou universelle prescrite. Aucun nombre fixe n’est établi.",
-        "noteAr": "النص الطويل في أحمد 15492 بطبعة الرسالة، كما تعرضه أصول الحديث في الدرر السنية. توجد فروق في الروايات، ولم يُحسم هنا كل إسناد دراسة مستقلة. السياق الأصلي بعد أُحد وليس ذكرًا يوميًا أو عامًا مقررًا. لم يثبت عدد محدد."
+        "noteFr": "Prophète / transmission : Attribuée au prophète Muhammad ﷺ après Uhud dans Ahmad 15492. Les réserves sur la source et les variantes ci-dessous restent applicables.\n\nLa longue formulation se retrouve dans Ahmad 15492, édition al-Risalah reproduite dans les sources originales de Dorar. Les variantes transmises diffèrent ; cette revue ne tranche pas indépendamment chaque chaîne. Le contexte original est l’après-Uhud, pas une invocation quotidienne ou universelle prescrite. Aucun nombre fixe n’est établi.",
+        "noteAr": "النبي / التعليم: منسوبة إلى النبي محمد ﷺ بعد أُحد في أحمد 15492. تبقى ملاحظات المصدر والروايات أدناه معتبرة.\n\nالنص الطويل في أحمد 15492 بطبعة الرسالة، كما تعرضه أصول الحديث في الدرر السنية. توجد فروق في الروايات، ولم يُحسم هنا كل إسناد دراسة مستقلة. السياق الأصلي بعد أُحد وليس ذكرًا يوميًا أو عامًا مقررًا. لم يثبت عدد محدد.",
+        "attributionBaseNotes": {
+          "en": "The long wording is traceable to Ahmad 15492 in the al-Risalah edition reproduced in Dorar’s original-source record. Transmitted variants differ; this review does not independently resolve every chain. The original context is after Uhud, not a prescribed daily or universal invocation. No fixed count is established.",
+          "fr": "La longue formulation se retrouve dans Ahmad 15492, édition al-Risalah reproduite dans les sources originales de Dorar. Les variantes transmises diffèrent ; cette revue ne tranche pas indépendamment chaque chaîne. Le contexte original est l’après-Uhud, pas une invocation quotidienne ou universelle prescrite. Aucun nombre fixe n’est établi.",
+          "ar": "النص الطويل في أحمد 15492 بطبعة الرسالة، كما تعرضه أصول الحديث في الدرر السنية. توجد فروق في الروايات، ولم يُحسم هنا كل إسناد دراسة مستقلة. السياق الأصلي بعد أُحد وليس ذكرًا يوميًا أو عامًا مقررًا. لم يثبت عدد محدد."
+        },
+        "attribution": {
+          "en": "Attributed to Prophet Muhammad ﷺ after Uhud in Ahmad 15492. The source/variant qualifications below still apply.",
+          "fr": "Attribuée au prophète Muhammad ﷺ après Uhud dans Ahmad 15492. Les réserves sur la source et les variantes ci-dessous restent applicables.",
+          "ar": "منسوبة إلى النبي محمد ﷺ بعد أُحد في أحمد 15492. تبقى ملاحظات المصدر والروايات أدناه معتبرة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -755,13 +1035,23 @@
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "note": "Prophet / teaching: Taught by Prophet Muhammad ﷺ to his companions, according to Bukhari 3370. Ibrahim is mentioned within the blessing; he is not the teacher of this formula in that report.\n\nThis supplication is reported in the cited narration. No fixed repetition count is asserted.",
         "references": [
           "Sahih al-Bukhari 3370"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
-        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        "noteFr": "Prophète / transmission : Enseignée par le prophète Muhammad ﷺ à ses compagnons, selon Bukhari 3370. Ibrahim est mentionné dans la bénédiction ; il n’est pas celui qui enseigne cette formule dans ce récit.\n\nCette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "النبي / التعليم: علّمها النبي محمد ﷺ لأصحابه، في البخاري 3370. يُذكر إبراهيم داخل الصلاة، وليس هو معلّم هذه الصيغة في الرواية.\n\nوقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت.",
+        "attributionBaseNotes": {
+          "en": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+          "fr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+          "ar": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+        },
+        "attribution": {
+          "en": "Taught by Prophet Muhammad ﷺ to his companions, according to Bukhari 3370. Ibrahim is mentioned within the blessing; he is not the teacher of this formula in that report.",
+          "fr": "Enseignée par le prophète Muhammad ﷺ à ses compagnons, selon Bukhari 3370. Ibrahim est mentionné dans la bénédiction ; il n’est pas celui qui enseigne cette formule dans ce récit.",
+          "ar": "علّمها النبي محمد ﷺ لأصحابه، في البخاري 3370. يُذكر إبراهيم داخل الصلاة، وليس هو معلّم هذه الصيغة في الرواية."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-12",
