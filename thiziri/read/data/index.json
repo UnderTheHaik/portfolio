@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 3,
+  "library": "Thiziri",
+  "version": "1.6",
+  "language": "ar",
+  "collectionCount": 23,
+  "entryCount": 393,
+  "collections": [
+    {
+      "id": "morning",
+      "title": "Morning adhkar",
+      "arabicTitle": "أذكار الصباح",
+      "entryCount": 31,
+      "file": "morning.json",
+      "frenchTitle": "Adhkar du matin"
+    },
+    {
+      "id": "evening",
+      "title": "Evening adhkar",
+      "arabicTitle": "أذكار المساء",
+      "entryCount": 30,
+      "file": "evening.json",
+      "frenchTitle": "Adhkar du soir"
+    },
+    {
+      "id": "prayer",
+      "title": "After prayer",
+      "arabicTitle": "أذكار بعد الصلاة",
+      "entryCount": 11,
+      "file": "prayer.json",
+      "frenchTitle": "Après la prière"
+    },
+    {
+      "id": "daily",
+      "title": "Tasbih & remembrance",
+      "arabicTitle": "تسابيح",
+      "entryCount": 17,
+      "file": "daily.json",
+      "frenchTitle": "Tasbih et dhikr"
+    },
+    {
+      "id": "sleep",
+      "title": "Sleep & dreams",
+      "arabicTitle": "أذكار النوم",
+      "entryCount": 15,
+      "file": "sleep.json",
+      "frenchTitle": "Sommeil et rêves"
+    },
+    {
+      "id": "wake",
+      "title": "Upon waking",
+      "arabicTitle": "أذكار الاستيقاظ",
+      "entryCount": 3,
+      "file": "wake.json",
+      "frenchTitle": "Au réveil"
+    },
+    {
+      "id": "salah",
+      "title": "During prayer",
+      "arabicTitle": "أذكار الصلاة",
+      "entryCount": 11,
+      "file": "salah.json",
+      "frenchTitle": "Pendant la prière"
+    },
+    {
+      "id": "dua",
+      "title": "Comprehensive duas",
+      "arabicTitle": "جوامع الدعاء",
+      "entryCount": 34,
+      "file": "dua.json",
+      "frenchTitle": "Invocations générales"
+    },
+    {
+      "id": "prophetic",
+      "title": "Prophetic duas",
+      "arabicTitle": "أدعية نبوية",
+      "entryCount": 29,
+      "file": "prophetic.json",
+      "frenchTitle": "Invocations prophétiques"
+    },
+    {
+      "id": "quran-dua",
+      "title": "Quranic duas",
+      "arabicTitle": "الأدعية القرآنية",
+      "entryCount": 26,
+      "file": "quran-dua.json",
+      "frenchTitle": "Invocations du Coran"
+    },
+    {
+      "id": "prophets",
+      "title": "Duas of the prophets",
+      "arabicTitle": "أدعية الأنبياء",
+      "entryCount": 13,
+      "file": "prophets.json",
+      "frenchTitle": "Invocations des prophètes"
+    },
+    {
+      "id": "occasions",
+      "title": "Everyday occasions",
+      "arabicTitle": "أذكار متفرقة",
+      "entryCount": 42,
+      "file": "occasions.json",
+      "frenchTitle": "Au quotidien"
+    },
+    {
+      "id": "adhan",
+      "title": "Hearing the adhan",
+      "arabicTitle": "أذكار الآذان",
+      "entryCount": 9,
+      "file": "adhan.json",
+      "frenchTitle": "À l’écoute de l’adhan"
+    },
+    {
+      "id": "mosque",
+      "title": "At the mosque",
+      "arabicTitle": "أذكار المسجد",
+      "entryCount": 3,
+      "file": "mosque.json",
+      "frenchTitle": "À la mosquée"
+    },
+    {
+      "id": "wudu",
+      "title": "Wudu",
+      "arabicTitle": "أذكار الوضوء",
+      "entryCount": 2,
+      "file": "wudu.json",
+      "frenchTitle": "Les ablutions"
+    },
+    {
+      "id": "home",
+      "title": "Entering & leaving home",
+      "arabicTitle": "أذكار المنزل",
+      "entryCount": 2,
+      "file": "home.json",
+      "frenchTitle": "Entrer et sortir de chez soi"
+    },
+    {
+      "id": "bathroom",
+      "title": "Entering & leaving the bathroom",
+      "arabicTitle": "أذكار الخلاء",
+      "entryCount": 2,
+      "file": "bathroom.json",
+      "frenchTitle": "Entrer et sortir des toilettes"
+    },
+    {
+      "id": "food",
+      "title": "Food, drink & guests",
+      "arabicTitle": "أذكار الطعام",
+      "entryCount": 5,
+      "file": "food.json",
+      "frenchTitle": "Repas, boissons et invités"
+    },
+    {
+      "id": "hajj",
+      "title": "Hajj & Umrah",
+      "arabicTitle": "أذكار الحج والعمرة",
+      "entryCount": 1,
+      "file": "hajj.json",
+      "frenchTitle": "Hajj et Omra"
+    },
+    {
+      "id": "completion",
+      "title": "Completing the Quran",
+      "arabicTitle": "دعاء ختم القرآن الكريم",
+      "entryCount": 1,
+      "file": "completion.json",
+      "frenchTitle": "À la fin de la lecture du Coran"
+    },
+    {
+      "id": "names",
+      "title": "Names of Allah",
+      "arabicTitle": "أسماء الله الحسنى",
+      "entryCount": 99,
+      "file": "names.json",
+      "frenchTitle": "Les noms d’Allah"
+    },
+    {
+      "id": "deceased",
+      "title": "Duas for the deceased",
+      "arabicTitle": "أدعية للميّت",
+      "entryCount": 4,
+      "file": "deceased.json",
+      "frenchTitle": "Invocations pour les défunts"
+    },
+    {
+      "id": "ruqyah",
+      "title": "Ruqyah",
+      "arabicTitle": "الرُّقية الشرعية",
+      "entryCount": 3,
+      "file": "ruqyah.json",
+      "frenchTitle": "Roqya"
+    }
+  ],
+  "languages": [
+    "ar",
+    "fr",
+    "en"
+  ]
+}

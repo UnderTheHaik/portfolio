@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 3,
+  "id": "prophetic",
+  "title": "Prophetic duas",
+  "arabicTitle": "أدعية نبوية",
+  "symbol": "◇",
+  "entryCount": 29,
+  "entries": [
+    {
+      "id": "thiziri-prophetic-1",
+      "title": "اللهم أنت ربي لا إله إلا أنت، خلقتني وأنا عبدك، وأنا على عهدك ووعدك…",
+      "arabic": "اللّهـمَّ أَنْتَ رَبِّـي لا إلهَ إلاّ أَنْتَ ، خَلَقْتَنـي وَأَنا عَبْـدُك ، وَأَنا عَلـى عَهْـدِكَ وَوَعْـدِكَ ما اسْتَـطَعْـت ، أَعـوذُبِكَ مِنْ شَـرِّ ما صَنَـعْت ، أَبـوءُ لَـكَ بِنِعْـمَتِـكَ عَلَـيَّ وَأَبُوءُ لَكَ بِذَنْبِي فَاغْفـِرْ لي فَإِنَّـهُ لا يَغْـفِرُ الذُّنـوبَ إِلاّ أَنْتَ .",
+      "englishMeaning": "O Allah, You are my Lord; none is worthy of worship except You. You created me and I am Your servant. I keep Your covenant and promise as best I can. I seek refuge in You from the evil I have done. I acknowledge Your favor upon me and confess my sin. Forgive me, for none forgives sins except You.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 6306",
+      "order": 1,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih al-Bukhari 6306"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, Tu es mon Seigneur. Nulle divinité n’est digne d’adoration en dehors de Toi. Tu m’as créé et je suis Ton serviteur. Je reste fidèle à Ton pacte et à Ta promesse autant que je le peux. Je cherche refuge auprès de Toi contre le mal que j’ai commis. Je reconnais Ton bienfait envers moi et je reconnais mon péché. Pardonne-moi, car nul ne pardonne les péchés en dehors de Toi."
+    },
+    {
+      "id": "thiziri-prophetic-2",
+      "title": "اللهم إني ظلمت نفسي ظلما كثيرا، ولا يغفر الذنوب إلا أنت، فاغفر لي…",
+      "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي إِنَّك أَنْتَ الْغَفُورُ الرَّحِيمُ.",
+      "englishMeaning": "O Allah, I have greatly wronged myself, and none forgives sins except You. Grant me forgiveness from You and have mercy on me. You are the Forgiving, the Merciful.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 834",
+      "order": 2,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih al-Bukhari 834"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je me suis fait un grand tort et personne ne pardonne les péchés sauf Toi. Accorde-moi ton pardon et aie pitié de moi. Tu es le Pardonneur, le Miséricordieux."
+    },
+    {
+      "id": "thiziri-prophetic-3",
+      "title": "رب اغفر لي خطيئتي وجهلي وإسرافي في أمري كله وما أنت أعلم به مني،…",
+      "arabic": "رَبِّ اغْفِرْ لِي خَطِيئَتِي وَجَهْلِي وَإِسْرَافِي فِي أَمْرِي كُلِّهِ وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي، اللَّهُمَّ اغْفِرْ لِي خَطَايَايَ وَعَمْدِي وَجَهْلِي وَهَزْلِي، وَكُلُّ ذَلِكَ عِنْدِي، اللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ وَأَنْتَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
+      "englishMeaning": "My Lord, forgive my mistakes, my ignorance, my excesses in all my affairs, and what You know better than I do. O Allah, forgive what I have done mistakenly or deliberately, seriously or playfully; all of that is within me. Forgive what I have done and will do, what I have concealed and made public. You bring forward and hold back, and You have power over all things.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 2719a",
+      "order": 3,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 2719a"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Mon Seigneur, pardonne mes fautes, mon ignorance, mes excès dans mes affaires et ce que Tu connais mieux que moi. Ô Allah, pardonne mes actes commis sérieusement ou en plaisantant, par erreur ou volontairement : tout cela vient de moi. Pardonne ce que j’ai fait et ce que je ferai, ce que j’ai caché et ce que j’ai déclaré. Tu es Celui qui avance et Celui qui retarde, et Tu es capable de toute chose."
+    },
+    {
+      "id": "thiziri-prophetic-4",
+      "title": "اللهم اغفر لي ذنبي كله، دقه، وجله، وأوله، وآخره، وعلانيته، وسره.",
+      "arabic": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ، دِقَّهُ، وَجِلَّهُ، وَأَوَّلَهُ، وَآخِرَهُ، وَعَلَانِيَتَهُ، وَسِرَّهُ.",
+      "englishMeaning": "O Allah, forgive every sin of mine: small and great, first and last, public and secret.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 483",
+      "order": 4,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 483"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, pardonne chacun de mes péchés : petits et grands, premiers et derniers, publics et secrets."
+    },
+    {
+      "id": "thiziri-prophetic-5",
+      "title": "اللهم إني أعوذ بك من الهم والحزن والعجز والكسل والجبن والبخل وضلع…",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَالْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ.",
+      "englishMeaning": "O Allah, I seek refuge in You from anxiety and sadness, incapacity and laziness, cowardice and stinginess, the burden of debt and being overpowered by people.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 6369",
+      "order": 5,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih al-Bukhari 6369"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et la tristesse, l'incapacité et la paresse, la lâcheté et l'avarice, le fardeau des dettes et la domination des gens."
+    },
+    {
+      "id": "thiziri-prophetic-6",
+      "title": "اللهم إني أعوذ بك من البخل، وأعوذ بك من الجبن، وأعوذ بك أن أرد إلى…",
+      "arabic": "اللَّهُمَّ إنِِّي أَعُوذُ بكَِ مِنَ الْبُخْلِ، وَأَعُوذُ بكَِ مِنَ الْجُبْنِ، وَأَعُوذُ بكَِ أَنْ أُرَدَّ إلَِى أَرْذَلِ الْعُمُرِ، وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا، وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ.",
+      "englishMeaning": "O Allah, I seek refuge in You from stinginess, cowardice, being returned to a helpless old age, the trials of this world, and punishment in the grave.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 6365",
+      "order": 6,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih al-Bukhari 6365"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je cherche refuge auprès de Toi contre l'avarice, la lâcheté, le retour à une vieillesse impuissante, les épreuves de ce monde et le châtiment dans la tombe."
+    },
+    {
+      "id": "thiziri-prophetic-7",
+      "title": "اللهم إني أعوذ بك من الكسل والهرم والمأثم والمغرم، ومن فتنة القبر…",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكَسَلِ وَالْهَرَمِ وَالْمَأْثَمِ وَالْمَغْرَمِ، وَمِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ النَّارِ وَعَذَابِ النَّارِ، وَمِنْ شَرِّ فِتْنَةِ الْغِنَى، وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الْفَقْرِ، وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، اللَّهُمَّ اغْسِلْ عَنِّي خَطَايَايَ بِمَاءِ الثَّلْجِ وَالْبَرَدِ، وَنَقِّ قَلْبِي مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ، وَبَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ.",
+      "englishMeaning": "O Allah, I seek refuge in You from laziness, frail old age, sin and debt, the trial and punishment of the grave, the trial and punishment of the Fire, the trials of wealth and poverty, and the trial of the false messiah. Wash away my sins with snow and hail, purify my heart of sins as a white garment is purified of dirt, and separate me from my sins as You separated east from west.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 6368",
+      "order": 7,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih al-Bukhari 6368"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je cherche refuge auprès de Toi contre la paresse, la vieillesse fragile, le péché et la dette, l'épreuve et le châtiment de la tombe, l'épreuve et le châtiment du Feu, les épreuves de la richesse et de la pauvreté et l'épreuve du faux messie. Lave mes péchés avec la neige et la grêle, purifie mon cœur des péchés comme un vêtement blanc est purifié de la saleté, et sépare-moi de mes péchés comme Tu as séparé l'est de l'ouest."
+    },
+    {
+      "id": "thiziri-prophetic-8",
+      "title": "اللهم رب السموات ورب الأرض ورب العرش العظيم، ربنا ورب كل شيء، فالق…",
+      "arabic": "اللَّهُمَّ رَبَّ السَّمَوَاتِ وَرَبَّ الْأَرْضِ وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى وَمُنْزِلَ التَّوْرَاةِ وَالْإِنْجِيلِ وَالْفُرْقَانِ، أَعُوذُ بِكَ مِنْ شَرِّ كُلِّ شَيْءٍ أَنْتَ آخِذٌ بِنَاصِيَتهِِ، اللَّهُمَّ أَنْتَ الْأوََّلُ فَلَيْسَ قَبْلَكَ شَيْءٌ، وَأَنْتَ الْآخِرُ فَلَيْسَ بَعْدَكَ شَيْءٌ، وَأَنْتَ الظَّاهِرُ فَلَيْسَ فَوْقَكَ شَيْءٌ، وَأَنْتَ الْبَاطِنُ فَلَيْسَ دُونَكَ شَيْءٌ، اقْضِ عَنَّا الدَّيْنَ وَأَغْنِنَا مِنَ الْفَقْرِ.",
+      "englishMeaning": "O Allah, Lord of the heavens, earth, and Magnificent Throne; our Lord and Lord of everything; Splitter of grain and fruit stones; Revealer of the Torah, Gospel, and Quran: I seek refuge in You from the evil of everything under Your control. You are the First, with nothing before You; the Last, with nothing after You; the Most High, with nothing above You; the Innermost, with nothing beyond You. Settle our debts and free us from poverty.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 2713",
+      "order": 8,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 2713"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, Seigneur des cieux, de la terre et du Trône Magnifique ; notre Seigneur et Seigneur de tout ; Toi qui fends le grain et le noyau ; Révélateur de la Torah, de l'Évangile et du Coran : Je cherche refuge auprès de Toi contre le mal de tout ce qui est sous Ton contrôle. Tu es le Premier, sans rien devant Toi ; le Dernier, sans rien après Toi ; le Très-Haut, sans rien au-dessus de Toi ; le Caché, sans rien au-delà de Toi. Réglez nos dettes et libérez-nous de la pauvreté."
+    },
+    {
+      "id": "thiziri-prophetic-9",
+      "title": "اللهم إني أعوذ بك من شر ما عملت ومن شر ما لم أعمل.",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ وَمِنْ شَرِّ مَا لَمْ أَعْمَلْ.",
+      "englishMeaning": "O Allah, I seek refuge in You from the evil of what I have done and what I have not done.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 2716a",
+      "order": 9,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 2716a"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je cherche refuge auprès de Toi contre le mal de ce que j'ai fait et de ce que je n'ai pas fait."
+    },
+    {
+      "id": "thiziri-prophetic-10",
+      "title": "اللهم أصلح لي ديني الذي هو عصمة أمري، وأصلح لي دنياي التي فيها…",
+      "arabic": "اللَّهُمَّ أَصْلِحْ لِي دِينِي الَّذِي هُوَ عِصْمَةُ أَمْرِي، وَأَصْلِحْ لِي دُنْيَايَ الَّتِي فِيهَا مَعَاشِي، وَأَصْلِحْ لِي آخِرَتِي الَّتِي فِيهَا مَعَادِي وَاجْعَلِ الْحَيَاةَ زِيَادَةً لِي فِي كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لِي مِنْ كُلِّ شَرٍّ.",
+      "englishMeaning": "O Allah, set right my religion, which safeguards my affairs; my worldly life, in which I live; and my hereafter, to which I return. Make life an increase in every good for me, and death a relief from every evil.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 2720",
+      "order": 10,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 2720"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, redresse ma religion, qui protège mes affaires ; ma vie mondaine, dans laquelle je vis ; et mon au-delà, auquel je reviens. Fais que la vie soit pour moi un accroissement de tout bien, et que la mort soit un soulagement de tout mal."
+    },
+    {
+      "id": "thiziri-prophetic-11",
+      "title": "اللهم إني أسألك الهدى والتقى والعفاف والغنى.",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى.",
+      "englishMeaning": "O Allah, I ask You for guidance, piety, chastity, and sufficiency.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 2721",
+      "order": 11,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 2721"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je Te demande guidance, piété, chasteté et suffisance."
+    },
+    {
+      "id": "thiziri-prophetic-12",
+      "title": "اللهم إني أعوذ بك من العجز والكسل، والجبن والبخل، والهرم وعذاب…",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَالْجُبْنِ وَالْبُخْلِ، وَالْهَرَمِ وَعَذَابِ الْقَبْرِ، اللَّهُمَّ آتِ نَفْسِي تَقْوَاهَا وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا، أَنْتَ وَلِيُّهَا وَمَوْلَاهَا، اللَّهُمَّ إنِِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَمِنْ قَلْبٍ لَا يَخْشَعُ، وَمِنْ نَفْسٍ لَا تَشْبَعُ، وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا.",
+      "englishMeaning": "O Allah, I seek refuge in You from incapacity, laziness, cowardice, stinginess, frail old age, and punishment in the grave. Grant my soul its piety and purify it; You are the best to purify it, its Guardian and Master. I seek refuge in You from knowledge that does not benefit, a heart without humility, an insatiable soul, and a prayer that goes unanswered.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 2722",
+      "order": 12,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 2722"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je cherche refuge auprès de Toi contre l'incapacité, la paresse, la lâcheté, l'avarice, la vieillesse fragile et le châtiment dans la tombe. Accorde à mon âme sa piété et purifie-la ; Vous êtes le meilleur pour le purifier, son Gardien et Maître. Je cherche refuge auprès de Toi contre une connaissance qui ne profite pas, un cœur sans humilité, une âme insatiable et une prière qui reste sans réponse."
+    },
+    {
+      "id": "thiziri-prophetic-13",
+      "title": "اللهم لك أسلمت وبك آمنت، وعليك توكلت وإليك أنبت وبك خاصمت، اللهم…",
+      "arabic": "اللَّهُمَّ لَكَ أَسْلَمْتُ وَبِكَ آمَنْتُ، وَعَلَيْكَ تَوَكَّلْتُ وَإِلَيْكَ أَنَبْتُ وَبِكَ خَاصَمْتُ، اللَّهُمَّ إِنِّي أَعُوذُ بِعِزَّتِكَ لَا إِلَهَ إِلَّا أَنْتَ أَنْ تُضِلَّنيِ، أَنْتَ الْحَيُّ الَّذِي لَا يَمُوتُ وَالْجِنُّ وَالْإِنْسُ يَمُوتُونَ.",
+      "englishMeaning": "O Allah, to You I submit, in You I believe, upon You I rely, to You I return, and through You I contend. I seek refuge in Your might—none is worthy of worship except You—from being led astray. You are the Ever-Living who never dies, while jinn and humans die.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 2717",
+      "order": 13,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 2717"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, à Toi je me soumets, en Toi je crois, en Toi je m'appuie, vers Toi je reviens et par Toi je combats. Je cherche refuge dans Ta puissance – nul n’est digne d’être adoré sauf Toi – contre l’égarement. Vous êtes le Vivant éternel qui ne meurt jamais, tandis que les djinns et les humains meurent."
+    },
+    {
+      "id": "thiziri-prophetic-14",
+      "title": "اللهم إني أعوذ بك من زوال نعمتك وتحول عافيتك وفجاءة نقمتك وجميع…",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ وَتَحَوُّلِ عَافِيَتِكَ وَفُجَاءَةِ نِقْمَتِكَ وَجَمِيعِ سَخَطِكَ.",
+      "englishMeaning": "O Allah, I seek refuge in You from the loss of Your favor, the reversal of Your well-being, the sudden coming of Your punishment, and all Your displeasure.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 2739",
+      "order": 14,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 2739"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je cherche refuge auprès de Toi contre la perte de Ta faveur, le renversement de Ton bien-être, l'arrivée soudaine de Ton châtiment et tout Ton mécontentement."
+    },
+    {
+      "id": "thiziri-prophetic-15",
+      "title": "اللهم مصرف القلوب صرف قلوبنا على طاعتك.",
+      "arabic": "اللَّهُمَّ مُصَرِّفَ الْقُلُوبِ صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ.",
+      "englishMeaning": "O Allah, Director of hearts, direct our hearts toward obeying You.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 2654",
+      "order": 15,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 2654"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, Directeur des cœurs, dirige nos cœurs vers T'obéir."
+    },
+    {
+      "id": "thiziri-prophetic-16",
+      "title": "اللهم رب جبرائيل وميكائيل وإسرافيل، فاطر السموات والأرض، عالم الغيب…",
+      "arabic": "اللَّهُمَّ رَبَّ جَبْرَائِيلَ وَمِيكَائِيلَ وَإِسْرَافِيلَ، فَاطِرَ السَّمَوَاتِ وَالأَرْضِ، عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ، اهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ، إِنَّكَ تَهْدِي مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ.",
+      "englishMeaning": "O Allah, Lord of Jibril, Mikail, and Israfil, Creator of the heavens and earth, Knower of the unseen and the seen: You judge between Your servants in their disagreements. Guide me, by Your permission, to the truth in what is disputed. You guide whom You will to a straight path.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 770",
+      "order": 16,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 770"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, Seigneur de Jibril, Mikail et Israfil, Créateur des cieux et de la terre, Connaisseur de l'invisible et du visible : Tu juges entre Tes serviteurs dans leurs désaccords. Guide-moi, avec Ta permission, vers la vérité dans ce qui est contesté. Tu guides qui Tu veux vers un chemin droit."
+    },
+    {
+      "id": "thiziri-prophetic-17",
+      "title": "اللهم إني أعوذ برضاك من سخطك، وبمعافاتك من عقوبتك، وأعوذ بك منك، لا…",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ، لَا أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ.",
+      "englishMeaning": "O Allah, I seek refuge in Your pleasure from Your anger, in Your pardon from Your punishment, and in You from You. I cannot adequately praise You; You are as You have praised Yourself.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 486",
+      "order": 17,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih Muslim 486"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je cherche refuge dans Ton agrément contre Ta colère, dans Ton pardon contre Ton châtiment, et auprès de Toi contre Toi. Je ne peux énumérer toutes les louanges qui Te reviennent ; Tu es tel que Tu T’es Toi-même loué."
+    },
+    {
+      "id": "thiziri-prophetic-18",
+      "title": "اللهم إني أعوذ بك من جهد البلاء ودرك الشقاء وسوء القضاء وشماتة…",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ جَهْدِ الْبَلَاءِ وَدَرَكِ الشَّقَاءِ وَسُوءِ الْقَضَاءِ وَشَمَاتَةِ الْأَعْدَاءِ.",
+      "englishMeaning": "O Allah, I seek refuge in You from severe affliction, overwhelming misery, adverse destiny, and the gloating of enemies.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 6347",
+      "order": 18,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih al-Bukhari 6347"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je cherche refuge auprès de Toi contre les afflictions graves, la misère accablante, le destin adverse et la jubilation des ennemis."
+    },
+    {
+      "id": "thiziri-prophetic-19",
+      "title": "اللهم اجعل لي في قلبي نورا، وفي لساني نورا، وفي سمعي نورا، وفي بصري…",
+      "arabic": "اللَّهُمَّ اجْعَلْ لِي فِي قَلْبِي نُورًا، وَفِي لِسَانِي نُورًا، وَفِي سَمْعِي نُورًا، وَفِي بَصَرِي نُورًا، وَمِنْ فَوْقِي نُورًا، وَمِنْ تَحْتِي نُورًا، وَعَنْ يَمِينِي نُورًا، وَعَنْ شِمَالِي نُورًا، وَمِنْ بَيْنِ يَدَيَّ نُورًا، وَمِنْ خَلْفِي نُورًا، وَاجْعَلْ فِي نَفْسِي نُورًا، وَأَعْظِمْ لِي نُورًا.",
+      "englishMeaning": "O Allah, place light in my heart, tongue, hearing, and sight; light above and below me, to my right and left, before and behind me. Place light within me and increase my light.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 6316",
+      "order": 19,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih al-Bukhari 6316"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, place la lumière dans mon cœur, ma langue, mon ouïe et ma vue ; lumière au-dessus et au-dessous de moi, à ma droite et à ma gauche, devant et derrière moi. Placez la lumière en moi et augmentez ma lumière."
+    },
+    {
+      "id": "thiziri-prophetic-20",
+      "title": "اللهم إني أسألك من الخير كله عاجله وآجله ما علمت منه وما لم أعلم،…",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنَ الْخَيْرِ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَم،ْ وَأَعُوذُ بِكَ مِنَ الشَّرِّ كُلِّهِ عَاجِلِهِ وَآجِلِهِ مَا عَلِمْتُ مِنْهُ وَمَا لَمْ أَعْلَمْ، اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ خَيْرِ مَا سَأَلَكَ عَبْدُكَ وَنَبِيُّكَ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا عَاذَ بِهِ عَبْدُكَ وَنَبِيُّكَ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ وَأَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِي خَيْرًا.",
+      "englishMeaning": "O Allah, I ask You for every good, immediate and future, known to me or unknown. I seek refuge in You from every evil, immediate and future, known to me or unknown. I ask You for the good Your servant and Prophet asked of You and seek refuge from the evil he sought refuge from. I ask You for Paradise and every word or deed that brings me nearer to it, and seek refuge from the Fire and every word or deed that brings me nearer to it. Make every decree You decree for me good.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sunan Ibn Majah 3846",
+      "order": 20,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sunan Ibn Majah 3846"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je Te demande tout bien, immédiat et futur, connu de moi ou inconnu. Je cherche refuge auprès de Toi contre tout mal, immédiat et futur, connu de moi ou inconnu. Je te demande le bien que ton serviteur et prophète t'a demandé et je cherche refuge contre le mal contre lequel il cherchait refuge. Je Te demande le Paradis et toute parole ou action qui m'en rapproche, et je cherche refuge contre le Feu et toute parole ou action qui m'en rapproche. Faites que tous les décrets que vous décrètez pour moi soient bons."
+    },
+    {
+      "id": "thiziri-prophetic-21",
+      "title": "اللهم بعلمك الغيب وقدرتك على الخلق أحيني ما علمت الحياة خيرا لي،…",
+      "arabic": "اللَّهُمَّ بِعِلْمِكَ الْغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلْقِ أَحْيِنِي مَا عَلِمْتَ الْحَيَاةَ خَيْرًا لِي، وَتَوَفَّنِي إِذَا عَلِمْتَ الْوَفَاةَ خَيْرًا لِي، اللَّهُمَّ وَأَسْأَلُكَ خَشْيَتَكَ فِي الْغَيْبِ وَالشَّهَادَةِ، وَأَسْأَلُكَ كَلِمَةَ الْحَقِّ فِي الرِّضَا وَالْغَضَبِ، وَأَسْأَلُكَ الْقَصْدَ فِي الْفَقْرِ وَالْغِنَى، وَأَسْأَلُكَ نَعِيمًا لَا يَنْفَدُ، وَأَسْأَلُكَ قُرَّةَ عَيْنٍ لَا تَنْقَطِعُ، وَأَسْأَلُكَ الرِّضَاءَ بَعْدَ الْقَضَاءِ، وَأَسْأَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ، وَأَسْأَلُكَ لَذَّةَ النَّظَرِ إِلَى وَجْهِكَ وَالشَّوْقَ إِلَى لِقَائِكَ فِي غَيْرِ ضَرَّاءَ مُضِرَّةٍ وَلَا فِتْنَةٍ مُضِلَّةٍ، اللَّهُمَّ زَيِّنَّا بِزِينَةِ الْإِيمَانِ، وَاجْعَلْنَا هُدَاةً مُهْتَدِينَ.",
+      "englishMeaning": "O Allah, by Your knowledge of the unseen and Your power over creation, let me live as long as You know life is good for me, and take me when You know death is better for me. I ask for awe of You in private and public, truthful speech in contentment and anger, moderation in poverty and wealth, unending delight and lasting joy. I ask for contentment after Your decree, a peaceful life after death, the delight of seeing Your countenance, and longing to meet You without harmful adversity or misleading trial. Adorn us with faith and make us guided guides.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sunan an-Nasai 1305",
+      "order": 21,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sunan an-Nasai 1305"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, par Ta connaissance de l'invisible et Ton pouvoir sur la création, laisse-moi vivre aussi longtemps que Tu sais que la vie est bonne pour moi, et prends-moi quand Tu sais que la mort est meilleure pour moi. Je demande de la crainte envers Toi en privé et en public, un discours véridique dans le contentement et la colère, de la modération dans la pauvreté et la richesse, un plaisir sans fin et une joie durable. Je demande le contentement après ton décret, une vie paisible après la mort, le plaisir de voir ton visage et le désir de te rencontrer sans adversité nuisible ni épreuve trompeuse. Orne-nous de foi et fais de nous des guides guidés."
+    },
+    {
+      "id": "thiziri-prophetic-22",
+      "title": "اللهم إني أسألك العفو والعافية في الدنيا والآخرة، اللهم إني أسألك…",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ العَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي، وَاحْفَظنْيِ مِنْ بيَنِْ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينيِ وَعَنْ شِمَاليِ وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي.",
+      "englishMeaning": "O Allah, I ask You for pardon and well-being in this world and the next. O Allah, I ask You for pardon and well-being in my religion, worldly life, family, and wealth. O Allah, conceal my faults and calm my fears. Protect me from before me, behind me, to my right, to my left, and above me. I seek refuge in Your greatness from being taken unaware from beneath me.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sunan Abi Dawud 5074",
+      "order": 22,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sunan Abi Dawud 5074"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, accorde-moi la santé dans mon corps, dans mon ouïe et dans ma vue. Nulle divinité n’est digne d’adoration en dehors de Toi."
+    },
+    {
+      "id": "thiziri-prophetic-23",
+      "title": "اللهم عالم الغيب والشهادة، فاطر السموات والأرض، رب كل شيء ومليكه،…",
+      "arabic": "اللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، فَاطِرَ السَّمَوَاتِ وَالْأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي وَشَرِّ الشَّيْطَانِ وَشِرْكِهِ.",
+      "englishMeaning": "O Allah, Knower of the unseen and the seen, Creator of the heavens and earth, Lord and Sovereign of everything: I testify that none is worthy of worship except You. I seek refuge in You from the evil of myself and the evil of Satan and his association of partners with You.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Jami at-Tirmidhi 3392",
+      "order": 23,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Jami at-Tirmidhi 3392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, Connaisseur de l'invisible et du visible, Créateur des cieux et de la terre, Seigneur et Souverain de toute chose : j'atteste que nul n'est digne d'être adoré en dehors de Toi. Je cherche refuge auprès de Toi contre mon mal et contre le mal de Satan et de son association de partenaires avec Toi."
+    },
+    {
+      "id": "thiziri-prophetic-24",
+      "title": "اللهم إني أسألك الثبات في الأمر، والعزيمة على الرشد، وأسألك موجبات…",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الثَّبَاتَ فِي الأَمْرِ، وَالْعَزِيمَةَ عَلَى الرُّشْدِ، وَأَسْأَلُكَ مُوجِبَاتِ رَحْمَتكَِ، وَعَزَائمَِ مَغْفِرَتكَِ، وَأسَْألَكَُ شُكْرَ نعِْمَتكَِ، وَحُسْنَ عِباَدَتكَِ، وَأسَْألَكَُ قَلْبًا سَلِيمًا، وَلِسَانًا صَادِقًا، وَأَسْأَلُكَ مِنْ خَيْرِ مَا تَعْلَمُ، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا تَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا تَعْلَمُ، إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ.",
+      "englishMeaning": "O Allah, I ask You for steadfastness in my affairs and determination upon right guidance. Grant me what brings Your mercy and forgiveness, gratitude for Your favors, and good worship of You. Give me a sound heart and a truthful tongue. I ask for the good You know, seek refuge from the evil You know, and ask forgiveness for what You know. You know all unseen things.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": null,
+      "order": 24,
+      "review": {
+        "status": "general",
+        "scope": "whole_reading",
+        "note": "This supplication is reported in al-Tabarani, but its wording and grading have not been independently confirmed in this review.",
+        "references": [],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans al-Tabarani, mais sa formulation et sa classification n'ont pas été confirmées de manière indépendante dans cette revue.",
+        "noteAr": "وقد روى هذا الدعاء في الطبراني، ولم يتأكد لفظه ودرجته في هذه المراجعة بشكل مستقل."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je Te demande de la fermeté dans mes affaires et de la détermination sur une bonne direction. Accorde-moi ce qui apporte ta miséricorde et ton pardon, ta gratitude pour tes faveurs et ton bon culte. Donne-moi un cœur sain et une langue véridique. Je demande le bien que tu connais, je cherche refuge contre le mal que tu connais et je demande pardon pour ce que tu sais. Vous savez toutes les choses invisibles."
+    },
+    {
+      "id": "thiziri-prophetic-25",
+      "title": "اللهم اكفني بحلالك عن حرامك وأغنني بفضلك عمن سواك.",
+      "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ.",
+      "englishMeaning": "O Allah, let what You have permitted suffice me against what You have forbidden, and enrich me by Your favor so I need none besides You.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Jami at-Tirmidhi 3563",
+      "order": 25,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Jami at-Tirmidhi 3563"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, que ce que Tu as permis me suffise contre ce que Tu as interdit, et enrichis-moi par Ta faveur afin que je n'ai besoin de personne en dehors de Toi."
+    },
+    {
+      "id": "thiziri-prophetic-26",
+      "title": "اللهم عافني في بدني، اللهم عافني في سمعي، اللهم عافني في بصري، لا…",
+      "arabic": "اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصَرِي، لَا إلَِهَ إلَِّا أَنْتَ، اللَّهُمَّ إنِِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، اللَّهُمَّ إنِِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لَا إِلَهَ إِلَّا أَنْتَ.",
+      "englishMeaning": "O Allah, grant well-being to my body, my hearing, and my sight. None is worthy of worship except You. O Allah, I seek refuge in You from disbelief, poverty, and punishment in the grave. None is worthy of worship except You.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sunan Abi Dawud 5090",
+      "order": 26,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sunan Abi Dawud 5090"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, accorde le bien-être à mon corps, à mon ouïe et à ma vue. Nul n’est digne d’adoration sauf Toi. Ô Allah, je cherche refuge auprès de Toi contre l'incrédulité, la pauvreté et le châtiment de la tombe. Nul n’est digne d’adoration sauf Toi."
+    },
+    {
+      "id": "thiziri-prophetic-27",
+      "title": "رب أعني ولا تعن علي، وانصرني ولا تنصر علي، وامكر لي ول اتمكر علي،…",
+      "arabic": "رَبِّ أَعِنِّي وَلَا تُعِنْ عَلَيَّ، وَانْصُرْنِي وَلَا تَنْصُرْ عَلَيَّ، وَامْكُرْ لِي وَلَا تَمْكُرْ عَلَيَّ، وَاهْدِنِي وَيَسِّرِ الْهُدَى لِي، وَانْصُرْنِي عَلَى مَنْ بَغَى عَلَيَّ، رَبِّ اجْعَلْنِي لَكَ شَكَّارًا، لَكَ ذَكَّارًا، لَكَ رَهَّابًا، لَكَ مِطْوَاعًا، لَكَ مُخْبِتًا إِلَيْكَ أَوَّاهًا مُنِيبًا، رَبِّ تَقَبَّلْ تَوْبَتِي وَاغْسِلْ حَوْبَتِي وَأَجِبْ دَعْوَتِي وَثَبِّتْ حُجَّتِي وَسَدِّدْ لِسَانِي وَاهْدِ قَلْبِي وَاسْلُلْ سَخِيمَةَ صَدْرِي.",
+      "englishMeaning": "My Lord, help me rather than help against me; support me rather than support against me; plan for me rather than against me; guide me and make guidance easy for me. Help me against whoever oppresses me. Make me grateful to You, mindful of You, fearful of You, obedient to You, humble before You, imploring and returning to You. Accept my repentance, cleanse my sins, answer my prayer, establish my case, make my tongue truthful, guide my heart, and remove resentment from my chest.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Jami at-Tirmidhi 3551",
+      "order": 27,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Jami at-Tirmidhi 3551"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Mon Seigneur, aide-moi plutôt que de m'aider ; soutenez-moi plutôt que de me soutenir ; planifiez pour moi plutôt que contre moi ; guide-moi et facilite-moi la direction. Aide-moi contre quiconque m'opprime. Rends-moi reconnaissant, attentif à Toi, craintif envers Toi, obéissant envers Toi, humble devant Toi, implorant et revenant vers Toi. Acceptez mon repentir, purifiez mes péchés, répondez à ma prière, établissez mon cas, rendez ma langue véridique, guidez mon cœur et enlevez le ressentiment de ma poitrine."
+    },
+    {
+      "id": "thiziri-prophetic-28",
+      "title": "اللهم لك الحمد كله، اللهم لا قابض لما بسطت، ولا باسط لما قبضت، ولا…",
+      "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ كُلُّهُ، اللَّهُمَّ لَا قَابِضَ لِمَا بَسَطْتَ، وَلَا بَاسِطَ لِمَا قَبَضْتَ، وَلَا هَادِيَ لِمَا أَضْلَلْت، وَلَا مُضِلَّ لِمَنْ هَدَيْتَ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ، وَلَا مَانِعَ لِمَا أَعْطَيْتَ، وَلَا مُقَرِّبَ لِمَا بَاعَدْتَ، وَلَا مُبَاعِدَ لِمَا قَرَّبْتَ، اللَّهُمَّ ابْسُطْ عَلَيْنَا مِنْ بَرَكَاتِكَ وَرَحْمَتِكَ وَفَضْلِكَ وَرِزْقِكَ، اللَّهُمَّ إِنِّي أَسْأَلُكَ النَّعِيمَ الْمُقِيمَ الَّذِي لَا يَحُولُ وَلَا يَزُولُ، اللَّهُمَّ إِنِّي أَسْأَلُكَ النَّعِيمَ يَوْمَ الْعَيْلَةِ، وَالْأَمْنَ يَوْمَ الْخَوْفِ، اللَّهُمَّ إنِِّي عَائذٌِ بكَِ مِنْ شَرِّ مَا أَعْطَيْتَنَا وَشَرِّ مَا مَنَعْتَ، اللَّهُمَّ حَبِّبْ إلَِيْنَا الْإِيمَانَ وَزَيِّنْهُ فيِ قُلُوبِنَا، وَكَرِّهْ إِلَيْنَا الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ، وَاجْعَلْنَا مِنَ الرَّاشِدِينَ، اللَّهُمَّ تَوَفَّنَا مُسْلِمِينَ، وَأَحْيِنَا مُسْلِمِينَ، وَأَلْحِقْنَا بِالصَّالِحِينَ غَيْرَ خَزَايَا وَلَا مَفْتُونِينَ، اللَّهُمَّ قَاتِلْ الْكَفَرَةَ الَّذِينَ يُكَذِّبُونَ رُسُلَكَ، وَيَصُدُّونَ عَنْ سَبِيلِكَ، وَاجْعَلْ عَلَيْهِمْ رِجْزَكَ وَعَذَابَكَ، اللَّهُمَّ قَاتِلْ الْكَفَرَةَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَهَ الْحَقِّ.",
+      "englishMeaning": "O Allah, all praise belongs to You. None can contract what You expand or expand what You contract; guide whom You leave astray or mislead whom You guide; give what You withhold or withhold what You give; bring near what You make distant or make distant what You bring near. Spread Your blessings, mercy, favor, and provision upon us. I ask for enduring delight, comfort in hardship, and safety in fear. I seek refuge from the evil of what You gave us and what You withheld. Make faith beloved to us and beautiful in our hearts; make disbelief, defiance, and disobedience hateful to us, and make us rightly guided. Let us live and die as Muslims and join the righteous without disgrace or trial. O Allah, oppose the disbelievers who deny Your messengers and obstruct Your path, and bring Your punishment upon them. Oppose those who disbelieve among the people given the Book, O God of truth.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": null,
+      "order": 28,
+      "review": {
+        "status": "general",
+        "scope": "whole_reading",
+        "note": "Reported in Musnad Ahmad 15492. Its long text and grading have not been independently confirmed here; no fixed count is asserted.",
+        "references": [],
+        "hadithArabic": null,
+        "noteFr": "Rapporté dans Musnad Ahmad 15492. Son texte long et sa notation n'ont pas été confirmés ici de manière indépendante ; aucun décompte fixe n’est affirmé.",
+        "noteAr": "رواه في مسند أحمد 15492. ولم يتم التأكد من نصه الطويل ودرجاته بشكل مستقل هنا؛ لم يتم تأكيد أي عدد ثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, toute louange t'appartient. Personne ne peut contracter ce que Vous développez ou étendre ce que Vous contractez ; guidez ceux que Vous égarez ou égarez ceux que Vous guidez ; donne ce que tu retiens ou retiens ce que tu donnes ; rapprochez ce que vous éloignez ou éloignez ce que vous rapprochez. Répandez sur nous vos bénédictions, votre miséricorde, votre faveur et votre provision. Je demande un plaisir durable, un réconfort dans les difficultés et une sécurité dans la peur. Je cherche refuge contre le mal de ce que tu nous as donné et de ce que tu nous as refusé. Faites que la foi nous soit chère et belle dans nos cœurs ; rendez-nous odieux l'incrédulité, le mépris et la désobéissance, et faites-nous être bien guidés. Vivons et mourons en tant que musulmans et rejoignons les justes sans honte ni épreuve. Ô Allah, oppose-toi aux mécréants qui renient Tes messagers et obstruent Ton chemin, et fais tomber sur eux Ton châtiment. Oppose-toi à ceux qui ont mécru parmi le peuple qui a reçu le Livre, ô Dieu de vérité."
+    },
+    {
+      "id": "thiziri-prophetic-29",
+      "title": "اللهم صل على محمد وعلى آل محمد كما صليت على إبراهيم وعلى آل…",
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وعَلَى آلِ إِبْرَاهِيمَ، إِنَّكَ حَمِيدٌ مَجِيدٌ، اللّٰهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيدٌ.",
+      "englishMeaning": "O Allah, send Your blessings upon Muhammad and the family of Muhammad, as You sent blessings upon Ibrahim and the family of Ibrahim. You are Praiseworthy and Glorious. O Allah, bless Muhammad and the family of Muhammad, as You blessed Ibrahim and the family of Ibrahim. You are Praiseworthy and Glorious.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 3370",
+      "order": 29,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This supplication is reported in the cited narration. No fixed repetition count is asserted.",
+        "references": [
+          "Sahih al-Bukhari 3370"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette supplication est rapportée dans le récit cité. Aucun nombre de répétitions fixe n'est affirmé.",
+        "noteAr": "وقد ورد هذا الدعاء في الرواية المذكورة. لم يتم تأكيد عدد التكرار الثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, accorde Tes bénédictions à Muhammad et à la famille de Muhammad, comme Tu les as accordées à Ibrahim et à la famille d’Ibrahim. Tu es digne de louange et de gloire. Ô Allah, bénis Muhammad et la famille de Muhammad, comme Tu as béni Ibrahim et la famille d’Ibrahim. Tu es digne de louange et de gloire."
+    }
+  ],
+  "frenchTitle": "Invocations prophétiques"
+}
