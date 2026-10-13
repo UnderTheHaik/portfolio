@@ -23,3 +23,8 @@ Source repository: UnderTheHaik/portfolio, main branch. GitHub Pages publishes t
 Personal essays, translations, journal routes, article assets and RSS were removed at the owner's request. Removed URLs should return 404; do not redirect unrelated essays to the homepage. Fictional local demos use noindex, follow; genuine client Serena pages retain their indexing policy. External showcase repositories have separate publication settings.
 
 No search rankings, testimonials, customer results or contact details should be invented. Instagram is connected; email/WhatsApp stay empty until verified. Search Console and field performance metrics require account access or a successful external measurement.
+
+## Thiziri section
+
+The app landing page and independent browser adhkar reader live in public/thiziri/ and are copied by Astro to /thiziri/. Preserve this folder in future builds. Android app files, signing credentials and test APKs are not part of this website. The download button points to the release information until an approved public Android URL is available. Offline caching is scoped to /thiziri/.
+

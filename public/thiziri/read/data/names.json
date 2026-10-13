@@ -1,0 +1,2387 @@
+{
+  "schemaVersion": 3,
+  "id": "names",
+  "title": "Names of Allah",
+  "arabicTitle": "أسماء الله الحسنى",
+  "symbol": "◇",
+  "entryCount": 99,
+  "entries": [
+    {
+      "id": "thiziri-names-1",
+      "title": "اللَّهُ",
+      "arabic": "اللَّهُ",
+      "englishMeaning": "Allah",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 1,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Allah"
+    },
+    {
+      "id": "thiziri-names-2",
+      "title": "الرَّحْمَنُ",
+      "arabic": "الرَّحْمَنُ",
+      "englishMeaning": "the Most Merciful",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 2,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Très Miséricordieux"
+    },
+    {
+      "id": "thiziri-names-3",
+      "title": "الرَّحِيمُ",
+      "arabic": "الرَّحِيمُ",
+      "englishMeaning": "the Especially Merciful",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 3,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Particulièrement Miséricordieux"
+    },
+    {
+      "id": "thiziri-names-4",
+      "title": "المَلِكُ",
+      "arabic": "المَلِكُ",
+      "englishMeaning": "the King",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 4,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le roi"
+    },
+    {
+      "id": "thiziri-names-5",
+      "title": "القُدُّوسُ",
+      "arabic": "القُدُّوسُ",
+      "englishMeaning": "the Holy",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 5,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Saint"
+    },
+    {
+      "id": "thiziri-names-6",
+      "title": "السَّلَامُ",
+      "arabic": "السَّلَامُ",
+      "englishMeaning": "the Source of Peace",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 6,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "la Source de Paix"
+    },
+    {
+      "id": "thiziri-names-7",
+      "title": "المُؤْمِنُ",
+      "arabic": "المُؤْمِنُ",
+      "englishMeaning": "the Giver of Security",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 7,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le donneur de sécurité"
+    },
+    {
+      "id": "thiziri-names-8",
+      "title": "المُهَيْمِنُ",
+      "arabic": "المُهَيْمِنُ",
+      "englishMeaning": "the Guardian",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 8,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Gardien"
+    },
+    {
+      "id": "thiziri-names-9",
+      "title": "العَزِيزُ",
+      "arabic": "العَزِيزُ",
+      "englishMeaning": "the Mighty",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 9,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Puissant"
+    },
+    {
+      "id": "thiziri-names-10",
+      "title": "الجَبَّارُ",
+      "arabic": "الجَبَّارُ",
+      "englishMeaning": "the Compeller",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 10,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le contraigneur"
+    },
+    {
+      "id": "thiziri-names-11",
+      "title": "المُتَكَبِّرُ",
+      "arabic": "المُتَكَبِّرُ",
+      "englishMeaning": "the Supremely Great",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 11,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Suprêmement Grand"
+    },
+    {
+      "id": "thiziri-names-12",
+      "title": "الخَالِقُ",
+      "arabic": "الخَالِقُ",
+      "englishMeaning": "the Creator",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 12,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Créateur"
+    },
+    {
+      "id": "thiziri-names-13",
+      "title": "البَارِىءُ",
+      "arabic": "البَارِىءُ",
+      "englishMeaning": "the Originator",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 13,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Auteur"
+    },
+    {
+      "id": "thiziri-names-14",
+      "title": "المُصَوِّرُ",
+      "arabic": "المُصَوِّرُ",
+      "englishMeaning": "the Fashioner",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 14,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le façonneur"
+    },
+    {
+      "id": "thiziri-names-15",
+      "title": "الغَفَّارُ",
+      "arabic": "الغَفَّارُ",
+      "englishMeaning": "the Oft-Forgiving",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 15,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Pardonneur Souvent"
+    },
+    {
+      "id": "thiziri-names-16",
+      "title": "القَهَّارُ",
+      "arabic": "القَهَّارُ",
+      "englishMeaning": "the Subduer",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 16,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Soumissionnaire"
+    },
+    {
+      "id": "thiziri-names-17",
+      "title": "الوَهَّابُ",
+      "arabic": "الوَهَّابُ",
+      "englishMeaning": "the Bestower",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 17,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Donateur"
+    },
+    {
+      "id": "thiziri-names-18",
+      "title": "الرَّزَّاقُ",
+      "arabic": "الرَّزَّاقُ",
+      "englishMeaning": "the Provider",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 18,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Fournisseur"
+    },
+    {
+      "id": "thiziri-names-19",
+      "title": "الفَتَّاحُ",
+      "arabic": "الفَتَّاحُ",
+      "englishMeaning": "the Opener",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 19,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'ouvreur"
+    },
+    {
+      "id": "thiziri-names-20",
+      "title": "العَلِيمُ",
+      "arabic": "العَلِيمُ",
+      "englishMeaning": "the All-Knowing",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 20,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Omniscient"
+    },
+    {
+      "id": "thiziri-names-21",
+      "title": "القَابِضُ",
+      "arabic": "القَابِضُ",
+      "englishMeaning": "the Withholder",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 21,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le titulaire"
+    },
+    {
+      "id": "thiziri-names-22",
+      "title": "البَاسِطُ",
+      "arabic": "البَاسِطُ",
+      "englishMeaning": "the Expander",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 22,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'expanseur"
+    },
+    {
+      "id": "thiziri-names-23",
+      "title": "الخَافِضُ",
+      "arabic": "الخَافِضُ",
+      "englishMeaning": "the Abaser",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 23,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Abaser"
+    },
+    {
+      "id": "thiziri-names-24",
+      "title": "الرَّافِعُ",
+      "arabic": "الرَّافِعُ",
+      "englishMeaning": "the Raiser",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 24,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Éleveur"
+    },
+    {
+      "id": "thiziri-names-25",
+      "title": "المُعِزُّ",
+      "arabic": "المُعِزُّ",
+      "englishMeaning": "the Giver of Honor",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 25,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le donneur d'honneur"
+    },
+    {
+      "id": "thiziri-names-26",
+      "title": "المُذِلُّ",
+      "arabic": "المُذِلُّ",
+      "englishMeaning": "the Giver of Humiliation",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 26,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le donneur d'humiliation"
+    },
+    {
+      "id": "thiziri-names-27",
+      "title": "السَّمِيعُ",
+      "arabic": "السَّمِيعُ",
+      "englishMeaning": "the All-Hearing",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 27,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "celui qui entend tout"
+    },
+    {
+      "id": "thiziri-names-28",
+      "title": "البَصِيرُ",
+      "arabic": "البَصِيرُ",
+      "englishMeaning": "the All-Seeing",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 28,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "celui qui voit tout"
+    },
+    {
+      "id": "thiziri-names-29",
+      "title": "الحَكَمُ",
+      "arabic": "الحَكَمُ",
+      "englishMeaning": "the Judge",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 29,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le juge"
+    },
+    {
+      "id": "thiziri-names-30",
+      "title": "العَدْلُ",
+      "arabic": "العَدْلُ",
+      "englishMeaning": "the Just",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 30,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Juste"
+    },
+    {
+      "id": "thiziri-names-31",
+      "title": "اللَّطِيفُ",
+      "arabic": "اللَّطِيفُ",
+      "englishMeaning": "the Subtle and Kind",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 31,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le subtil et le gentil"
+    },
+    {
+      "id": "thiziri-names-32",
+      "title": "الخَبِيرُ",
+      "arabic": "الخَبِيرُ",
+      "englishMeaning": "the All-Aware",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 32,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Omniscient"
+    },
+    {
+      "id": "thiziri-names-33",
+      "title": "الحَلِيمُ",
+      "arabic": "الحَلِيمُ",
+      "englishMeaning": "the Forbearing",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 33,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Tolérant"
+    },
+    {
+      "id": "thiziri-names-34",
+      "title": "العَظِيمُ",
+      "arabic": "العَظِيمُ",
+      "englishMeaning": "the Magnificent",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 34,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Magnifique"
+    },
+    {
+      "id": "thiziri-names-35",
+      "title": "الغَفُورُ",
+      "arabic": "الغَفُورُ",
+      "englishMeaning": "the Forgiving",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 35,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Pardonneur"
+    },
+    {
+      "id": "thiziri-names-36",
+      "title": "الشَّكُورُ",
+      "arabic": "الشَّكُورُ",
+      "englishMeaning": "the Appreciative",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 36,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'appréciatif"
+    },
+    {
+      "id": "thiziri-names-37",
+      "title": "العَلِيُّ",
+      "arabic": "العَلِيُّ",
+      "englishMeaning": "the Most High",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 37,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Très-Haut"
+    },
+    {
+      "id": "thiziri-names-38",
+      "title": "الكَبِيرُ",
+      "arabic": "الكَبِيرُ",
+      "englishMeaning": "the Great",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 38,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Grand"
+    },
+    {
+      "id": "thiziri-names-39",
+      "title": "الحَفِيظُ",
+      "arabic": "الحَفِيظُ",
+      "englishMeaning": "the Preserver",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 39,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Conservateur"
+    },
+    {
+      "id": "thiziri-names-40",
+      "title": "المُقِيتُ",
+      "arabic": "المُقِيتُ",
+      "englishMeaning": "the Sustainer",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 40,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Pourvoyeur"
+    },
+    {
+      "id": "thiziri-names-41",
+      "title": "الحَسِيبُ",
+      "arabic": "الحَسِيبُ",
+      "englishMeaning": "the Reckoner",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 41,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le calculateur"
+    },
+    {
+      "id": "thiziri-names-42",
+      "title": "الجَلِيلُ",
+      "arabic": "الجَلِيلُ",
+      "englishMeaning": "the Majestic",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 42,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Majestueux"
+    },
+    {
+      "id": "thiziri-names-43",
+      "title": "الكَرِيمُ",
+      "arabic": "الكَرِيمُ",
+      "englishMeaning": "the Generous",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 43,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Généreux"
+    },
+    {
+      "id": "thiziri-names-44",
+      "title": "الرَّقِيبُ",
+      "arabic": "الرَّقِيبُ",
+      "englishMeaning": "the Watchful",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 44,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Vigilant"
+    },
+    {
+      "id": "thiziri-names-45",
+      "title": "المُجِيبُ",
+      "arabic": "المُجِيبُ",
+      "englishMeaning": "the Responder",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 45,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Répondant"
+    },
+    {
+      "id": "thiziri-names-46",
+      "title": "الوَاسِعُ",
+      "arabic": "الوَاسِعُ",
+      "englishMeaning": "the All-Encompassing",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 46,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Tout Englobant"
+    },
+    {
+      "id": "thiziri-names-47",
+      "title": "الحَكِيمُ",
+      "arabic": "الحَكِيمُ",
+      "englishMeaning": "the Wise",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 47,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Sage"
+    },
+    {
+      "id": "thiziri-names-48",
+      "title": "الوَدُودُ",
+      "arabic": "الوَدُودُ",
+      "englishMeaning": "the Loving",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 48,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Amoureux"
+    },
+    {
+      "id": "thiziri-names-49",
+      "title": "المَجِيدُ",
+      "arabic": "المَجِيدُ",
+      "englishMeaning": "the Glorious",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 49,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Glorieux"
+    },
+    {
+      "id": "thiziri-names-50",
+      "title": "البَاعِثُ",
+      "arabic": "البَاعِثُ",
+      "englishMeaning": "the Resurrector",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 50,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Résurrecteur"
+    },
+    {
+      "id": "thiziri-names-51",
+      "title": "الشَّهِيدُ",
+      "arabic": "الشَّهِيدُ",
+      "englishMeaning": "the Witness",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 51,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le témoin"
+    },
+    {
+      "id": "thiziri-names-52",
+      "title": "الحَقُّ",
+      "arabic": "الحَقُّ",
+      "englishMeaning": "the Truth",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 52,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "la Vérité"
+    },
+    {
+      "id": "thiziri-names-53",
+      "title": "الوَكِيلُ",
+      "arabic": "الوَكِيلُ",
+      "englishMeaning": "the Trustee",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 53,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le fiduciaire"
+    },
+    {
+      "id": "thiziri-names-54",
+      "title": "القَوِيُّ",
+      "arabic": "القَوِيُّ",
+      "englishMeaning": "the Strong",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 54,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Fort"
+    },
+    {
+      "id": "thiziri-names-55",
+      "title": "المَتِينُ",
+      "arabic": "المَتِينُ",
+      "englishMeaning": "the Firm",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 55,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Cabinet"
+    },
+    {
+      "id": "thiziri-names-56",
+      "title": "الوَلِيُّ",
+      "arabic": "الوَلِيُّ",
+      "englishMeaning": "the Protecting Friend",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 56,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Ami Protecteur"
+    },
+    {
+      "id": "thiziri-names-57",
+      "title": "الحَمِيدُ",
+      "arabic": "الحَمِيدُ",
+      "englishMeaning": "the Praiseworthy",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 57,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Digne d'éloges"
+    },
+    {
+      "id": "thiziri-names-58",
+      "title": "المُحْصِي",
+      "arabic": "المُحْصِي",
+      "englishMeaning": "the Enumerator",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 58,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'enquêteur"
+    },
+    {
+      "id": "thiziri-names-59",
+      "title": "المُبْدِىءُ",
+      "arabic": "المُبْدِىءُ",
+      "englishMeaning": "the Initiator",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 59,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Initiateur"
+    },
+    {
+      "id": "thiziri-names-60",
+      "title": "المُعِيدُ",
+      "arabic": "المُعِيدُ",
+      "englishMeaning": "the Restorer",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 60,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Restaurateur"
+    },
+    {
+      "id": "thiziri-names-61",
+      "title": "المُحْيِي",
+      "arabic": "المُحْيِي",
+      "englishMeaning": "the Giver of Life",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 61,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Donateur de Vie"
+    },
+    {
+      "id": "thiziri-names-62",
+      "title": "المُمِيتُ",
+      "arabic": "المُمِيتُ",
+      "englishMeaning": "the Bringer of Death",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 62,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le porteur de la mort"
+    },
+    {
+      "id": "thiziri-names-63",
+      "title": "الحَيُّ",
+      "arabic": "الحَيُّ",
+      "englishMeaning": "the Ever-Living",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 63,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le éternel"
+    },
+    {
+      "id": "thiziri-names-64",
+      "title": "القَيُّومُ",
+      "arabic": "القَيُّومُ",
+      "englishMeaning": "the Self-Sustaining Sustainer",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 64,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Celui qui subsiste par Lui-même et veille sur toute chose autonome"
+    },
+    {
+      "id": "thiziri-names-65",
+      "title": "الوَاجِدُ",
+      "arabic": "الوَاجِدُ",
+      "englishMeaning": "the Finder",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 65,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le chercheur"
+    },
+    {
+      "id": "thiziri-names-66",
+      "title": "المَاجِدُ",
+      "arabic": "المَاجِدُ",
+      "englishMeaning": "the Noble",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 66,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Noble"
+    },
+    {
+      "id": "thiziri-names-67",
+      "title": "الوَاحِدُ",
+      "arabic": "الوَاحِدُ",
+      "englishMeaning": "the One",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 67,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Un"
+    },
+    {
+      "id": "thiziri-names-68",
+      "title": "الصَّمَدُ",
+      "arabic": "الصَّمَدُ",
+      "englishMeaning": "the One upon whom all depend",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 68,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Celui dont tous dépendent"
+    },
+    {
+      "id": "thiziri-names-69",
+      "title": "القَادِرُ",
+      "arabic": "القَادِرُ",
+      "englishMeaning": "the Able",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 69,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le capable"
+    },
+    {
+      "id": "thiziri-names-70",
+      "title": "المُقْتَدِرُ",
+      "arabic": "المُقْتَدِرُ",
+      "englishMeaning": "the All-Powerful",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 70,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Tout-Puissant"
+    },
+    {
+      "id": "thiziri-names-71",
+      "title": "المُقَدِّمُ",
+      "arabic": "المُقَدِّمُ",
+      "englishMeaning": "the Bringer Forward",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 71,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "celui qui fait avancer les choses"
+    },
+    {
+      "id": "thiziri-names-72",
+      "title": "المُؤَخِّرُ",
+      "arabic": "المُؤَخِّرُ",
+      "englishMeaning": "the Delayer",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 72,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le retardateur"
+    },
+    {
+      "id": "thiziri-names-73",
+      "title": "الأَوَّلُ",
+      "arabic": "الأَوَّلُ",
+      "englishMeaning": "the First",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 73,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Premier"
+    },
+    {
+      "id": "thiziri-names-74",
+      "title": "الآخِرُ",
+      "arabic": "الآخِرُ",
+      "englishMeaning": "the Last",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 74,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Dernier"
+    },
+    {
+      "id": "thiziri-names-75",
+      "title": "الظَّاهِرُ",
+      "arabic": "الظَّاهِرُ",
+      "englishMeaning": "the Manifest",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 75,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Manifeste"
+    },
+    {
+      "id": "thiziri-names-76",
+      "title": "البَاطِنُ",
+      "arabic": "البَاطِنُ",
+      "englishMeaning": "the Hidden",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 76,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Caché"
+    },
+    {
+      "id": "thiziri-names-77",
+      "title": "الوَالِي",
+      "arabic": "الوَالِي",
+      "englishMeaning": "the Governor",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 77,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le gouverneur"
+    },
+    {
+      "id": "thiziri-names-78",
+      "title": "المُتَعَالِ",
+      "arabic": "المُتَعَالِ",
+      "englishMeaning": "the Exalted",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 78,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Exalté"
+    },
+    {
+      "id": "thiziri-names-79",
+      "title": "البَرُّ",
+      "arabic": "البَرُّ",
+      "englishMeaning": "the Source of Goodness",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 79,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "la Source de Bonté"
+    },
+    {
+      "id": "thiziri-names-80",
+      "title": "التَّوَّابُ",
+      "arabic": "التَّوَّابُ",
+      "englishMeaning": "the Accepter of Repentance",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 80,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'accepteur du repentir"
+    },
+    {
+      "id": "thiziri-names-81",
+      "title": "المُنْتَقِمُ",
+      "arabic": "المُنْتَقِمُ",
+      "englishMeaning": "the Avenger",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 81,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Vengeur"
+    },
+    {
+      "id": "thiziri-names-82",
+      "title": "العَفُوُّ",
+      "arabic": "العَفُوُّ",
+      "englishMeaning": "the Pardoner",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 82,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Pardonneur"
+    },
+    {
+      "id": "thiziri-names-83",
+      "title": "الرَّءُوفُ",
+      "arabic": "الرَّءُوفُ",
+      "englishMeaning": "the Compassionate",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 83,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Compatissant"
+    },
+    {
+      "id": "thiziri-names-84",
+      "title": "مَالِكُ المُلْكِ",
+      "arabic": "مَالِكُ المُلْكِ",
+      "englishMeaning": "the Owner of Sovereignty",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 84,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le propriétaire de la souveraineté"
+    },
+    {
+      "id": "thiziri-names-85",
+      "title": "ذُوالجَلَالِ وَالإِكْرَامِ",
+      "arabic": "ذُوالجَلَالِ وَالإِكْرَامِ",
+      "englishMeaning": "the Possessor of Majesty and Honor",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 85,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le détenteur de la majesté et de l'honneur"
+    },
+    {
+      "id": "thiziri-names-86",
+      "title": "المُقْسِطُ",
+      "arabic": "المُقْسِطُ",
+      "englishMeaning": "the Equitable",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 86,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Équitable"
+    },
+    {
+      "id": "thiziri-names-87",
+      "title": "الجَامِعُ",
+      "arabic": "الجَامِعُ",
+      "englishMeaning": "the Gatherer",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 87,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Rassembleur"
+    },
+    {
+      "id": "thiziri-names-88",
+      "title": "الغَنِيُّ",
+      "arabic": "الغَنِيُّ",
+      "englishMeaning": "the Self-Sufficient",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 88,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'autosuffisant"
+    },
+    {
+      "id": "thiziri-names-89",
+      "title": "المُغْنِيُّ",
+      "arabic": "المُغْنِيُّ",
+      "englishMeaning": "the Enricher",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 89,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Enrichisseur"
+    },
+    {
+      "id": "thiziri-names-90",
+      "title": "المَانِعُ",
+      "arabic": "المَانِعُ",
+      "englishMeaning": "the Preventer",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 90,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Préventeur"
+    },
+    {
+      "id": "thiziri-names-91",
+      "title": "الضَّارُ",
+      "arabic": "الضَّارُ",
+      "englishMeaning": "the Bringer of Harm",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 91,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le porteur du mal"
+    },
+    {
+      "id": "thiziri-names-92",
+      "title": "النَّافِعُ",
+      "arabic": "النَّافِعُ",
+      "englishMeaning": "the Giver of Benefit",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 92,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Donateur de Bénéfices"
+    },
+    {
+      "id": "thiziri-names-93",
+      "title": "النُّورُ",
+      "arabic": "النُّورُ",
+      "englishMeaning": "the Light",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 93,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "la Lumière"
+    },
+    {
+      "id": "thiziri-names-94",
+      "title": "الهَادِي",
+      "arabic": "الهَادِي",
+      "englishMeaning": "the Guide",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 94,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Guide"
+    },
+    {
+      "id": "thiziri-names-95",
+      "title": "البَدِيعُ",
+      "arabic": "البَدِيعُ",
+      "englishMeaning": "the Incomparable Originator",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 95,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Incomparable Créateur"
+    },
+    {
+      "id": "thiziri-names-96",
+      "title": "البَاقِي",
+      "arabic": "البَاقِي",
+      "englishMeaning": "the Everlasting",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 96,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Éternel"
+    },
+    {
+      "id": "thiziri-names-97",
+      "title": "الوَارِثُ",
+      "arabic": "الوَارِثُ",
+      "englishMeaning": "the Inheritor",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 97,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "l'Héritier"
+    },
+    {
+      "id": "thiziri-names-98",
+      "title": "الرَّشِيدُ",
+      "arabic": "الرَّشِيدُ",
+      "englishMeaning": "the Guide to Rightness",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 98,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Guide de la justesse"
+    },
+    {
+      "id": "thiziri-names-99",
+      "title": "الصَّبُورُ",
+      "arabic": "الصَّبُورُ",
+      "englishMeaning": "the Patient",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih al-Bukhari 7392",
+      "order": 99,
+      "review": {
+        "status": "traditional_list",
+        "scope": "general_practice",
+        "note": "The hadith affirms ninety-nine names, but does not authenticate the complete enumeration displayed here. This traditional list requires individual-name review.",
+        "references": [
+          "Sahih al-Bukhari 7392"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le hadith affirme quatre-vingt-dix-neuf noms, mais n'authentifie pas l'énumération complète affichée ici. Cette liste traditionnelle nécessite un examen du nom individuel.",
+        "noteAr": "والحديث يثبت تسعة وتسعين اسمًا، لكنه لا يصح الإحصاء الكامل المعروض هنا. تتطلب هذه القائمة التقليدية مراجعة الأسماء الفردية."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "le Patient"
+    }
+  ],
+  "frenchTitle": "Les noms d’Allah"
+}

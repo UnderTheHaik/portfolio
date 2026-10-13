@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 3,
+  "id": "prayer",
+  "title": "After prayer",
+  "arabicTitle": "أذكار بعد الصلاة",
+  "symbol": "◇",
+  "entryCount": 11,
+  "entries": [
+    {
+      "id": "thiziri-prayer-1",
+      "title": "الاستغفار والدعاء بعد الصلاة",
+      "arabic": "أَسْـتَغْفِرُ الله، أَسْـتَغْفِرُ الله، أَسْـتَغْفِرُ الله.\n\nاللّهُـمَّ أَنْـتَ السَّلامُ ، وَمِـنْكَ السَّلام ، تَبارَكْتَ يا ذا الجَـلالِ وَالإِكْـرام .",
+      "englishMeaning": "I ask Allah’s forgiveness. I ask Allah’s forgiveness. I ask Allah’s forgiveness. O Allah, You are Peace, and peace comes from You. Blessed are You, Possessor of majesty and honor.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 591",
+      "order": 1,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "The Prophet ﷺ sought forgiveness three times after prayer, then recited the peace supplication. The three requests are already written out in this reading.",
+        "references": [
+          "Sahih Muslim 591"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le Prophète ﷺ a demandé pardon trois fois après la prière, puis a récité la supplication de paix. Les trois demandes sont déjà écrites dans cette lecture.",
+        "noteAr": "وكان النبي صلى الله عليه وسلم يستغفر بعد الصلاة ثلاث مرات، ثم يدعو بالسلام. الطلبات الثلاثة مكتوبة بالفعل في هذه القراءة."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Je demande pardon à Allah. Je demande pardon à Allah. Je demande pardon à Allah. Ô Allah, Tu es la Paix et la paix vient de Toi. Béni sois-Tu, Possesseur de majesté et d'honneur."
+    },
+    {
+      "id": "thiziri-prayer-2",
+      "title": "لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء…",
+      "arabic": "لا إلهَ إلاّ اللّهُ وحدَهُ لا شريكَ لهُ، لهُ المُـلْكُ ولهُ الحَمْد، وهوَ على كلّ شَيءٍ قَدير، اللّهُـمَّ لا مانِعَ لِما أَعْطَـيْت، وَلا مُعْطِـيَ لِما مَنَـعْت، وَلا يَنْفَـعُ ذا الجَـدِّ مِنْـكَ الجَـد.",
+      "englishMeaning": "None is worthy of worship except Allah alone, with no partner. His is the sovereignty and His is the praise, and He has power over all things. O Allah, none can withhold what You give or give what You withhold, and no person’s worldly standing can avail them against You.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 844",
+      "order": 2,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This remembrance is narrated after prayer.",
+        "references": [
+          "Sahih al-Bukhari 844"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Ce souvenir est raconté après la prière.",
+        "noteAr": "ويرد هذا الذكر بعد الصلاة."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Nulle divinité n’est digne d’adoration en dehors d’Allah, Seul et sans associé. À Lui la royauté et la louange, et Il est capable de toute chose. Ô Allah, personne ne peut refuser ce que Tu donnes ou donner ce que Tu refuses, et la position mondaine d’une personne ne peut lui servir contre Toi."
+    },
+    {
+      "id": "thiziri-prayer-3",
+      "title": "لا إله إلا الله, وحده لا شريك له، له الملك وله الحمد، وهو على كل…",
+      "arabic": "لا إلهَ إلاّ اللّه, وحدَهُ لا شريكَ لهُ، لهُ الملكُ ولهُ الحَمد، وهوَ على كلّ شيءٍ قدير، لا حَـوْلَ وَلا قـوَّةَ إِلاّ بِاللهِ، لا إلهَ إلاّ اللّـه، وَلا نَعْـبُـدُ إِلاّ إيّـاه, لَهُ النِّعْـمَةُ وَلَهُ الفَضْل وَلَهُ الثَّـناءُ الحَـسَن، لا إلهَ إلاّ اللّهُ مخْلِصـينَ لَـهُ الدِّينَ وَلَوْ كَـرِهَ الكـافِرون.",
+      "englishMeaning": "None is worthy of worship except Allah alone, with no partner. His is the sovereignty and His is the praise, and He has power over all things. There is no strength or power except through Allah. None is worthy of worship except Allah, and we worship Him alone. Favor, bounty, and beautiful praise belong to Him. None is worthy of worship except Allah; we make our worship sincerely for Him, even if the disbelievers dislike it.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 594",
+      "order": 3,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This remembrance is narrated after prayer.",
+        "references": [
+          "Sahih Muslim 594"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Ce souvenir est raconté après la prière.",
+        "noteAr": "ويرد هذا الذكر بعد الصلاة."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Nulle divinité n’est digne d’adoration en dehors d’Allah, Seul et sans associé. À Lui la royauté et la louange, et Il est capable de toute chose. Il n’y a de force ni de puissance que par Allah. Nul n’est digne d’adoration sauf Allah, et nous L’adorons Lui seul. La faveur, la générosité et les belles louanges lui appartiennent. Nul n’est digne d’adoration sauf Allah ; nous Lui rendons notre adoration sincèrement, même si cela ne plaît pas aux mécréants."
+    },
+    {
+      "id": "thiziri-prayer-4",
+      "title": "التسبيح والتحميد والتكبير",
+      "arabic": "سُـبْحانَ اللهِ، والحَمْـدُ لله ، واللهُ أكْـبَر.",
+      "englishMeaning": "Glory be to Allah. All praise belongs to Allah. Allah is the Greatest.",
+      "repetitions": 33,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 597a",
+      "order": 4,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "Each phrase is said thirty-three times after prayer. Counting thirty-three rounds of all three gives thirty-three of each.",
+        "references": [
+          "Sahih Muslim 597a"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Chaque phrase est dite trente-trois fois après la prière. Compter trente-trois tours des trois donne trente-trois de chacun.",
+        "noteAr": "تقال كل عبارة بعد الصلاة ثلاثاً وثلاثين مرة. عد ثلاث وثلاثين طلقة من الثلاثة يعطينا ثلاثة وثلاثين من كل منها."
+      },
+      "countBasis": "narrated",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Gloire à Allah. Toute louange appartient à Allah. Allah est le plus grand."
+    },
+    {
+      "id": "thiziri-prayer-5",
+      "title": "التهليل",
+      "arabic": "لا إلهَ إلاّ اللّهُ وَحْـدَهُ لا شريكَ لهُ، لهُ الملكُ ولهُ الحَمْد، وهُوَ على كُلّ شَيءٍ قَـدير.",
+      "englishMeaning": "None is worthy of worship except Allah alone, with no partner. His is the sovereignty and His is the praise, and He has power over all things.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 597a",
+      "order": 5,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This concluding tahlil completes the sequence of ninety-nine phrases to one hundred.",
+        "references": [
+          "Sahih Muslim 597a"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Ce tahlil final complète la séquence de quatre-vingt-dix-neuf phrases à cent.",
+        "noteAr": "وهذا التهليل الختامي يكمل تسلسل تسع وتسعين جملة إلى مائة."
+      },
+      "countBasis": "narrated",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Nulle divinité n’est digne d’adoration en dehors d’Allah, Seul et sans associé. À Lui la royauté et la louange, et Il est capable de toute chose."
+    },
+    {
+      "id": "thiziri-prayer-6",
+      "title": "الإخلاص والمعوذتان",
+      "arabic": "بِسْمِ اللهِ الرَّحْمنِ الرَّحِيم\n\nقُلْ هُوَ ٱللَّهُ أَحَدٌ، ٱللَّهُ ٱلصَّمَدُ، لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ.\n\nبِسْمِ اللهِ الرَّحْمنِ الرَّحِيم\n\nقُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ، مِن شَرِّ مَا خَلَقَ، وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ، وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ، وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ.\n\nبِسْمِ اللهِ الرَّحْمنِ الرَّحِيم\n\nقُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ، مَلِكِ ٱلنَّاسِ، إِلَٰهِ ٱلنَّاسِ، مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ، ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ، مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ.\n\n بعد صلاتي الفجر والمغرب. ومرة بعد الصلوات الأخرى.",
+      "englishMeaning": "In the name of Allah, the Most Merciful, the Especially Merciful. Say: He is Allah, the One. Allah, the One upon whom all depend. He neither begets nor was born, and none is comparable to Him.\n\nIn the name of Allah, the Most Merciful, the Especially Merciful. Say: I seek refuge in the Lord of daybreak, from the evil of what He created, from the evil of darkness as it settles, from the evil of those who blow on knots, and from the evil of an envious person when they envy.\n\nIn the name of Allah, the Most Merciful, the Especially Merciful. Say: I seek refuge in the Lord of mankind, the King of mankind, the God of mankind, from the evil of the retreating whisperer, who whispers in people’s hearts, from among jinn and mankind.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sunan Abi Dawud 1523 · Sunan Abi Dawud 5082",
+      "order": 6,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "Recitation after prayer is reported; three repetitions belong to the morning/evening practice, not every obligatory prayer.",
+        "references": [
+          "Sunan Abi Dawud 1523",
+          "Sunan Abi Dawud 5082"
+        ],
+        "hadithArabic": null,
+        "noteFr": "La récitation après la prière est rapportée ; trois répétitions font partie de la pratique matin/soir, pas de chaque prière obligatoire.",
+        "noteAr": "ورد القراءة بعد الصلاة؛ ثلاث مرات تخص صلاة الصباح والمساء وليس كل صلاة مفروضة."
+      },
+      "countBasis": "narrated",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Dis : Il est Allah, l’Unique. Allah, Celui dont tout dépend. Il n’a pas engendré et n’a pas été engendré. Et nul n’est égal à Lui.\n\nAu nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Dis : Je cherche refuge auprès du Seigneur de l’aube, contre le mal de ce qu’Il a créé, contre le mal de l’obscurité lorsqu’elle s’installe, contre le mal de celles qui soufflent sur les nœuds, et contre le mal de l’envieux lorsqu’il envie.\n\nAu nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Dis : Je cherche refuge auprès du Seigneur des hommes, du Souverain des hommes, du Dieu des hommes, contre le mal du mauvais conseiller qui se dérobe, qui souffle le mal dans les cœurs des hommes, qu’il soit parmi les djinns ou les hommes."
+    },
+    {
+      "id": "thiziri-prayer-7",
+      "title": "آية الكرسي",
+      "arabic": "أَعُوذُ بِاللهِ مِنْ الشَّيْطَانِ الرَّجِيمِ\n\nاللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ.",
+      "englishMeaning": "I seek refuge in Allah from Satan, the accursed. Allah: none is worthy of worship except Him, the Ever-Living, the Sustainer. Neither drowsiness nor sleep overtakes Him. Everything in the heavens and on earth belongs to Him. Who can intercede with Him without His permission? He knows what lies before them and behind them. They grasp nothing of His knowledge except what He wills. His Kursi encompasses the heavens and earth, and preserving them does not tire Him. He is the Most High, the Magnificent.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Quran 2:255",
+      "order": 7,
+      "review": {
+        "status": "quran",
+        "scope": "wording",
+        "note": "Quranic text. A report recommending it after prayer is listed in Hisn al-Muslim 71; that report was not independently graded in this review.",
+        "references": [
+          "Quran 2:255"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Texte coranique. Un rapport le recommandant après la prière est répertorié dans Hisn al-Muslim 71 ; ce rapport n’a pas été évalué de manière indépendante dans le cadre de cet examen.",
+        "noteAr": "نص قرآني . وجاء خبر استحبابه بعد الصلاة في حصن المسلم 71 ؛ لم يتم تصنيف هذا التقرير بشكل مستقل في هذه المراجعة."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Je cherche refuge auprès d’Allah contre Satan, le maudit. Allah ! Nulle divinité n’est digne d’adoration en dehors de Lui, le Vivant, Celui qui subsiste par Lui-même et veille sur toute chose. Ni somnolence ni sommeil ne Le saisissent. À Lui appartient tout ce qui est dans les cieux et sur la terre. Qui peut intercéder auprès de Lui sans Sa permission ? Il sait ce qui est devant eux et derrière eux. Ils ne connaissent de Sa science que ce qu’Il veut. Son Kursi s’étend aux cieux et à la terre, dont la garde ne Lui pèse pas. Il est le Très-Haut, le Très-Grand."
+    },
+    {
+      "id": "thiziri-prayer-8",
+      "title": "لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، يحيي ويميت وهو…",
+      "arabic": "لا إلهَ إلاّ اللّهُ وحْـدَهُ لا شريكَ لهُ، لهُ المُلكُ ولهُ الحَمْد، يُحيـي وَيُمـيتُ وهُوَ على كُلّ شيءٍ قدير.",
+      "englishMeaning": "None is worthy of worship except Allah alone, with no partner. His is the sovereignty and His is the praise. He gives life and causes death, and He has power over all things.",
+      "repetitions": 10,
+      "readingOnly": false,
+      "reference": "Jami at-Tirmidhi 3474",
+      "order": 8,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "Ten repetitions after Fajr are described in this narration. This is not a target for every prayer.",
+        "references": [
+          "Jami at-Tirmidhi 3474"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Dix répétitions après Fajr sont décrites dans cette narration. Ce n’est pas un objectif pour chaque prière.",
+        "noteAr": "وقد ورد في هذه الرواية عشر مرات بعد الفجر. وليس هذا هدفاً لكل صلاة."
+      },
+      "countBasis": "narrated",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Nul n’est digne d’adoration sauf Allah seul, sans associé. A Lui est la souveraineté et à Lui la louange. Il donne la vie et cause la mort, et Il a pouvoir sur toutes choses."
+    },
+    {
+      "id": "thiziri-prayer-9",
+      "title": "طلب العلم النافع",
+      "arabic": "اللّهُـمَّ إِنِّـي أَسْأَلُـكَ عِلْمـاً نافِعـاً وَرِزْقـاً طَيِّـباً ، وَعَمَـلاً مُتَقَـبَّلاً.",
+      "englishMeaning": "O Allah, I ask You for beneficial knowledge, wholesome provision, and accepted deeds.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sunan Ibn Majah 925",
+      "order": 9,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "Reported after Fajr.",
+        "references": [
+          "Sunan Ibn Majah 925"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Rapporté après Fajr.",
+        "noteAr": "ورد بعد الفجر ."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je Te demande des connaissances bénéfiques, des provisions saines et des actes acceptés."
+    },
+    {
+      "id": "thiziri-prayer-10",
+      "title": "اللهم أجرني من النار. بعد صلاة الصبح والمغرب.",
+      "arabic": "اللَّهُمَّ أَجِرْنِي مِنْ النَّار.",
+      "englishMeaning": "O Allah, protect me from the Fire.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": null,
+      "order": 10,
+      "review": {
+        "status": "general",
+        "scope": "whole_reading",
+        "note": "A seven-count after Fajr and Maghrib is commonly reported, but its chain has not been authenticated here. No fixed seven-count is asserted.",
+        "references": [],
+        "hadithArabic": null,
+        "noteFr": "Un compte de sept après Fajr et Maghrib est communément rapporté, mais sa chaîne n'a pas été authentifiée ici. Aucun chef d'accusation fixe n'est invoqué.",
+        "noteAr": "والسبع بعد الفجر والمغرب وردت عادة، ولم يصح إسنادها هنا. لم يتم التأكيد على عدد سبعة ثابت."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, protège-moi du Feu."
+    },
+    {
+      "id": "thiziri-prayer-11",
+      "title": "اللهم أعني على ذكرك وشكرك وحسن عبادتك.",
+      "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ.",
+      "englishMeaning": "O Allah, help me remember You, thank You, and worship You well.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sunan Abi Dawud 1522",
+      "order": 11,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "The Prophet ﷺ taught Muadh this request for help in remembrance, gratitude, and worship.",
+        "references": [
+          "Sunan Abi Dawud 1522"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Le Prophète ﷺ a enseigné à Muadh cette demande d'aide dans le souvenir, la gratitude et l'adoration.",
+        "noteAr": "وقد علم النبي صلى الله عليه وسلم معاذًا هذا الطلب من الذكر والشكر والعبادة."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, aide-moi à me souvenir de Toi, à te remercier et à bien t'adorer."
+    }
+  ],
+  "frenchTitle": "Après la prière"
+}
