@@ -18,13 +18,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Adam, with Hawwa (Eve), in Quran 7:23.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 7:23"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Adam, avec Hawwa (Ève), dans le Coran 7:23.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: آدم مع حواء، في القرآن 7:23.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Adam, with Hawwa (Eve), in Quran 7:23.",
+          "fr": "Adam, avec Hawwa (Ève), dans le Coran 7:23.",
+          "ar": "آدم مع حواء، في القرآن 7:23."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -42,13 +52,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Nuh (Noah). Quran 71:28 and 11:47 record his prayers; 23:29 teaches him what to say when landing.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 71:28; 11:47; 23:29"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Nuh (Noé). Le Coran 71:28 et 11:47 rapporte ses invocations ; 23:29 lui enseigne quoi dire en débarquant.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: نوح. تذكر الآيتان 71:28 و11:47 دعاءه، وتعلّمه الآية 23:29 الدعاء عند النزول.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Nuh (Noah). Quran 71:28 and 11:47 record his prayers; 23:29 teaches him what to say when landing.",
+          "fr": "Nuh (Noé). Le Coran 71:28 et 11:47 rapporte ses invocations ; 23:29 lui enseigne quoi dire en débarquant.",
+          "ar": "نوح. تذكر الآيتان 71:28 و11:47 دعاءه، وتعلّمه الآية 23:29 الدعاء عند النزول."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -66,13 +86,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Ibrahim (Abraham). The opening prayer in 2:127–128 is shared with Ismail (Ishmael); 60:4–5 presents Ibrahim and those with him. The other cited passages are prayers of Ibrahim.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 2:127–128; 14:40–41; 26:83–85; 60:4–5; 37:100"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Ibrahim (Abraham). L’invocation initiale de 2:127–128 est partagée avec Ismail (Ismaël) ; 60:4–5 présente Ibrahim et ceux qui sont avec lui. Les autres passages cités rapportent des invocations d’Ibrahim.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: إبراهيم. الدعاء الأول في 2:127–128 مع إسماعيل، وفي 60:4–5 إبراهيم والذين معه. وبقية المواضع المذكورة من دعاء إبراهيم.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Ibrahim (Abraham). The opening prayer in 2:127–128 is shared with Ismail (Ishmael); 60:4–5 presents Ibrahim and those with him. The other cited passages are prayers of Ibrahim.",
+          "fr": "Ibrahim (Abraham). L’invocation initiale de 2:127–128 est partagée avec Ismail (Ismaël) ; 60:4–5 présente Ibrahim et ceux qui sont avec lui. Les autres passages cités rapportent des invocations d’Ibrahim.",
+          "ar": "إبراهيم. الدعاء الأول في 2:127–128 مع إسماعيل، وفي 60:4–5 إبراهيم والذين معه. وبقية المواضع المذكورة من دعاء إبراهيم."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -90,13 +120,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Hud, addressing his people in Quran 11:56. These are words expressing trust in Allah, rather than a separately prescribed ritual prayer.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 11:56"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Hud, s’adressant à son peuple dans le Coran 11:56. Ce sont des paroles de confiance en Allah, pas une invocation rituelle distincte prescrite.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: هود، مخاطبًا قومه في القرآن 11:56. هذه كلمات توكل على الله وليست دعاءً تعبديًا مستقلًا مقررًا.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Hud, addressing his people in Quran 11:56. These are words expressing trust in Allah, rather than a separately prescribed ritual prayer.",
+          "fr": "Hud, s’adressant à son peuple dans le Coran 11:56. Ce sont des paroles de confiance en Allah, pas une invocation rituelle distincte prescrite.",
+          "ar": "هود، مخاطبًا قومه في القرآن 11:56. هذه كلمات توكل على الله وليست دعاءً تعبديًا مستقلًا مقررًا."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -114,13 +154,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Lut (Lot), in Quran 29:30 and 26:169.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 29:30; 26:169"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Lut (Loth), dans le Coran 29:30 et 26:169.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: لوط، في القرآن 29:30 و26:169.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Lut (Lot), in Quran 29:30 and 26:169.",
+          "fr": "Lut (Loth), dans le Coran 29:30 et 26:169.",
+          "ar": "لوط، في القرآن 29:30 و26:169."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -138,13 +188,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Yusuf (Joseph), in Quran 12:101.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 12:101"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Yusuf (Joseph), dans le Coran 12:101.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: يوسف، في القرآن 12:101.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Yusuf (Joseph), in Quran 12:101.",
+          "fr": "Yusuf (Joseph), dans le Coran 12:101.",
+          "ar": "يوسف، في القرآن 12:101."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -162,13 +222,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Shuayb, addressing his people and asking Allah for judgment in Quran 7:89.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 7:89"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Shuayb, s’adressant à son peuple et demandant à Allah de trancher, dans le Coran 7:89.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: شعيب، مخاطبًا قومه وداعيًا الله للفصل بينهم، في القرآن 7:89.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Shuayb, addressing his people and asking Allah for judgment in Quran 7:89.",
+          "fr": "Shuayb, s’adressant à son peuple et demandant à Allah de trancher, dans le Coran 7:89.",
+          "ar": "شعيب، مخاطبًا قومه وداعيًا الله للفصل بينهم، في القرآن 7:89."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -186,13 +256,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Musa (Moses), in Quran 28:16–17, 28:24 and 20:25–28.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 28:16–17,24; 20:25–28"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Musa (Moïse), dans le Coran 28:16–17, 28:24 et 20:25–28.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: موسى، في القرآن 28:16–17 و28:24 و20:25–28.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Musa (Moses), in Quran 28:16–17, 28:24 and 20:25–28.",
+          "fr": "Musa (Moïse), dans le Coran 28:16–17, 28:24 et 20:25–28.",
+          "ar": "موسى، في القرآن 28:16–17 و28:24 و20:25–28."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -210,13 +290,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Ayyub (Job), in Quran 21:83.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 21:83"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Ayyub (Job), dans le Coran 21:83.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: أيوب، في القرآن 21:83.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Ayyub (Job), in Quran 21:83.",
+          "fr": "Ayyub (Job), dans le Coran 21:83.",
+          "ar": "أيوب، في القرآن 21:83."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -234,13 +324,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Sulayman (Solomon), in Quran 27:19.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 27:19"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Sulayman (Salomon), dans le Coran 27:19.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: سليمان، في القرآن 27:19.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Sulayman (Solomon), in Quran 27:19.",
+          "fr": "Sulayman (Salomon), dans le Coran 27:19.",
+          "ar": "سليمان، في القرآن 27:19."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -258,13 +358,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Yunus (Jonah), called Dhun-Nun in Quran 21:87.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 21:87"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Yunus (Jonas), appelé Dhun-Nun dans le Coran 21:87.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: يونس، المسمّى ذا النون في القرآن 21:87.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Yunus (Jonah), called Dhun-Nun in Quran 21:87.",
+          "fr": "Yunus (Jonas), appelé Dhun-Nun dans le Coran 21:87.",
+          "ar": "يونس، المسمّى ذا النون في القرآن 21:87."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -282,13 +392,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Zakariya (Zechariah), in Quran 3:38 and 21:89.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 3:38; 21:89"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Zakariya (Zacharie), dans le Coran 3:38 et 21:89.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: زكريا، في القرآن 3:38 و21:89.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Zakariya (Zechariah), in Quran 3:38 and 21:89.",
+          "fr": "Zakariya (Zacharie), dans le Coran 3:38 et 21:89.",
+          "ar": "زكريا، في القرآن 3:38 و21:89."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
@@ -306,13 +426,23 @@
       "review": {
         "status": "quran",
         "scope": "wording",
-        "note": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+        "note": "Prophet / teaching: Yaqub (Jacob), speaking to his sons in Quran 12:86. This is an excerpt expressing that he brings his grief to Allah, not a separately prescribed ritual formula.\n\nQuranic words associated with the prophets. No fixed repetition count is specified by these verses.",
         "references": [
           "Quran 12:86"
         ],
         "hadithArabic": null,
-        "noteFr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
-        "noteAr": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        "noteFr": "Prophète / transmission : Yaqub (Jacob), s’adressant à ses fils dans le Coran 12:86. Cet extrait exprime qu’il confie sa détresse à Allah ; ce n’est pas une formule rituelle distincte prescrite.\n\nMots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+        "noteAr": "النبي / التعليم: يعقوب، مخاطبًا أبناءه في القرآن 12:86. المقتطف يعبّر عن شكواه إلى الله وليس صيغة تعبدية مستقلة مقررة.\n\nالكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات.",
+        "attributionBaseNotes": {
+          "en": "Quranic words associated with the prophets. No fixed repetition count is specified by these verses.",
+          "fr": "Mots coraniques associés aux prophètes. Aucun nombre de répétitions fixe n'est spécifié par ces versets.",
+          "ar": "الكلمات القرآنية المرتبطة بالأنبياء. لم يتم تحديد عدد تكرار ثابت في هذه الآيات."
+        },
+        "attribution": {
+          "en": "Yaqub (Jacob), speaking to his sons in Quran 12:86. This is an excerpt expressing that he brings his grief to Allah, not a separately prescribed ritual formula.",
+          "fr": "Yaqub (Jacob), s’adressant à ses fils dans le Coran 12:86. Cet extrait exprime qu’il confie sa détresse à Allah ; ce n’est pas une formule rituelle distincte prescrite.",
+          "ar": "يعقوب، مخاطبًا أبناءه في القرآن 12:86. المقتطف يعبّر عن شكواه إلى الله وليس صيغة تعبدية مستقلة مقررة."
+        }
       },
       "countBasis": "personal",
       "reviewedOn": "2026-10-13",
