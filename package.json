@@ -5,10 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev --host 127.0.0.1",
-    "build": "astro build",
+    "build": "node scripts/build-thiziri-seo.mjs && astro build",
     "preview": "astro preview --host 127.0.0.1",
     "check": "astro check",
-    "test": "node scripts/check-build.mjs"
+    "test": "node scripts/check-build.mjs",
+    "test:thiziri": "node scripts/check-thiziri-seo.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.6",

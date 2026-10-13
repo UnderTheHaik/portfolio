@@ -6,5 +6,5 @@ export default defineConfig({
   base: process.env.BASE_PATH || '/',
   output: 'static',
   trailingSlash: 'always',
-  integrations: [sitemap({ filter: (page) => !/\/(?:404|demos)(?:\/|$)/.test(new URL(page).pathname) }), mdx()],
+  integrations: [sitemap({ customSitemaps: ['https://underthehaik.com/thiziri/sitemap.xml'], filter: (page) => !/\/(?:404|demos)(?:\/|$)/.test(new URL(page).pathname) }), mdx()],
 });

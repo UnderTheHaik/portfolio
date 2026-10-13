@@ -28,3 +28,9 @@ No search rankings, testimonials, customer results or contact details should be 
 
 The app landing page and independent browser adhkar reader live in public/thiziri/ and are copied by Astro to /thiziri/. Preserve this folder in future builds. Android app files, signing credentials and test APKs are not part of this website. The download button points to the release information until an approved public Android URL is available. Offline caching is scoped to /thiziri/.
 
+
+## Thiziri search pages
+
+Run `node scripts/build-thiziri-seo.mjs` before the Astro build (included in the package build command). The generator uses existing `public/thiziri/read/data/*.json` without altering texts, translations or source notes. It generates 23 collections in each of en/fr/ar, localized landing pages, source guides and a 78-URL sitemap. `node scripts/check-thiziri-seo.mjs` validates all pages and reading instances against the data. Maintain the templates in `scripts/thiziri-*-template.html` for structural changes to the original landing/reader/privacy shells; generated pages are reproducible. The service worker version and reader CSP hashes are regenerated with normalized line endings.
+
+The root sitemap index and robots file reference the Thiziri sitemap. The Android release remains coming soon until a real public download is available. Search Console submission and field performance checks require external access.
