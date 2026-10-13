@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://underthehaik.com/sitemap-index.xml
+Sitemap: https://underthehaik.com/thiziri/sitemap.xml
