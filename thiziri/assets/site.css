@@ -17,3 +17,5 @@ body.landing-page{--paper:#fcf8f0;background:#fcf8f0}
 .back-to-top:hover{background:var(--soft)}
 body.landing-page footer{padding-bottom:105px}
 @media(max-width:600px){.scroll-actions{inset-inline-end:16px;inset-inline-start:16px;justify-content:flex-end;bottom:calc(16px + env(safe-area-inset-bottom));gap:10px}.floating-download{font-size:12px;padding:12px 18px;gap:10px}.back-to-top{flex-shrink:0}.scroll-actions .button{max-width:calc(100% - 58px)}}
+
+.privacy-main a,.policy-crosslink a{text-decoration:underline;text-underline-offset:3px}.policy-crosslink{max-width:860px;margin:0 auto 32px;padding-inline:56px}
