@@ -1,10 +1,11 @@
 import type { ImageMetadata } from 'astro';
 
 const images = import.meta.glob<{ default: ImageMetadata }>(
-  '../assets/portfolio/captures/*.jpg', { eager: true },
+  '../assets/portfolio/captures/*.{jpg,png}', { eager: true },
 );
 
 const pages: Record<string, [string, string][]> = {
+  thiziri: [['home', 'App landing page'], ['reader', 'Daily adhkar reader']],
  'serenas-sanctuary': [['home','Homepage'], ['about','Meet Serena'], ['disclaimer','Disclaimer']],
  'the-table-restaurant': [['home','Menu book cover'], ['welcome','Welcome spread'], ['menu','Restaurant menu']],
  'loom-and-kiln': [['home','Homepage'], ['collection','Artisan collection'], ['makers','Maker studios']],
@@ -23,10 +24,11 @@ const pages: Record<string, [string, string][]> = {
 export function getProjectCaptures(slug: string) {
   return (pages[slug] || []).map(([page, label]) => {
     const shot = (device: string) => {
-      const image = images[`../assets/portfolio/captures/${slug}--${page}--${device}.jpg`]?.default;
+      const stem = `../assets/portfolio/captures/${slug}--${page}--${device}`; const image = (images[`${stem}.jpg`] || images[`${stem}.png`])?.default;
       if (!image) throw new Error(`Missing ${device} screenshot for ${slug}/${page}`);
       return image;
     };
     return { page, label, laptop: shot('laptop'), phone: shot('phone') };
   });
 }
+

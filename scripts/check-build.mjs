@@ -26,7 +26,7 @@ for(const slug of ['her-circle','nisma','haya2','sift-and-saffron','les-mots-dun
 }
 assert.ok(home.includes('Hi, I’m ken.lou'));
 const projectOrder=[...home.matchAll(/aria-label="Visit ([^"]+) website"/g)].map(match=>match[1]);
-assert.deepEqual(projectOrder.slice(0,3),['Sift &amp; Saffron','Noura Beauty House','Crumb &amp; Cup']);
+assert.deepEqual(projectOrder.slice(0,3),['Thiziri','Sift &amp; Saffron','Noura Beauty House']);
 assert.ok(!home.includes('href="https://wa.me/"'));
 console.log(`Checked ${html.length} HTML pages: metadata, local links/assets, base paths, homepage copy, sitemap, and robots file.`);
 
@@ -51,3 +51,4 @@ assert.ok(!home.includes('350 AED') && !home.includes('1,000 AED'), 'Stale metad
 for (const slug of ['sift-and-saffron','noura-beauty-house','crumb-and-cup']) assert.ok(home.includes(`href="${base}/work/${slug}/"`));
 assert.match(await readFile(path.join(root,'404.html'),'utf8'),/name="robots" content="noindex, follow"/);
 console.log('SEO regression checks passed: journal removal, service discovery, demo noindex, metadata and error page.');
+
