@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
   "id": "sleep",
-  "title": "Sleep & dreams",
-  "arabicTitle": "أذكار النوم",
+  "title": "Adhkar for sleep & dreams",
+  "arabicTitle": "أذكار النوم والأحلام",
   "symbol": "☾",
   "entryCount": 15,
   "entries": [
@@ -365,5 +365,6 @@
       "frenchMeaning": "Je cherche refuge auprès d'Allah contre Satan et contre le mal de ce que j'ai vu."
     }
   ],
-  "frenchTitle": "Sommeil et rêves"
+  "frenchTitle": "Adhkar du sommeil et des rêves",
+  "section": "adhkar"
 }

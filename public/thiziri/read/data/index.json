@@ -1,10 +1,10 @@
 {
   "schemaVersion": 3,
   "library": "Thiziri",
-  "version": "1.6",
+  "version": "1.12",
   "language": "ar",
-  "collectionCount": 23,
-  "entryCount": 393,
+  "collectionCount": 37,
+  "entryCount": 401,
   "collections": [
     {
       "id": "morning",
@@ -12,7 +12,8 @@
       "arabicTitle": "أذكار الصباح",
       "entryCount": 31,
       "file": "morning.json",
-      "frenchTitle": "Adhkar du matin"
+      "frenchTitle": "Adhkar du matin",
+      "section": "adhkar"
     },
     {
       "id": "evening",
@@ -20,47 +21,53 @@
       "arabicTitle": "أذكار المساء",
       "entryCount": 30,
       "file": "evening.json",
-      "frenchTitle": "Adhkar du soir"
+      "frenchTitle": "Adhkar du soir",
+      "section": "adhkar"
     },
     {
       "id": "prayer",
-      "title": "After prayer",
+      "title": "Adhkar after prayer",
       "arabicTitle": "أذكار بعد الصلاة",
       "entryCount": 11,
       "file": "prayer.json",
-      "frenchTitle": "Après la prière"
+      "frenchTitle": "Adhkar après la prière",
+      "section": "adhkar"
     },
     {
       "id": "daily",
-      "title": "Tasbih & remembrance",
-      "arabicTitle": "تسابيح",
+      "title": "Tasbih & daily adhkar",
+      "arabicTitle": "التسبيح والأذكار اليومية",
       "entryCount": 17,
       "file": "daily.json",
-      "frenchTitle": "Tasbih et dhikr"
+      "frenchTitle": "Tasbih et adhkar quotidiens",
+      "section": "adhkar"
     },
     {
       "id": "sleep",
-      "title": "Sleep & dreams",
-      "arabicTitle": "أذكار النوم",
+      "title": "Adhkar for sleep & dreams",
+      "arabicTitle": "أذكار النوم والأحلام",
       "entryCount": 15,
       "file": "sleep.json",
-      "frenchTitle": "Sommeil et rêves"
+      "frenchTitle": "Adhkar du sommeil et des rêves",
+      "section": "adhkar"
     },
     {
       "id": "wake",
-      "title": "Upon waking",
+      "title": "Adhkar upon waking",
       "arabicTitle": "أذكار الاستيقاظ",
       "entryCount": 3,
       "file": "wake.json",
-      "frenchTitle": "Au réveil"
+      "frenchTitle": "Adhkar au réveil",
+      "section": "adhkar"
     },
     {
       "id": "salah",
-      "title": "During prayer",
+      "title": "Adhkar during prayer",
       "arabicTitle": "أذكار الصلاة",
       "entryCount": 11,
       "file": "salah.json",
-      "frenchTitle": "Pendant la prière"
+      "frenchTitle": "Adhkar pendant la prière",
+      "section": "adhkar"
     },
     {
       "id": "dua",
@@ -68,7 +75,8 @@
       "arabicTitle": "جوامع الدعاء",
       "entryCount": 34,
       "file": "dua.json",
-      "frenchTitle": "Invocations générales"
+      "frenchTitle": "Invocations générales",
+      "section": "duas"
     },
     {
       "id": "prophetic",
@@ -76,7 +84,8 @@
       "arabicTitle": "أدعية نبوية",
       "entryCount": 29,
       "file": "prophetic.json",
-      "frenchTitle": "Invocations prophétiques"
+      "frenchTitle": "Invocations prophétiques",
+      "section": "duas"
     },
     {
       "id": "quran-dua",
@@ -84,7 +93,8 @@
       "arabicTitle": "الأدعية القرآنية",
       "entryCount": 26,
       "file": "quran-dua.json",
-      "frenchTitle": "Invocations du Coran"
+      "frenchTitle": "Invocations du Coran",
+      "section": "duas"
     },
     {
       "id": "prophets",
@@ -92,79 +102,89 @@
       "arabicTitle": "أدعية الأنبياء",
       "entryCount": 13,
       "file": "prophets.json",
-      "frenchTitle": "Invocations des prophètes"
+      "frenchTitle": "Invocations des prophètes",
+      "section": "duas"
     },
     {
       "id": "occasions",
-      "title": "Everyday occasions",
-      "arabicTitle": "أذكار متفرقة",
-      "entryCount": 42,
+      "title": "Other adhkar & duas",
+      "arabicTitle": "أذكار وأدعية متفرقة",
+      "entryCount": 18,
       "file": "occasions.json",
-      "frenchTitle": "Au quotidien"
+      "frenchTitle": "Autres adhkar et invocations",
+      "section": "duas"
     },
     {
       "id": "adhan",
-      "title": "Hearing the adhan",
-      "arabicTitle": "أذكار الآذان",
+      "title": "Adhkar when hearing the adhan",
+      "arabicTitle": "أذكار سماع الأذان",
       "entryCount": 9,
       "file": "adhan.json",
-      "frenchTitle": "À l’écoute de l’adhan"
+      "frenchTitle": "Adhkar à l’écoute de l’adhan",
+      "section": "adhkar"
     },
     {
       "id": "mosque",
-      "title": "At the mosque",
+      "title": "Adhkar at the mosque",
       "arabicTitle": "أذكار المسجد",
       "entryCount": 3,
       "file": "mosque.json",
-      "frenchTitle": "À la mosquée"
+      "frenchTitle": "Adhkar à la mosquée",
+      "section": "adhkar"
     },
     {
       "id": "wudu",
-      "title": "Wudu",
+      "title": "Adhkar for wudu",
       "arabicTitle": "أذكار الوضوء",
       "entryCount": 2,
       "file": "wudu.json",
-      "frenchTitle": "Les ablutions"
+      "frenchTitle": "Adhkar des ablutions",
+      "section": "adhkar"
     },
     {
       "id": "home",
-      "title": "Entering & leaving home",
-      "arabicTitle": "أذكار المنزل",
+      "title": "Adhkar entering & leaving home",
+      "arabicTitle": "أذكار دخول المنزل والخروج منه",
       "entryCount": 2,
       "file": "home.json",
-      "frenchTitle": "Entrer et sortir de chez soi"
+      "frenchTitle": "Adhkar en entrant et sortant de chez soi",
+      "section": "adhkar"
     },
     {
       "id": "bathroom",
-      "title": "Entering & leaving the bathroom",
-      "arabicTitle": "أذكار الخلاء",
+      "title": "Adhkar for the bathroom",
+      "arabicTitle": "أذكار دخول الخلاء والخروج منه",
       "entryCount": 2,
       "file": "bathroom.json",
-      "frenchTitle": "Entrer et sortir des toilettes"
+      "frenchTitle": "Adhkar des toilettes",
+      "section": "adhkar"
     },
     {
       "id": "food",
-      "title": "Food, drink & guests",
-      "arabicTitle": "أذكار الطعام",
+      "title": "Adhkar for food & drink",
+      "arabicTitle": "أذكار الطعام والشراب",
       "entryCount": 5,
       "file": "food.json",
-      "frenchTitle": "Repas, boissons et invités"
+      "frenchTitle": "Adhkar des repas et boissons",
+      "section": "adhkar"
     },
     {
       "id": "hajj",
-      "title": "Hajj & Umrah",
+      "title": "Adhkar for Hajj & Umrah",
       "arabicTitle": "أذكار الحج والعمرة",
       "entryCount": 1,
       "file": "hajj.json",
-      "frenchTitle": "Hajj et Omra"
+      "frenchTitle": "Adhkar du Hajj et de la Omra",
+      "section": "adhkar"
     },
     {
       "id": "completion",
-      "title": "Completing the Quran",
-      "arabicTitle": "دعاء ختم القرآن الكريم",
+      "title": "Dua after completing the Quran",
+      "arabicTitle": "دعاء ختم القرآن",
       "entryCount": 1,
       "file": "completion.json",
-      "frenchTitle": "À la fin de la lecture du Coran"
+      "frenchTitle": "Invocation à la fin de la lecture du Coran",
+      "section": "duas"
     },
     {
       "id": "names",
@@ -172,7 +192,8 @@
       "arabicTitle": "أسماء الله الحسنى",
       "entryCount": 99,
       "file": "names.json",
-      "frenchTitle": "Les noms d’Allah"
+      "frenchTitle": "Les noms d’Allah",
+      "section": "adhkar"
     },
     {
       "id": "deceased",
@@ -180,7 +201,8 @@
       "arabicTitle": "أدعية للميّت",
       "entryCount": 4,
       "file": "deceased.json",
-      "frenchTitle": "Invocations pour les défunts"
+      "frenchTitle": "Invocations pour les défunts",
+      "section": "duas"
     },
     {
       "id": "ruqyah",
@@ -188,7 +210,134 @@
       "arabicTitle": "الرُّقية الشرعية",
       "entryCount": 3,
       "file": "ruqyah.json",
-      "frenchTitle": "Roqya"
+      "frenchTitle": "Roqya",
+      "section": "duas"
+    },
+    {
+      "id": "relief",
+      "title": "Duas for relief",
+      "arabicTitle": "دعاء الفرج",
+      "frenchTitle": "Invocations pour le soulagement",
+      "entryCount": 3,
+      "file": "relief.json",
+      "section": "duas"
+    },
+    {
+      "id": "ease",
+      "title": "Dua for ease",
+      "arabicTitle": "دعاء التيسير",
+      "frenchTitle": "Invocation pour faciliter une difficulté",
+      "entryCount": 1,
+      "file": "ease.json",
+      "section": "duas"
+    },
+    {
+      "id": "distress",
+      "title": "Dua for worry & distress",
+      "arabicTitle": "دعاء الضيق والهم",
+      "frenchTitle": "Invocation face aux soucis et à la détresse",
+      "entryCount": 1,
+      "file": "distress.json",
+      "section": "duas"
+    },
+    {
+      "id": "illness",
+      "title": "Duas for illness & healing",
+      "arabicTitle": "أدعية المرض والشفاء",
+      "frenchTitle": "Invocations pour la maladie et la guérison",
+      "entryCount": 5,
+      "file": "illness.json",
+      "section": "duas"
+    },
+    {
+      "id": "fire",
+      "title": "Duas for protection from the Fire",
+      "arabicTitle": "أدعية الاستعاذة من النار",
+      "frenchTitle": "Invocations pour se protéger du Feu",
+      "entryCount": 2,
+      "file": "fire.json",
+      "section": "duas"
+    },
+    {
+      "id": "winter",
+      "title": "Duas for winter, rain & wind",
+      "arabicTitle": "أدعية الشتاء والمطر والريح",
+      "frenchTitle": "Invocations pour l’hiver, la pluie et le vent",
+      "entryCount": 4,
+      "file": "winter.json",
+      "section": "duas"
+    },
+    {
+      "id": "travel",
+      "title": "Duas for travel",
+      "arabicTitle": "أدعية السفر",
+      "frenchTitle": "Invocations du voyage",
+      "entryCount": 5,
+      "file": "travel.json",
+      "section": "duas"
+    },
+    {
+      "id": "clothing",
+      "title": "Duas for clothing",
+      "arabicTitle": "أدعية لبس الثوب",
+      "frenchTitle": "Invocations pour les vêtements",
+      "entryCount": 2,
+      "file": "clothing.json",
+      "section": "duas"
+    },
+    {
+      "id": "istikhara",
+      "title": "Dua of istikhara",
+      "arabicTitle": "دعاء الاستخارة",
+      "frenchTitle": "Invocation de l’istikhara",
+      "entryCount": 1,
+      "file": "istikhara.json",
+      "section": "duas"
+    },
+    {
+      "id": "iftar",
+      "title": "Duas when breaking the fast",
+      "arabicTitle": "أدعية الإفطار",
+      "frenchTitle": "Invocations à la rupture du jeûne",
+      "entryCount": 2,
+      "file": "iftar.json",
+      "section": "duas"
+    },
+    {
+      "id": "marriage",
+      "title": "Duas for marriage",
+      "arabicTitle": "أدعية الزواج",
+      "frenchTitle": "Invocations du mariage",
+      "entryCount": 3,
+      "file": "marriage.json",
+      "section": "duas"
+    },
+    {
+      "id": "debt",
+      "title": "Dua for debt & provision",
+      "arabicTitle": "دعاء قضاء الدين والرزق",
+      "frenchTitle": "Invocation pour les dettes et la subsistance",
+      "entryCount": 1,
+      "file": "debt.json",
+      "section": "duas"
+    },
+    {
+      "id": "anger",
+      "title": "Dua when feeling angry",
+      "arabicTitle": "دعاء الغضب",
+      "frenchTitle": "Invocation en cas de colère",
+      "entryCount": 1,
+      "file": "anger.json",
+      "section": "duas"
+    },
+    {
+      "id": "sneezing",
+      "title": "Duas for sneezing & its reply",
+      "arabicTitle": "دعاء العطاس والرد عليه",
+      "frenchTitle": "Invocations de l’éternuement et sa réponse",
+      "entryCount": 1,
+      "file": "sneezing.json",
+      "section": "duas"
     }
   ],
   "languages": [

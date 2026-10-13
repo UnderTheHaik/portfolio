@@ -1,8 +1,8 @@
 {
   "schemaVersion": 3,
   "id": "food",
-  "title": "Food, drink & guests",
-  "arabicTitle": "أذكار الطعام",
+  "title": "Adhkar for food & drink",
+  "arabicTitle": "أذكار الطعام والشراب",
   "symbol": "◇",
   "entryCount": 5,
   "entries": [
@@ -129,5 +129,6 @@
       "frenchMeaning": "Au nom d'Allah. Toute louange appartient à Allah."
     }
   ],
-  "frenchTitle": "Repas, boissons et invités"
+  "frenchTitle": "Adhkar des repas et boissons",
+  "section": "adhkar"
 }

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 3,
+  "id": "illness",
+  "title": "Duas for illness & healing",
+  "arabicTitle": "أدعية المرض والشفاء",
+  "frenchTitle": "Invocations pour la maladie et la guérison",
+  "symbol": "◇",
+  "entries": [
+    {
+      "id": "thiziri-occasions-30",
+      "title": "ما يقال عند زيارة المريض",
+      "arabic": "لَا بَأْسَ، طَهُورٌ إِنْ شَاءَ اللَّهُ.",
+      "englishMeaning": "No harm; may it be a purification, if Allah wills.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 3616",
+      "order": 1,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "references": [
+          "Sahih al-Bukhari 3616"
+        ],
+        "note": "No fixed repetition count is specified in this report. The displayed target is a personal counter.",
+        "noteFr": "Aucun nombre fixe de répétitions dans ce récit. L’objectif affiché est un compteur personnel.",
+        "noteAr": "لم يُذكر عدد ثابت للتكرار في هذه الرواية. الهدف الظاهر عدّاد شخصي.",
+        "hadithArabic": null
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Pas de mal ; que ce soit une purification, si Allah le veut."
+    },
+    {
+      "id": "thiziri-illness-visit-seven",
+      "title": "الدعاء للمريض سبع مرات",
+      "arabic": "أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ.",
+      "englishMeaning": "I ask Allah, the Magnificent, Lord of the magnificent Throne, to heal you.",
+      "frenchMeaning": "Je demande à Allah, l’Immense, Seigneur du Trône immense, de te guérir.",
+      "repetitions": 7,
+      "readingOnly": false,
+      "countBasis": "source",
+      "reference": "Sunan Abi Dawud 3106",
+      "reviewedOn": "2026-10-13",
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "references": [
+          "Sunan Abi Dawud 3106"
+        ],
+        "note": "Reported when visiting a sick person whose appointed time has not come, seven times. Graded sahih by al-Albani in the cited edition; the app does not promise a particular medical outcome.",
+        "noteFr": "Rapporté lors de la visite d’un malade dont le terme n’est pas arrivé, sept fois. Classé sahih par al-Albani dans l’édition citée ; l’application ne promet pas de résultat médical particulier.",
+        "noteAr": "ورد عند عيادة مريض لم يحضر أجله سبع مرات. صححه الألباني في الطبعة المشار إليها؛ ولا يعد التطبيق بنتيجة طبية معينة.",
+        "hadithArabic": null
+      },
+      "order": 2
+    },
+    {
+      "id": "thiziri-illness-healing",
+      "title": "دعاء الشفاء",
+      "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ، اشْفِهِ وَأَنْتَ الشَّافِي، لَا شِفَاءَ إِلَّا شِفَاؤُكَ، شِفَاءً لَا يُغَادِرُ سَقَمًا.",
+      "englishMeaning": "O Allah, Lord of people, remove the suffering and heal him. You are the Healer. There is no healing except Your healing, a healing that leaves no illness.",
+      "frenchMeaning": "Ô Allah, Seigneur des hommes, enlève la souffrance et guéris-le. Tu es Celui qui guérit. Il n’y a de guérison que Ta guérison, une guérison qui ne laisse aucune maladie.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "countBasis": "personal",
+      "reference": "Sahih al-Bukhari 5743",
+      "reviewedOn": "2026-10-13",
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "references": [
+          "Sahih al-Bukhari 5743"
+        ],
+        "note": "No fixed repetition count is specified in this report. The displayed target is a personal counter.",
+        "noteFr": "Aucun nombre fixe de répétitions dans ce récit. L’objectif affiché est un compteur personnel.",
+        "noteAr": "لم يُذكر عدد ثابت للتكرار في هذه الرواية. الهدف الظاهر عدّاد شخصي.",
+        "hadithArabic": null
+      },
+      "order": 3
+    },
+    {
+      "id": "thiziri-occasions-41",
+      "title": "الدعاء إذا أحسست بوجع في جسدك ضع يدك على الذي تألم من جسدك وقل: بسم…",
+      "arabic": "بِسْمِ اللَّهِ.\n\nأَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ.",
+      "englishMeaning": "In the name of Allah.\n\nI seek refuge in Allah and His power from the evil of what I feel and fear.",
+      "repetitions": null,
+      "readingOnly": true,
+      "reference": "Sahih Muslim 2202",
+      "order": 4,
+      "review": {
+        "status": "mixed",
+        "scope": "matching_portions",
+        "note": "Place a hand on the painful area; say Bismillah three times, then the refuge formula seven times. Mark the whole sequence read when finished. Sahih Muslim 2202.",
+        "references": [
+          "Sahih Muslim 2202"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Placez une main sur la zone douloureuse ; dites Bismillah trois fois, puis la formule refuge sept fois. Marquez toute la séquence comme lue une fois terminée. Sahih Mouslim 2202.",
+        "noteAr": "وضع اليد على المنطقة المؤلمة؛ قل بسم الله ثلاث مرات، ثم التعوذ سبع مرات. قم بتمييز التسلسل بأكمله للقراءة عند الانتهاء. صحيح مسلم 2202."
+      },
+      "countBasis": "reading",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Au nom d'Allah.\n\nJe cherche refuge auprès d'Allah et de Sa puissance contre le mal de ce que je ressens et crains.",
+      "contextArabic": "ضع يدك على موضع الألم، وقل «بسم الله» ثلاث مرات، ثم التعوذ سبع مرات. علّم القراءة بعد إتمام التسلسل.",
+      "contextEnglish": "Place your hand on the painful area. Say Bismillah three times, then the refuge formula seven times. Mark this sequence read when finished.",
+      "contextFrench": "Placez la main sur la zone douloureuse. Dites Bismillah trois fois, puis la formule de protection sept fois. Validez une fois toute la séquence terminée."
+    },
+    {
+      "id": "thiziri-occasions-31",
+      "title": "دعاء المريض الذي يئس من حياته",
+      "arabic": "اللهم اغفر لي وارحمني والحقني بالرفيق الأعلى",
+      "englishMeaning": "O Allah, forgive me, have mercy on me, and join me with the Highest Companion.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 5674",
+      "order": 5,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This wording or practice is reported for the occasion.",
+        "references": [
+          "Sahih al-Bukhari 5674"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette formulation ou cette pratique est rapportée pour l'occasion.",
+        "noteAr": "تم تقديم هذه الصياغة أو الممارسة لهذه المناسبة."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, pardonne-moi, aie pitié de moi et rejoins-moi avec le Compagnon le plus élevé."
+    }
+  ],
+  "entryCount": 5,
+  "section": "duas"
+}

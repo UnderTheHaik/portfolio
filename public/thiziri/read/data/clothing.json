@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 3,
+  "id": "clothing",
+  "title": "Duas for clothing",
+  "arabicTitle": "أدعية لبس الثوب",
+  "frenchTitle": "Invocations pour les vêtements",
+  "symbol": "◇",
+  "entries": [
+    {
+      "id": "thiziri-occasions-1",
+      "title": "دعاء لبس الثوب",
+      "arabic": "الحمدُ للهِ الّذي كَساني هذا (الثّوب) وَرَزَقَنيه مِنْ غَـيـْرِ حَولٍ مِنّي وَلا قـوّة.",
+      "englishMeaning": "All praise belongs to Allah, who clothed me in this garment and provided it for me without power or strength from me.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sunan Abi Dawud 4023",
+      "order": 1,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This wording or practice is reported for the occasion.",
+        "references": [
+          "Sunan Abi Dawud 4023"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette formulation ou cette pratique est rapportée pour l'occasion.",
+        "noteAr": "تم تقديم هذه الصياغة أو الممارسة لهذه المناسبة."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Toute louange appartient à Allah, qui m'a revêtu de ce vêtement et me l'a fourni sans pouvoir ni force de ma part."
+    },
+    {
+      "id": "thiziri-occasions-2",
+      "title": "دعاء لبس الثوب الجديد",
+      "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ.",
+      "englishMeaning": "O Allah, praise belongs to You. You clothed me in this; I ask for its good and the good it was made for, and seek refuge from its evil and the evil it was made for.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sunan Abi Dawud 4020",
+      "order": 2,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This wording or practice is reported for the occasion.",
+        "references": [
+          "Sunan Abi Dawud 4020"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette formulation ou cette pratique est rapportée pour l'occasion.",
+        "noteAr": "تم تقديم هذه الصياغة أو الممارسة لهذه المناسبة."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, la louange t'appartient. Vous m'avez habillé de cela ; Je demande son bien et le bien pour lequel il a été créé, et je cherche refuge contre son mal et le mal pour lequel il a été créé."
+    }
+  ],
+  "entryCount": 2,
+  "section": "duas"
+}

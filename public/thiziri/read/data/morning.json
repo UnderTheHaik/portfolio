@@ -9,7 +9,7 @@
     {
       "id": "thiziri-morning-1",
       "title": "آية الكرسي",
-      "arabic": "أَعُوذُ بِاللهِ مِنْ الشَّيْطَانِ الرَّجِيمِ\n\nاللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ. .",
+      "arabic": "أَعُوذُ بِاللهِ مِنْ الشَّيْطَانِ الرَّجِيمِ\n\nاللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ.",
       "englishMeaning": "I seek refuge in Allah from Satan, the accursed. Allah: none is worthy of worship except Him, the Ever-Living, the Sustainer. Neither drowsiness nor sleep overtakes Him. Everything in the heavens and on earth belongs to Him. Who can intercede with Him without His permission? He knows what lies before them and behind them. They grasp nothing of His knowledge except what He wills. His Kursi encompasses the heavens and earth, and preserving them does not tire Him. He is the Most High, the Magnificent.",
       "repetitions": 1,
       "readingOnly": false,
@@ -27,7 +27,7 @@
         "noteAr": "آية الكرسي نص قرآني. وتقرير حماية النوم المتحقق في صحيح البخاري 2311."
       },
       "countBasis": "personal",
-      "reviewedOn": "2026-10-12",
+      "reviewedOn": "2026-10-13",
       "frenchMeaning": "Je cherche refuge auprès d’Allah contre Satan, le maudit. Allah ! Nulle divinité n’est digne d’adoration en dehors de Lui, le Vivant, Celui qui subsiste par Lui-même et veille sur toute chose. Ni somnolence ni sommeil ne Le saisissent. À Lui appartient tout ce qui est dans les cieux et sur la terre. Qui peut intercéder auprès de Lui sans Sa permission ? Il sait ce qui est devant eux et derrière eux. Ils ne connaissent de Sa science que ce qu’Il veut. Son Kursi s’étend aux cieux et à la terre, dont la garde ne Lui pèse pas. Il est le Très-Haut, le Très-Grand."
     },
     {
@@ -112,27 +112,35 @@
       "englishMeaning": "We have entered the morning, and all sovereignty belongs to Allah. All praise belongs to Allah. None is worthy of worship except Allah alone, with no partner. His is the sovereignty and His is the praise, and He has power over all things. My Lord, I ask You for the good of this day and what follows it, and seek refuge in You from its evil and what follows it. My Lord, I seek refuge in You from laziness and the hardships of old age, from punishment in the Fire and punishment in the grave.",
       "repetitions": 1,
       "readingOnly": false,
-      "reference": "Sahih Muslim 2723a",
+      "reference": "Sahih Muslim 2723b",
       "order": 5,
       "review": {
         "status": "narrated",
         "scope": "wording",
-        "note": "This supplication is reported for evening, with the corresponding wording used in the morning.",
+        "note": "Morning/evening wording follows Sahih Muslim 2723b; the morning uses the corresponding day wording. No fixed repetition total is specified.",
         "references": [
-          "Sahih Muslim 2723a"
+          "Sahih Muslim 2723b"
         ],
         "hadithArabic": null,
-        "noteFr": "Cette supplication est rapportée pour le soir, avec la formulation correspondante utilisée le matin.",
-        "noteAr": "ويقال هذا الدعاء في المساء باللفظ المطابق له في الصباح."
+        "noteFr": "La formulation suit Muslim 2723b ; le matin, les mots correspondants désignent la journée. Aucun nombre fixe de répétitions n’est indiqué.",
+        "noteAr": "الصيغة في صحيح مسلم 2723ب، وتُستعمل في الصباح الألفاظ المناسبة لليوم. لم يرد عدد ثابت للتكرار."
       },
       "countBasis": "personal",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Nous sommes entrés dans le matin, et toute souveraineté appartient à Allah. Toute louange appartient à Allah. Nulle divinité n’est digne d’adoration en dehors d’Allah, Seul et sans associé. À Lui la royauté et la louange, et Il est capable de toute chose. Mon Seigneur, je Te demande le bien de cette journée et ce qui la suit, et je cherche refuge auprès de Toi contre son mal et ce qui la suit. Mon Seigneur, je cherche refuge auprès de Toi contre la paresse et les épreuves de la vieillesse, contre le châtiment du Feu et le châtiment de la tombe."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Nous sommes entrés dans le matin, et toute souveraineté appartient à Allah. Toute louange appartient à Allah. Nulle divinité n’est digne d’adoration en dehors d’Allah, Seul et sans associé. À Lui la royauté et la louange, et Il est capable de toute chose. Mon Seigneur, je Te demande le bien de cette journée et ce qui la suit, et je cherche refuge auprès de Toi contre son mal et ce qui la suit. Mon Seigneur, je cherche refuge auprès de Toi contre la paresse et les épreuves de la vieillesse, contre le châtiment du Feu et le châtiment de la tombe.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "reference",
+          "review"
+        ],
+        "fullScholarlySignoff": false
+      }
     },
     {
       "id": "thiziri-morning-6",
       "title": "سيد الاستغفار",
-      "arabic": "اللّهـمَّ أَنْتَ رَبِّـي لا إلهَ إلاّ أَنْتَ ، خَلَقْتَنـي وَأَنا عَبْـدُك ، وَأَنا عَلـى عَهْـدِكَ وَوَعْـدِكَ ما اسْتَـطَعْـت ، أَعـوذُبِكَ مِنْ شَـرِّ ما صَنَـعْت ، أَبـوءُ لَـكَ بِنِعْـمَتِـكَ عَلَـيَّ وَأَبـوءُ بِذَنْـبي فَاغْفـِرْ لي فَإِنَّـهُ لا يَغْـفِرُ الذُّنـوبَ إِلاّ أَنْتَ .",
+      "arabic": "اللَّهُمَّ أَنْتَ رَبِّي، لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ لَكَ بِذَنْبِي، فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ.",
       "englishMeaning": "O Allah, You are my Lord; none is worthy of worship except You. You created me and I am Your servant. I keep Your covenant and promise as best I can. I seek refuge in You from the evil I have done. I acknowledge Your favor upon me and confess my sin. Forgive me, for none forgives sins except You.",
       "repetitions": 1,
       "readingOnly": false,
@@ -150,8 +158,15 @@
         "noteAr": "سيد الاستغفار: دعاء علمه النبي صلى الله عليه وسلم لصدق الاستغفار."
       },
       "countBasis": "personal",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Ô Allah, Tu es mon Seigneur. Nulle divinité n’est digne d’adoration en dehors de Toi. Tu m’as créé et je suis Ton serviteur. Je reste fidèle à Ton pacte et à Ta promesse autant que je le peux. Je cherche refuge auprès de Toi contre le mal que j’ai commis. Je reconnais Ton bienfait envers moi et je reconnais mon péché. Pardonne-moi, car nul ne pardonne les péchés en dehors de Toi."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Ô Allah, Tu es mon Seigneur. Nulle divinité n’est digne d’adoration en dehors de Toi. Tu m’as créé et je suis Ton serviteur. Je reste fidèle à Ton pacte et à Ta promesse autant que je le peux. Je cherche refuge auprès de Toi contre le mal que j’ai commis. Je reconnais Ton bienfait envers moi et je reconnais mon péché. Pardonne-moi, car nul ne pardonne les péchés en dehors de Toi.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "arabic"
+        ],
+        "fullScholarlySignoff": false
+      }
     },
     {
       "id": "thiziri-morning-7",
@@ -294,8 +309,8 @@
         "noteAr": "دعاء الصباح والمساء ورد عن النبي صلى الله عليه وسلم."
       },
       "countBasis": "personal",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Ô Allah, par Toi nous entrons dans le matin et le soir ; par Toi nous vivons et mourons ; et à Toi appartient la résurrection."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Ô Allah, par Toi nous entrons dans le matin et le soir ; par Toi nous fais-nous vivre et mourir ; et à Toi appartient la résurrection."
     },
     {
       "id": "thiziri-morning-13",
@@ -304,19 +319,21 @@
       "englishMeaning": "We enter the morning upon the natural disposition of Islam, the declaration of sincere faith, the religion of our Prophet Muhammad, peace and blessings be upon him, and the way of our forefather Ibrahim, who was upright and submitted to Allah, without associating partners with Him.",
       "repetitions": 1,
       "readingOnly": false,
-      "reference": null,
+      "reference": "Hisn al-Muslim 90",
       "order": 13,
       "review": {
-        "status": "general",
-        "scope": "whole_reading",
-        "note": "A declaration of faith. Its exact narration and reference have not been verified in this review; no fixed repetition count is asserted. The evening wording is an adaptation.",
-        "references": [],
+        "status": "reported",
+        "scope": "wording",
+        "note": "The wording is listed in Hisn al-Muslim 90 with references to Ahmad and an-Nasai’s daily-practice collection. No numbered primary-edition chain was independently assessed here; no fixed count is asserted.",
+        "references": [
+          "Hisn al-Muslim 90"
+        ],
         "hadithArabic": null,
-        "noteFr": "Une déclaration de foi. Sa narration exacte et sa référence n'ont pas été vérifiées dans cette revue ; aucun nombre de répétitions fixe n'est affirmé. La formulation du soir est une adaptation.",
-        "noteAr": "إعلان الإيمان. لم يتم التحقق من روايته ومرجعه الدقيقين في هذه المراجعة؛ لم يتم التأكيد على عدد التكرار الثابت. صيغة المساء هي التكيف."
+        "noteFr": "La formule figure dans Hisn al-Muslim 90, qui renvoie à Ahmad et au recueil des pratiques quotidiennes d’an-Nasai. La chaîne d’une édition primaire numérotée n’a pas été évaluée indépendamment ici ; aucun nombre fixe n’est affirmé.",
+        "noteAr": "الصيغة في حصن المسلم 90 بإحالات إلى أحمد وعمل اليوم والليلة للنسائي. لم تُدرس هنا سلسلة طبعة أصلية مرقمة دراسة مستقلة، ولا يقرر عدد ثابت."
       },
       "countBasis": "personal",
-      "reviewedOn": "2026-10-12",
+      "reviewedOn": "2026-10-13",
       "frenchMeaning": "Nous entrons dans la matinée par la disposition naturelle de l'Islam, la déclaration de foi sincère, la religion de notre Prophète Muhammad, que la paix et la bénédiction soient sur lui, et la voie de notre ancêtre Ibrahim, qui était droit et soumis à Allah, sans Lui associer de partenaires."
     },
     {
@@ -394,26 +411,35 @@
     {
       "id": "thiziri-morning-17",
       "title": "اللهم إني أسألك العفو والعافية في الدنيا والآخرة ، اللهم إني أسألك…",
-      "arabic": "اللّهُـمَّ إِنِّـي أسْـأَلُـكَ العَـفْوَ وَالعـافِـيةَ في الدُّنْـيا وَالآخِـرَة ، اللّهُـمَّ إِنِّـي أسْـأَلُـكَ العَـفْوَ وَالعـافِـيةَ في ديني وَدُنْـيايَ وَأهْـلي وَمالـي ، اللّهُـمَّ اسْتُـرْ عـوْراتي وَآمِـنْ رَوْعاتـي ، اللّهُـمَّ احْفَظْـني مِن بَـينِ يَدَيَّ وَمِن خَلْفـي وَعَن يَمـيني وَعَن شِمـالي ، وَمِن فَوْقـي ، وَأَعـوذُ بِعَظَمَـتِكَ أَن أُغْـتالَ مِن تَحْتـي.",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَايَ وَأَهْلِي وَمَالِي، اللَّهُمَّ اسْتُرْ عَوْرَاتِي وَآمِنْ رَوْعَاتِي، اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَيَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي، وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي.",
       "englishMeaning": "O Allah, I ask You for pardon and well-being in this world and the next. O Allah, I ask You for pardon and well-being in my religion, worldly life, family, and wealth. O Allah, conceal my faults and calm my fears. Protect me from before me, behind me, to my right, to my left, and above me. I seek refuge in Your greatness from being taken unaware from beneath me.",
       "repetitions": 1,
       "readingOnly": false,
-      "reference": "Sunan Abi Dawud 5074",
+      "reference": "Sunan Abi Dawud 5074 · Hisn al-Muslim 84",
       "order": 17,
       "review": {
         "status": "narrated",
         "scope": "wording",
         "note": "The Prophet ﷺ used this supplication for pardon and protection in the morning and evening.",
         "references": [
-          "Sunan Abi Dawud 5074"
+          "Sunan Abi Dawud 5074",
+          "Hisn al-Muslim 84"
         ],
         "hadithArabic": null,
         "noteFr": "Le Prophète ﷺ a utilisé cette supplication pour obtenir pardon et protection le matin et le soir.",
         "noteAr": "وكان النبي صلى الله عليه وسلم يدعو بهذا الدعاء بالعفو والحماية في الصباح والمساء."
       },
       "countBasis": "personal",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Ô Allah, accorde-moi la santé dans mon corps, dans mon ouïe et dans ma vue. Nulle divinité n’est digne d’adoration en dehors de Toi."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Ô Allah, je Te demande le pardon et la préservation dans ce monde et dans l’au-delà. Ô Allah, je Te demande le pardon et la préservation dans ma religion, ma vie ici-bas, ma famille et mes biens. Ô Allah, couvre mes défauts et apaise mes craintes. Ô Allah, protège-moi devant moi, derrière moi, à ma droite, à ma gauche et au-dessus de moi. Je cherche refuge dans Ta grandeur contre un mal qui me surprendrait par-dessous.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "arabic",
+          "frenchMeaning"
+        ],
+        "fullScholarlySignoff": false
+      }
     },
     {
       "id": "thiziri-morning-18",
@@ -563,7 +589,7 @@
     {
       "id": "thiziri-morning-24",
       "title": "اللهم إني أعوذ بك من الهم والحزن، وأعوذ بك من العجز والكسل، وأعوذ…",
-      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ الْهَمِّ وَالْحَزَنِ، وَأَعُوذُ بِكَ مِنْ الْعَجْزِ وَالْكَسَلِ، وَأَعُوذُ بِكَ مِنْ الْجُبْنِ وَالْبُخْلِ، وَأَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ، وَقَهْرِ الرِّجَالِ.",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَالْعَجْزِ وَالْكَسَلِ وَالْجُبْنِ وَالْبُخْلِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ.",
       "englishMeaning": "O Allah, I seek refuge in You from anxiety and sadness, incapacity and laziness, cowardice and stinginess, the burden of debt and being overpowered by people.",
       "repetitions": 1,
       "readingOnly": false,
@@ -581,8 +607,15 @@
         "noteAr": "وكان النبي صلى الله عليه وسلم يدعو بهذا الدعاء. لم يتم تحديد ممارسة ثابتة للصباح/المساء مكونة من ثلاثة أعداد."
       },
       "countBasis": "personal",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et la tristesse, l'incapacité et la paresse, la lâcheté et l'avarice, le fardeau des dettes et la domination des gens."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Ô Allah, je cherche refuge auprès de Toi contre l'anxiété et la tristesse, l'incapacité et la paresse, la lâcheté et l'avarice, le fardeau des dettes et la domination des gens.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "arabic"
+        ],
+        "fullScholarlySignoff": false
+      }
     },
     {
       "id": "thiziri-morning-25",
@@ -681,7 +714,7 @@
     {
       "id": "thiziri-morning-29",
       "title": "لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء…",
-      "arabic": "لَا إلَه إلّا اللهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءِ قَدِيرِ.",
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.",
       "englishMeaning": "None is worthy of worship except Allah alone, with no partner. His is the sovereignty and His is the praise, and He has power over all things.",
       "repetitions": 100,
       "readingOnly": false,
@@ -699,8 +732,15 @@
         "noteAr": "وقد حدد الحديث مائة في اليوم؛ ولا يتطلب تخصيص هذا العدد للصباح والمساء."
       },
       "countBasis": "narrated",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Nulle divinité n’est digne d’adoration en dehors d’Allah, Seul et sans associé. À Lui la royauté et la louange, et Il est capable de toute chose."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Nulle divinité n’est digne d’adoration en dehors d’Allah, Seul et sans associé. À Lui la royauté et la louange, et Il est capable de toute chose.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "arabic"
+        ],
+        "fullScholarlySignoff": false
+      }
     },
     {
       "id": "thiziri-morning-30",
@@ -751,5 +791,6 @@
       "frenchMeaning": "Je demande pardon à Allah et je me repens auprès de Lui."
     }
   ],
-  "frenchTitle": "Adhkar du matin"
+  "frenchTitle": "Adhkar du matin",
+  "section": "adhkar"
 }

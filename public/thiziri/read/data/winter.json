@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 3,
+  "id": "winter",
+  "title": "Duas for winter, rain & wind",
+  "arabicTitle": "أدعية الشتاء والمطر والريح",
+  "frenchTitle": "Invocations pour l’hiver, la pluie et le vent",
+  "symbol": "◇",
+  "entries": [
+    {
+      "id": "thiziri-occasions-9",
+      "title": "دعاء نزول االمطر",
+      "arabic": "صَيِّبًا نَافِعًا.",
+      "englishMeaning": "May it be a beneficial downpour.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih al-Bukhari 1032",
+      "order": 1,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This wording or practice is reported for the occasion.",
+        "references": [
+          "Sahih al-Bukhari 1032"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette formulation ou cette pratique est rapportée pour l'occasion.",
+        "noteAr": "تم تقديم هذه الصياغة أو الممارسة لهذه المناسبة."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Que ce soit une pluie bénéfique.",
+      "contextArabic": "أدعية مرتبطة بالمطر أو الريح، وليست دعاءً مخصوصًا ببداية الشتاء. لا عدد ثابت للتكرار.",
+      "contextEnglish": "For rain or wind, rather than a prescribed prayer for the start of winter. No fixed repetition count.",
+      "contextFrench": "Pour la pluie ou le vent, sans invocation prescrite pour le début de l’hiver. Aucun nombre fixe."
+    },
+    {
+      "id": "thiziri-occasions-6",
+      "title": "دعاء الريح",
+      "arabic": "اللهم إنى أسألك خيرها، وخير ما فيها، وخير ما أرسلت به، وأعوذ بك من شرها، وشر ما فيها وشر ما أرسلت به.",
+      "englishMeaning": "O Allah, I ask You for the good of this wind, the good within it, and the good for which it was sent. I seek refuge from its evil, the evil within it, and the evil for which it was sent.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "reference": "Sahih Muslim 899b",
+      "order": 2,
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "note": "This wording or practice is reported for the occasion.",
+        "references": [
+          "Sahih Muslim 899b"
+        ],
+        "hadithArabic": null,
+        "noteFr": "Cette formulation ou cette pratique est rapportée pour l'occasion.",
+        "noteAr": "تم تقديم هذه الصياغة أو الممارسة لهذه المناسبة."
+      },
+      "countBasis": "personal",
+      "reviewedOn": "2026-10-12",
+      "frenchMeaning": "Ô Allah, je Te demande le bien de ce vent, le bien qu'il contient et le bien pour lequel il a été envoyé. Je cherche refuge contre son mal, le mal qui est en lui et le mal pour lequel il a été envoyé.",
+      "contextArabic": "أدعية مرتبطة بالمطر أو الريح، وليست دعاءً مخصوصًا ببداية الشتاء. لا عدد ثابت للتكرار.",
+      "contextEnglish": "For rain or wind, rather than a prescribed prayer for the start of winter. No fixed repetition count.",
+      "contextFrench": "Pour la pluie ou le vent, sans invocation prescrite pour le début de l’hiver. Aucun nombre fixe."
+    },
+    {
+      "id": "thiziri-winter-after-rain",
+      "title": "بعد نزول المطر",
+      "arabic": "مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ.",
+      "englishMeaning": "We have received rain by Allah’s favour and mercy.",
+      "frenchMeaning": "La pluie nous est venue par la grâce et la miséricorde d’Allah.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "countBasis": "personal",
+      "reference": "Sahih al-Bukhari 846",
+      "reviewedOn": "2026-10-13",
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "references": [
+          "Sahih al-Bukhari 846"
+        ],
+        "note": "No fixed repetition count is specified in this report. The displayed target is a personal counter.",
+        "noteFr": "Aucun nombre fixe de répétitions dans ce récit. L’objectif affiché est un compteur personnel.",
+        "noteAr": "لم يُذكر عدد ثابت للتكرار في هذه الرواية. الهدف الظاهر عدّاد شخصي.",
+        "hadithArabic": null
+      },
+      "contextArabic": "أدعية مرتبطة بالمطر أو الريح، وليست دعاءً مخصوصًا ببداية الشتاء. لا عدد ثابت للتكرار.",
+      "contextEnglish": "For rain or wind, rather than a prescribed prayer for the start of winter. No fixed repetition count.",
+      "contextFrench": "Pour la pluie ou le vent, sans invocation prescrite pour le début de l’hiver. Aucun nombre fixe.",
+      "order": 3
+    },
+    {
+      "id": "thiziri-winter-heavy-rain",
+      "title": "عند كثرة المطر والضرر",
+      "arabic": "اللَّهُمَّ حَوَالَيْنَا وَلَا عَلَيْنَا.",
+      "englishMeaning": "O Allah, let it fall around us, not upon us.",
+      "frenchMeaning": "Ô Allah, qu’elle tombe autour de nous et non sur nous.",
+      "repetitions": 1,
+      "readingOnly": false,
+      "countBasis": "personal",
+      "reference": "Sahih al-Bukhari 1033",
+      "reviewedOn": "2026-10-13",
+      "review": {
+        "status": "narrated",
+        "scope": "wording",
+        "references": [
+          "Sahih al-Bukhari 1033"
+        ],
+        "note": "No fixed repetition count is specified in this report. The displayed target is a personal counter.",
+        "noteFr": "Aucun nombre fixe de répétitions dans ce récit. L’objectif affiché est un compteur personnel.",
+        "noteAr": "لم يُذكر عدد ثابت للتكرار في هذه الرواية. الهدف الظاهر عدّاد شخصي.",
+        "hadithArabic": null
+      },
+      "contextArabic": "أدعية مرتبطة بالمطر أو الريح، وليست دعاءً مخصوصًا ببداية الشتاء. لا عدد ثابت للتكرار.",
+      "contextEnglish": "For rain or wind, rather than a prescribed prayer for the start of winter. No fixed repetition count.",
+      "contextFrench": "Pour la pluie ou le vent, sans invocation prescrite pour le début de l’hiver. Aucun nombre fixe.",
+      "order": 4
+    }
+  ],
+  "entryCount": 4,
+  "section": "duas"
+}

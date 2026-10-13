@@ -1,15 +1,15 @@
 {
   "schemaVersion": 3,
   "id": "adhan",
-  "title": "Hearing the adhan",
-  "arabicTitle": "أذكار الآذان",
+  "title": "Adhkar when hearing the adhan",
+  "arabicTitle": "أذكار سماع الأذان",
   "symbol": "◇",
   "entryCount": 9,
   "entries": [
     {
       "id": "thiziri-adhan-1",
       "title": "ما يقال عند سماع الأذان يقول مثل ما يقول المؤذن إلا في \"حي على…",
-      "arabic": "ما يقال عند سماع الأذان\n\nيَقُولُ مِثْلَ مَا يَقُولُ الـمُؤَذِّنُ إلاَّ فِي حَيَّ عَلَى الصَّلاةِ وَحَيَّ عَلَى الفَلاَحِ فَيَقُولُ: لاَ حَوْلَ وَلا قُوَّةَ إلاَّ باللَّهِ.",
+      "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ.",
       "englishMeaning": "There is no power or strength except through Allah.",
       "repetitions": null,
       "readingOnly": true,
@@ -27,8 +27,21 @@
         "noteAr": "الرد على كلام المتصل؛ وعند الأذان والنجاح قل: لا حول ولا قوة إلا بالله."
       },
       "countBasis": "reading",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Il n’y a de puissance ni de force que par Allah."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Il n’y a de puissance ni de force que par Allah.",
+      "contextEn": "Repeat the caller’s words; at “Come to prayer” and “Come to success”, say the following.",
+      "contextFr": "Répète les paroles du muezzin ; à « Venez à la prière » et « Venez au succès », prononce la formule suivante.",
+      "contextAr": "ردّد ألفاظ المؤذن، وعند «حي على الصلاة» و«حي على الفلاح» قل الصيغة الآتية.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "arabic",
+          "contextEn",
+          "contextFr",
+          "contextAr"
+        ],
+        "fullScholarlySignoff": false
+      }
     },
     {
       "id": "thiziri-adhan-2",
@@ -106,7 +119,7 @@
     {
       "id": "thiziri-adhan-5",
       "title": "ما يقال بعد سماع الأذان اللهم صل وسلم وبارك على سيدنا محمد. اللهم…",
-      "arabic": "ما يقال بعد سماع الأذان\n\nاللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ.\n\nاللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، والصَّلاةِ القَائِمَةِ، آتِ مُـحَمَّداً الوَسِيْلَةَ والفَضِيْلَةَ، وابْعَثْهُ مَقَاماً مَـحْمُوداً الَّذِي وَعَدْتَهُ، إنَّكَ لا تُخْلِفُ الـمِيْعَادِ.",
+      "arabic": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ.\n\nاللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، والصَّلاةِ القَائِمَةِ، آتِ مُـحَمَّداً الوَسِيْلَةَ والفَضِيْلَةَ، وابْعَثْهُ مَقَاماً مَـحْمُوداً الَّذِي وَعَدْتَهُ، إنَّكَ لا تُخْلِفُ الـمِيْعَادِ.",
       "englishMeaning": "O Allah, send blessings, peace, and blessing upon our master Muhammad.\n\nO Allah, Lord of this complete call and the prayer about to be established, grant Muhammad the highest station and excellence, and raise him to the praised station You promised.",
       "repetitions": null,
       "readingOnly": true,
@@ -125,8 +138,15 @@
         "noteAr": "يتم تدريس التسبيح وهذا الدعاء المحطة في تقارير منفصلة بعد الأذان."
       },
       "countBasis": "reading",
-      "reviewedOn": "2026-10-12",
-      "frenchMeaning": "Ô Allah, envoie bénédictions, paix et bénédiction sur notre maître Muhammad.\n\nÔ Allah, Seigneur de cet appel complet et de la prière sur le point d'être établie, accorde à Muhammad le rang et l'excellence les plus élevés et élève-le au rang loué que Tu as promis."
+      "reviewedOn": "2026-10-13",
+      "frenchMeaning": "Ô Allah, envoie bénédictions, paix et bénédiction sur notre maître Muhammad.\n\nÔ Allah, Seigneur de cet appel complet et de la prière sur le point d'être établie, accorde à Muhammad le rang et l'excellence les plus élevés et élève-le au rang loué que Tu as promis.",
+      "contentAudit": {
+        "date": "2026-10-13",
+        "correctedFields": [
+          "arabic"
+        ],
+        "fullScholarlySignoff": false
+      }
     },
     {
       "id": "thiziri-adhan-6",
@@ -217,5 +237,6 @@
       "frenchMeaning": "Allah est le plus grand, deux fois. J'atteste que nul n'est digne d'adoration sauf Allah. Je témoigne que Muhammad est le messager d’Allah. Venez à la prière. Venez au succès. La prière a été établie, deux fois. Allah est le plus grand, deux fois. Nul n’est digne d’adoration sauf Allah."
     }
   ],
-  "frenchTitle": "À l’écoute de l’adhan"
+  "frenchTitle": "Adhkar à l’écoute de l’adhan",
+  "section": "adhkar"
 }
