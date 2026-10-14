@@ -57,3 +57,22 @@
 .category-portrait:before{opacity:.3}
 .category .category-portrait img{filter:saturate(.73) brightness(1.09);opacity:.94}
 .category>span:last-child{background:#eed8d2;outline-color:#eadbd5;box-shadow:0 1px 4px #713d4909;color:#70554c}
+/* Local comparison: rectangular category portraits. */
+.category .category-portrait img{mask:none;-webkit-mask:none;border-radius:0}
+.category-portrait,.category .category-portrait img{aspect-ratio:4/5}.category-portrait:after{background-size:100% 100%}
+.category-portrait:after{opacity:.65}.category-portrait:before{opacity:.55}
+/* Local preview: feather product portrait edges into botanical frame. */
+.category .category-portrait img{mask-image:linear-gradient(to right,transparent,#000 10%,#000 90%,transparent),linear-gradient(to bottom,transparent,#000 9%,#000 91%,transparent);mask-composite:intersect;-webkit-mask-image:linear-gradient(to right,transparent,#000 10%,#000 90%,transparent),linear-gradient(to bottom,transparent,#000 9%,#000 91%,transparent);-webkit-mask-composite:source-in}
+/* Local comparison: round portraits with softly feathered edges. */
+.category-portrait,.category .category-portrait img{aspect-ratio:1}
+.category .category-portrait img{border-radius:50%;mask-image:radial-gradient(ellipse at center,#000 55%,rgba(0,0,0,.9) 62%,transparent 73%);-webkit-mask-image:radial-gradient(ellipse at center,#000 55%,rgba(0,0,0,.9) 62%,transparent 73%);mask-composite:add;-webkit-mask-composite:source-over}
+.category-portrait:after{background-size:contain}
+/* Local preview: circular botanical halo, without square outer corners. */
+.category-portrait:before{border-radius:50%;inset:2%;background:radial-gradient(circle,transparent 48%,#f1d4cb66 62%,transparent 73%)}
+.category-portrait:after{inset:-3%;border-radius:50%;mask-image:radial-gradient(circle at center,#000 52%,rgba(0,0,0,.85) 61%,transparent 71%);-webkit-mask-image:radial-gradient(circle at center,#000 52%,rgba(0,0,0,.85) 61%,transparent 71%);opacity:.65}
+/* Local preview: more visible circular botanical detail. */
+.category-portrait:after{opacity:1;inset:-5%;filter:saturate(1.15) contrast(1.08);mask-image:radial-gradient(circle at center,#000 57%,rgba(0,0,0,.95) 65%,transparent 73%);-webkit-mask-image:radial-gradient(circle at center,#000 57%,rgba(0,0,0,.95) 65%,transparent 73%)}
+.category-portrait:before{opacity:.7}
+/* Local preview: centre portraits precisely inside the floral halos. */
+.category .category-portrait img{position:absolute;inset:50% auto auto 50%;margin:0;width:88%;height:88%;transform:translate(-50%,-50%);object-position:center}
+.category:hover .category-portrait img{transform:translate(-50%,-50%)}
