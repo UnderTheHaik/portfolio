@@ -24,7 +24,7 @@
   });};
   const script=document.createElement('script');
   script.src=language==='fr'?'app.js':'app.'+language+'.js';
-  script.src+='?v=bedding-photos-1';
+  script.src+='?v=categories-botanical-1';
   script.onload=()=>{
     const switcher=document.createElement('div');
     switcher.className='language-switcher';
@@ -42,4 +42,5 @@
   };
   document.head.append(script);
 })();
+
 
