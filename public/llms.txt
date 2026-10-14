@@ -1,0 +1,41 @@
+# Under the Haik
+
+> Independent web design and starter visual identity for small businesses in Dubai and across the United Arab Emirates, by ken.lou.
+
+The website presents services, package scope, pricing and portfolio case studies. Portfolio concepts, family projects and client work are labelled individually; concept demos do not establish real businesses, sales or client results. Consult the current service pages for package prices, launch offers, exclusions and availability.
+
+Thiziri is a separate daily-adhkar reading project by Under the Haik. It is not a web-design service. Its dedicated guide is linked below. Personal essays and the former journal have been removed from this website.
+
+## Business and contact
+
+- [Homepage](https://underthehaik.com/): Services, current package pricing, selected projects and process.
+- [About](https://underthehaik.com/about/): The independent designer and developer behind Under the Haik.
+- [Contact](https://underthehaik.com/contact/): Current enquiry options; use only the contact details published here.
+- [Privacy](https://underthehaik.com/privacy/): Website privacy information.
+
+## Services
+
+- [Business website design in Dubai](https://underthehaik.com/services/web-design-dubai/): Static business websites, responsive layouts and agreed scope.
+- [One-page website design](https://underthehaik.com/services/one-page-website-dubai/): A focused website for a straightforward business offer.
+- [Starter visual identity](https://underthehaik.com/services/visual-identity-dubai/): Logo, colour palette, typography and brand-guide scope.
+- [Website and branding package](https://underthehaik.com/services/website-branding-package-dubai/): Complete launch package and exclusions.
+- [Website care](https://underthehaik.com/services/website-care-uae/): Optional maintenance and content-update arrangements.
+- [Website cost guide](https://underthehaik.com/guides/website-cost-dubai/): Package comparisons, domain setup and recurring costs.
+
+## Selected work
+
+- [Sift & Saffron](https://underthehaik.com/work/sift-and-saffron/): Bakery website concept.
+- [Noura Beauty House](https://underthehaik.com/work/noura-beauty-house/): Salon website concept.
+- [BrightPath Academy](https://underthehaik.com/work/brightpath-academy/): Tutoring website concept.
+- [Serena's Sanctuary](https://underthehaik.com/work/serenas-sanctuary/): Health-coaching client website project.
+- [Thiziri case study](https://underthehaik.com/work/thiziri/): Personal app and multilingual reading website project.
+
+## Thiziri
+
+- [Thiziri](https://underthehaik.com/thiziri/): Free, ad-free daily adhkar with Arabic readings and English/French meanings.
+- [Thiziri guide for agents](https://underthehaik.com/thiziri/llms.txt): Collection pages, language versions, source notes and privacy links.
+
+## Optional
+
+- [Sitemap index](https://underthehaik.com/sitemap-index.xml): Sitemap discovery for the website.
+- [robots.txt](https://underthehaik.com/robots.txt): Published crawler access rules.
