@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev --host 127.0.0.1",
-    "build": "node scripts/build-thiziri-seo.mjs && astro build",
+    "build": "node scripts/build-dreamy-languages.mjs && node scripts/build-thiziri-seo.mjs && astro build",
     "preview": "astro preview --host 127.0.0.1",
     "check": "astro check",
     "test": "node scripts/check-build.mjs",
