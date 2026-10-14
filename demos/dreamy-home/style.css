@@ -22,3 +22,4 @@
 .brand-logo img{opacity:0;display:block}
 .category img{border-radius:0;aspect-ratio:1;height:auto;width:100%;object-fit:cover;mask:url('assets/category-flower.svg') center/100% 100% no-repeat;-webkit-mask:url('assets/category-flower.svg') center/100% 100% no-repeat}
 @media(max-width:600px){.brand-logo{width:77px;height:77px}}
+.product-card img.shop-photo{object-fit:contain;background:#eee5db}
