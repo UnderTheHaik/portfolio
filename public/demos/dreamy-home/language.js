@@ -24,6 +24,7 @@
   });};
   const script=document.createElement('script');
   script.src=language==='fr'?'app.js':'app.'+language+'.js';
+  script.src+='?v=floral-1';
   script.onload=()=>{
     const switcher=document.createElement('div');
     switcher.className='language-switcher';
@@ -41,3 +42,4 @@
   };
   document.head.append(script);
 })();
+
