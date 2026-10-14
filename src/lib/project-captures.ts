@@ -5,6 +5,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 );
 
 const pages: Record<string, [string, string][]> = {
+ 'dreamy-home': [['home','Homepage'], ['collection','The collection'], ['about','About Dreamy Home']],
   thiziri: [['home', 'App landing page'], ['reader', 'Daily adhkar reader']],
  'serenas-sanctuary': [['home','Homepage'], ['about','Meet Serena'], ['disclaimer','Disclaimer']],
  'the-table-restaurant': [['home','Menu book cover'], ['welcome','Welcome spread'], ['menu','Restaurant menu']],
