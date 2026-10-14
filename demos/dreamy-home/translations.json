@@ -566,5 +566,13 @@
   "Un modèle vous plaît ? Contactez-nous sur Instagram pour confirmer les options, la disponibilité et la livraison.": {
     "en": "Love this design? Contact us on Instagram to confirm options, availability and delivery.",
     "ar": "أعجبك هذا التصميم؟ تواصلوا معنا عبر إنستغرام لتأكيد الخيارات والتوفر والتوصيل."
+  },
+  "Photo précédente": {
+    "en": "Previous photo",
+    "ar": "الصورة السابقة"
+  },
+  "Photo suivante": {
+    "en": "Next photo",
+    "ar": "الصورة التالية"
   }
 }
