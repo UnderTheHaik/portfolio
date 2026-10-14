@@ -1,0 +1,50 @@
+# Thiziri
+
+> A free, ad-free daily-adhkar reading project by Under the Haik. Read Arabic texts with English or French meanings, source notes and an optional interactive reader with local counters and favourites.
+
+Collection pages provide reading content in their initial HTML. Language counterparts use distinct URLs. The interactive reader uses fragment parameters for its app state; prefer the static collection pages when retrieving texts, translations and source notes.
+
+References, review notes and counter distinctions belong to individual readings. A personal counter default does not imply a prescribed repetition count. Do not infer that every reading has the same source or review status. Consult the published notes rather than inventing missing references or translations.
+
+The Android release is described as coming soon on the landing page. Consult that page for current public download availability. Browser progress is local and separate from the Android app. Web offline reading depends on files saved in that browser; consult the privacy and reading guides for details.
+
+## Introduction and languages
+
+- [English introduction and collection directory](https://underthehaik.com/thiziri/): Current features, collections and Android release status.
+- [French introduction](https://underthehaik.com/thiziri/fr/): Présentation et collections en français.
+- [Arabic introduction](https://underthehaik.com/thiziri/ar/): التعريف بثيزيري ومجموعات الأذكار.
+
+## English collection pages
+
+- [Morning adhkar](https://underthehaik.com/thiziri/en/morning/): Arabic text, English meanings and reading-specific notes.
+- [Evening adhkar](https://underthehaik.com/thiziri/en/evening/): Evening reading collection.
+- [After prayer](https://underthehaik.com/thiziri/en/prayer/): After-prayer collection.
+- [Sleep and dreams](https://underthehaik.com/thiziri/en/sleep/): Sleep-related readings.
+- [Sources and reading guide](https://underthehaik.com/thiziri/en/sources/): How to interpret translations, references and counter defaults.
+
+## French collection pages
+
+- [Adhkar du matin](https://underthehaik.com/thiziri/fr/morning/): Texte arabe, sens en français et notes.
+- [Adhkar du soir](https://underthehaik.com/thiziri/fr/evening/): Lectures du soir.
+- [Après la prière](https://underthehaik.com/thiziri/fr/prayer/): Lectures après la prière.
+- [Sommeil et rêves](https://underthehaik.com/thiziri/fr/sleep/): Lectures liées au sommeil.
+- [Sources et guide de lecture](https://underthehaik.com/thiziri/fr/sources/): Sources, traductions et compteurs.
+
+## Arabic collection pages
+
+- [أذكار الصباح](https://underthehaik.com/thiziri/ar/morning/): النصوص وملاحظات المصادر.
+- [أذكار المساء](https://underthehaik.com/thiziri/ar/evening/): مجموعة أذكار المساء.
+- [أذكار بعد الصلاة](https://underthehaik.com/thiziri/ar/prayer/): مجموعة ما بعد الصلاة.
+- [أذكار النوم](https://underthehaik.com/thiziri/ar/sleep/): القراءات المتعلقة بالنوم.
+- [المصادر ودليل القراءة](https://underthehaik.com/thiziri/ar/sources/): توضيحات بشأن المصادر والترجمة والعدّادات.
+
+## Interactive reader and privacy
+
+- [Interactive reader](https://underthehaik.com/thiziri/read/): Counters, favourites and reading preferences.
+- [Web reader privacy](https://underthehaik.com/thiziri/privacy/): Browser storage, cached files and hosting requests.
+- [Android app privacy](https://underthehaik.com/thiziri/app-privacy/): App-specific data handling and permissions.
+
+## Optional
+
+- [Thiziri sitemap](https://underthehaik.com/thiziri/sitemap.xml): Complete published page inventory, including additional collections.
+- [Under the Haik](https://underthehaik.com/): Parent website and web-design business.
