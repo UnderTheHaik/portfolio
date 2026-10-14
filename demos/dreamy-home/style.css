@@ -25,3 +25,19 @@
 .product-card img.shop-photo{object-fit:contain;background:#eee5db}
 
 .gallery-navigation{display:flex;justify-content:center;align-items:center;gap:20px;margin:15px 0;direction:ltr}.gallery-navigation button{width:44px;height:44px;background:transparent;border:1px solid var(--line);color:var(--deep);font-size:22px;cursor:pointer}.gallery-navigation button:hover,.gallery-navigation button:focus-visible{background:var(--blush)}.gallery-position{font-size:12px;min-width:45px;text-align:center}.detail-image{touch-action:pan-y pinch-zoom}
+/* Local preview: softly blended hero photography. */
+.hero{isolation:isolate;background:var(--blush) url('assets/catalog-56.webp') center 45%/cover no-repeat}
+.hero>.hero-photo{position:absolute;top:0;bottom:0;width:45%;height:100%;z-index:0;filter:saturate(.78);opacity:.87}
+.hero>.hero-photo:first-child{left:0;mask-image:linear-gradient(to right,#000 45%,transparent 100%);-webkit-mask-image:linear-gradient(to right,#000 45%,transparent 100%)}
+.hero>.hero-photo:last-child{right:0;mask-image:linear-gradient(to left,#000 45%,transparent 100%);-webkit-mask-image:linear-gradient(to left,#000 45%,transparent 100%)}
+.hero:after{content:'';position:absolute;inset:0;background:rgba(255,247,240,.2);z-index:1;pointer-events:none}
+.hero-center{grid-column:2;background:none;z-index:2}
+.hero-center:before{display:none}
+@media(max-width:600px){.hero>.hero-photo{position:absolute;height:100%;width:68%}.hero-center{grid-column:auto;background:none}}
+/* Local-only watercolor reference treatment. */
+.hero{display:flex;align-items:center;justify-content:center;width:100%;max-width:1700px;height:clamp(390px,34vw,570px);margin-top:0;background:var(--paper) url('assets/hero-watercolor-preview.png') center/100% 100% no-repeat}
+.hero>.hero-photo,.hero:after{display:none}
+.hero-center{display:grid;place-items:center;position:relative;grid-column:auto;width:100%;height:100%;padding:0;margin:0;left:auto;right:auto;top:auto;background:none}
+.hero-copy{width:auto;max-width:680px;border:0;outline:0;background:none;padding:15px 22px;transform:translateY(12px)}
+.hero h1 em{color:#5b342e}.hero h1 span{color:#39312f}
+@media(max-width:600px){.hero{height:410px;min-height:410px;background-size:auto 100%}.hero-center{position:relative;height:100%;width:100%;inset:auto}.hero-copy{width:100%;padding:20px 12px;background:radial-gradient(ellipse,rgba(255,253,249,.93),rgba(255,253,249,.55) 60%,transparent 73%)}.hero h1 em{font-size:34px}.hero h1 span{font-size:26px;letter-spacing:3px}}
