@@ -41,3 +41,19 @@
 .hero-copy{width:auto;max-width:680px;border:0;outline:0;background:none;padding:15px 22px;transform:translateY(12px)}
 .hero h1 em{color:#5b342e}.hero h1 span{color:#39312f}
 @media(max-width:600px){.hero{height:410px;min-height:410px;background-size:auto 100%}.hero-center{position:relative;height:100%;width:100%;inset:auto}.hero-copy{width:100%;padding:20px 12px;background:radial-gradient(ellipse,rgba(255,253,249,.93),rgba(255,253,249,.55) 60%,transparent 73%)}.hero h1 em{font-size:34px}.hero h1 span{font-size:26px;letter-spacing:3px}}
+/* Watercolor botanical collection medallions. */
+.categories{gap:26px;padding-top:6px}
+.category-portrait{display:block;position:relative;aspect-ratio:1;margin:0 -9px 7px}
+.category-portrait:before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 30% 30%,#f6d8d17a,transparent 66%),radial-gradient(ellipse at 75% 75%,#f7d4cc7a,transparent 65%);border-radius:39% 51% 43% 49%;pointer-events:none}
+.category .category-portrait img{position:relative;width:88%;margin:6%;aspect-ratio:1;height:auto;filter:saturate(.86)}
+.category-portrait:after{content:'';position:absolute;inset:-5%;background:url('assets/category-watercolor-frame.png') center/contain no-repeat;pointer-events:none}
+.category span.category-portrait{padding:0;background:none;font:inherit}
+.category>span:last-child{margin:0 -5px;padding:11px 4px;border-radius:22px;background:#ecd1ca;border:3px solid var(--paper);outline:1px solid #e6d1ca;box-shadow:0 2px 5px #713d4912;color:#59433b;font-size:23px}
+@media(max-width:600px){.categories{gap:28px 22px}.category>span:last-child{font-size:21px;padding:10px 3px}.category-portrait{margin-bottom:5px}}
+.category span.category-portrait{margin:0 -9px 7px}
+.category-portrait:after{opacity:.8}
+/* Airier, pale watercolor accents matching the reference. */
+.category-portrait:after{opacity:.32}
+.category-portrait:before{opacity:.3}
+.category .category-portrait img{filter:saturate(.73) brightness(1.09);opacity:.94}
+.category>span:last-child{background:#eed8d2;outline-color:#eadbd5;box-shadow:0 1px 4px #713d4909;color:#70554c}
