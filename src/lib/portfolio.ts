@@ -64,7 +64,7 @@ export const projects = [
       ['Context', 'A portfolio boutique concept showcasing abayas through sample products, AED prices and UAE delivery settings. It is not presented as a paying client or a live retail operation.'],
       ['Problem', 'Fashion imagery needs room to breathe, while customers still need practical information about size, stock and delivery.'],
       ['Approach', 'Separate everyday, occasion, signature and light-tone collections. Connect editorial imagery to the catalogue, then use product pages and a size guide to support selection.'],
-      ['Design', 'Warm ivory, muted olive and dark text create a restrained fashion identity. Large serif headings contrast with practical navigation and product labels; tall photography emphasises the garments.'],
+      ['Design', 'Burgundy, warm ivory and dark text create a restrained fashion identity. Large serif headings contrast with practical navigation and product labels; tall photography emphasises the garments.'],
       ['Development', 'A custom WordPress/WooCommerce storefront includes variable products, catalogue filters, coupon settings and UAE shipping. The local demo supports guest checkout and simulated payment outcomes.'],
       ['Challenges', 'Per-size stock, unavailable variations and shipping thresholds after discounts need clear states. Product images also need consistent proportions without cropping away important garment details.'],
       ['Result', 'A responsive boutique interface and a working local commerce demo. The public site showcases the design and catalogue; account and checkout services are not available on the static preview. Products and policies are illustrative.'],
