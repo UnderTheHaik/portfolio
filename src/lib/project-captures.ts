@@ -6,6 +6,8 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
 
 const pages: Record<string, [string, string][]> = {
  'nourish-and-move': [['home','Health coaching homepage']],
+ 'hayaa-shopify': [['home', 'Shopify homepage']],
+ 'royale-shopify': [['home', 'Shopify homepage']],
  'sahra-studio': [['home','Fashion storefront']],
  'fern-and-flour': [['home','Café homepage']],
  'lune-and-lather': [['home','Oat & Shea campaign'], ['collection','Charcoal & Cedar'], ['ritual','Botanical Trio']],
